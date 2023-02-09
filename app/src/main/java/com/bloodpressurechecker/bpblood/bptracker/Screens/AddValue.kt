@@ -329,9 +329,9 @@ fun AddValue(
 
                             viewModel2.kayit(
                                 0,
-                                state1.value,
-                                state2.value,
-                                state3.value,
+                                if (state1.value == 0)110 else state1.value,
+                                if (state2.value == 0)110 else state2.value,
+                                if (state3.value == 0)110 else state3.value,
                                 currentDateAndTime
                             )
 
@@ -411,7 +411,7 @@ fun SimpleNumberPicker(
         factory = { context ->
             NumberPicker(context).apply {
                 setOnValueChangedListener { numberPicker, i, i2 ->
-                    onValueChange(i)
+                    onValueChange(numberPicker.value)
                 }
                 minValue = min
                 maxValue = max

@@ -61,7 +61,7 @@ fun InformationsScreen(navController: NavController) {
 
         Text(
             text = stringResource(id = R.string.bilgiler),
-            color = Color.Black,
+            color = MaterialTheme.colors.onSecondary,
             fontWeight = FontWeight.ExtraBold,
             fontSize = 22.sp,
             modifier = Modifier.padding(start = 20.dp, bottom = 20.dp)
