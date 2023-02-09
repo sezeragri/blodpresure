@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Blood Pressure</string>
+    <string name="ana_giris">RUMAH</string>
+    <string name="tansiyonum">Tekanan Darah Saya</string>
+    <string name="en_son">TERBARU</string>
+    <string name="buyuk_tansiyon">Sistolik</string>
+    <string name="kucuk_tansiyon">Diastolik</string>
+    <string name="nabiz">Detak</string>
+    <string name="tum_kayitlar">Semua Catatan</string>
+    <string name="ekle">Add</string>
+    <string name="ortalama">Rata-rata</string>
+    <string name="tansiyon_bilgileri">Informasi Tekanan Darah</string>
+    <string name="daha">Lagi</string>
+    <string name="izleyici">PELACAK</string>
+    <string name="kayitlar">Catatan</string>
+    <string name="hipotansiyon">Hipotensi</string>
+    <string name="normal">Normal</string>
+    <string name="yüksek">Tinggi</string>
+    <string name="hipertansiyonbirinciasama">Hipertensi. Tahap 1</string>
+    <string name="hipertansiyonikinciasama">Hipertensi. Tahap 2</string>
+    <string name="hipertansif">Hipertensi</string>
+    <string name="gecmis">Masa lalu</string>
+    <string name="hipertansiyonayonelikyasam">Efek Hipertensi Yang Harus Anda Ketahui</string>
+    <string name="lifestyle">Pengobatan Gaya Hidup untuk Hipertensi</string>
+    <string name="first_aid">Pertolongan Pertama untuk Keadaan Darurat Hipotensi</string>
+    <string name="hypotension_diagons">Diagnosis Hipotensi dan Perawatan Medis</string>
+    <string name="exercises">Latihan untuk Mengontrol Hipertensi</string>
+    <string name="alltoknow">Semua untuk Tahu Tentang Hipotensi</string>
+    <string name="medications">Obat untuk Hipertensi</string>
+    <string name="Bp">BP Kesalahpahaman dan Mitos</string>
+    <string name="hypertension_types">Jenis dan Gejala Hipertensi</string>
+    <string name="topmistakes">Kesalahan Teratas Saat Mengukur BP</string>
+    <string name="first_aid_hypertensive">Pertolongan Pertama untuk Hipertensi Darurat</string>
+    <string name="whoe_needs">Yang Membutuhkan Pengukuran Bp Rumah</string>
+    <string name="faq">FAQ - Mengapa tidak menyediakan pengukuran BP di aplikasi kami</string>
+    <string name="understanding">Memahami Angka BP</string>
+    <string name="master">Pengukuran BP Rumah Master</string>
+    <string name="risk">Faktor Risiko Hipertensi</string>
+    <string name="tarih">Tanggal</string>
+    <string name="bilgiler">INFO DAN PENGETAHUAN</string>
+    <string name="tarihvesaat">Tanggal dan waktu</string>
+    <string name="not">Catatan </string>
+    <string name="kaydet">MENYIMPAN </string>
+    <string name="yenirekor">Rekor baru</string>
+    <string name="bilgi">INFO </string>
+
+    <string name="hipertansiyon_egzersiz">Mencari cara bebas obat untuk pencegahan primer, pengobatan dan pengendalian hipertensi Maka Anda telah datang ke tempat yang tepat. Artikel ini akan memperkenalkan latihan fisik yang akan membantu menurunkan tekanan darah. Tambahkan mereka ke rutinitas harian Anda dan Anda dapat melihat seberapa besar perbedaannya. </string>
+    <string name="aerobik_egzersiz"> Latihan aerobik</string>
+    <string name="aerobik_egzersiz_tanim">Sebagai modalitas utama pada hipertensi; Latihan aerobik yang melibatkan kelompok otot besar, yang dapat dipertahankan dan berirama dapat digunakan. Latihan aerobik telah lama menjadi metode penting dalam pencegahan dan pengobatan penyakit khas seperti diabetes melitus yang tidak tergantung insulin, hipertensi, penyakit jantung dan osteoporosis yang terjadi seiring bertambahnya usia. Berjalan, joging, dan bersepeda telah dicoba sebagai latihan ketahanan. Faktor yang memperpanjang waktu latihan penting dalam preferensi pribadi untuk pilihan latihan. Jenis latihan yang memastikan durasi latihan selama mungkin harus dipilih. </string>
+    <string name="aerobik_egzersiz_nekadar">BERAPA BANYAK latihan aerobik yang kita butuhkan </string>
+    <string name="aerobik_egzersiz_nekadar_tanim">Frekuensi latihan aerobik antara 3 dan 5 hari dalam seminggu telah ditetapkan efektif dalam menurunkan tekanan darah. Dalam sejumlah studi yang menyarankan 7 sesi per minggu, mereka melaporkan bahwa itu mungkin lebih efektif daripada studi yang dilakukan 3 sesi per minggu. Secara umum, mereka yang memiliki kapasitas latihan rendah mendapat manfaat dari latihan intensitas dan durasi rendah yang diterapkan beberapa kali sehari, sedangkan mereka yang memiliki kapasitas latihan tinggi mendapat manfaat dari latihan terus menerus 3 sampai 5 hari seminggu. American College of Sports Medicine (ACSM) merekomendasikan latihan aerobik, sebaiknya sepanjang hari dalam seminggu </string>
+    <string name="aerobik_ornek_baslik">CONTOH aktivitas aerobik yang menggunakan kelompok otot besar</string>
+    <string name="aerobik_ornekler">. Naik tangga. berjalan . Joging . Sepeda. berenang. Menari</string>
+    <string name="direnc"> Latihan ketahanan</string>
+    <string name="direnc_tanim">Latihan kekuatan (seperti angkat berat) umumnya tidak disarankan untuk penderita hipertensi. Namun, latihan ini sangat penting pada orang tua, karena hilangnya massa otot dan kelemahan menyebabkan kerusakan yang signifikan. Ketika kontrol tekanan darah diberikan dan edukasi pasien diberikan dengan baik, latihan penguatan dianjurkan untuk digunakan bersamaan dengan latihan aerobik yang memperkuat daya tahan sistem kardiovaskular.</string>
+    <string name="direnc_onlem">PENGUKURAN </string>
+    <string name="direnc_onlem_tanim">Latihan kekuatan sebagian besar diterapkan pada kelompok otot utama. Latihan isometrik harus dihindari. Postur orang tersebut dan jumlah beban yang diangkat harus diikuti. Anda tidak boleh menahan napas selama latihan. Latihan penguatan multi repetisi dengan resistensi rendah direkomendasikan. Sementara ACSM merekomendasikan latihan penguatan untuk kelompok otot besar 2 atau 3 kali seminggu, 3 set, 8 atau 15 repetisi yang melibatkan 8,10 kelompok otot, untuk individu paruh baya yang hipertensi; merekomendasikan latihan penguatan untuk kelompok otot besar 2 atau 3 kali seminggu, 1 set, 8 atau 15 repetisi yang melibatkan 8,10 kelompok otot. Beban dapat ditingkatkan secara bertahap, dimulai dengan 40 hingga 60 persen dari berat pengulangan maksimum yang ditentukan (intensitas sedang). Peningkatan kekuatan otot dapat meningkatkan kapasitas banyak individu untuk melakukan aktivitas seperti menaiki tangga dan berjalan. </string>
+    <string name="ekipman">CONTOH pelatihan ketahanan dengan peralatan </string>
+    <string name="ekipman_ornekler">. Tekan dada. Tekanan bahu. Ekstensi trisep. Bisep keriting. Tarik ke bawah. Ekstensi punggung bawah. pesawat ulang-alik. Ikal kaki .Gerakan pembentukan otot betis </string>
+    <string name="esneklik"> Pelatihan fleksibilitas</string>
+    <string name="essnekliktanim">Latihan atau peregangan fleksibilitas sederhana bermanfaat untuk penderita hipertensi. Saat Anda meregangkan otot dan persendian, sebenarnya Anda meregangkan pembuluh darah dan arteri serta mengurangi aliran darah dan kekakuan. Saatnya menambahkan peregangan ke rutinitas olahraga Anda.</string>
+    <string name="esneklikkactane">Berapa banyak latihan fleksibilitas yang kita butuhkan</string>
+    <string name="esneklikkactanetanim">Menurut penelitian, melakukannya 2 hingga 5 hari seminggu dapat menurunkan tekanan darah. Sementara itu, penting untuk menjaga setiap latihan antara 10 dan 30 detik untuk memastikan keuntungan.</string>
+    <string name="esneklikornekbaslik">CONTOH fleksibilitas meregang</string>
+    <string name="esneklikornek">. Yoga. Pilates</string>
+
+
+
+    <string name="hipertansiyongiris">Melawan kualitas senyap adalah komitmen seumur hidup. Jangan hanya mengandalkan obat obatan dan membuat beberapa perubahan untuk menyelamatkan jantung Anda. Dengan mengikuti gaya hidup sehat jantung dalam artikel ini, Anda bisa mendapatkan nomor Anda kembali ke tempat yang seharusnya. Mari ambil langkah untuk menurunkan tekanan darah dan meningkatkan kehidupan sehari hari.</string>
+    <string name="title1">Stres psikologis dan teknik relaksasi</string>
+    <string name="title1tanim">Stres emosional dapat menyebabkan peningkatan akut tekanan darah. Pendekatan kognitif dan perilaku seperti biologis dan umpan balik, yoga, meditasi transendental, dan psikoterapi dapat memberikan penurunan tekanan darah jangka pendek dan jangka pendek. Namun, efek menguntungkan jangka panjang dari metode ini tidak diketahui. Sebuah studi telah menunjukkan bahwa terapi pencegahan stres tidak efektif dalam mencegah hipertensi. Tidak ada bukti yang menunjukkan bahwa obat penenang dan obat penenang mengurangi tekanan darah.</string>
+    <string name="title2"> Aktivitas fisik</string>
+    <string name="title2tanim">Risiko terkena hipertensi pada orang yang menjalani gaya hidup kurang gerak adalah 20 sampai 50 persen lebih tinggi daripada mereka yang melakukan aktivitas fisik secara teratur. Pada penderita hipertensi yang melakukan olahraga aerobik (isotonik) secara teratur, terjadi penurunan tekanan darah sistolik sebesar 4 sampai 8 mmHg. Penderita hipertensi minimal 3 sampai 4 kali seminggu mencapai 60 sampai 70 persen dari target detak jantung selama 30 sampai 45 menit. Mereka harus berjalan cepat. Jenis olahraga ini lebih efektif daripada berlari atau joging. Latihan isometrik tidak cocok untuk penderita hipertensi. Penggunaan obat antihipertensi tidak dikontraindikasikan untuk latihan isotonik. Bagi mereka yang menggunakan beta blocker, mencapai 50 persen dari target detak jantung mungkin sudah cukup. Kekakuan arteri menurun pada mereka yang melakukan latihan aerobik secara teratur, sementara kepatuhan arteri sistemik total, sekresi EDRF, dan sensitivitas insulin meningkat. Mekanisme ini berperan dalam menurunkan tekanan darah.</string>
+    <string name="title3">Penggunaan alkohol</string>
+    <string name="title3tanim">Prevalensi hipertensi tinggi pada orang yang jumlah etil alkoholnya melebihi 28 hingga 55 g per hari. Ini termasuk peningkatan tekanan darah akut. Pada orang-orang ini, alkohol mengurangi efek obat antihipertensi dan meningkatkan risiko stroke. Tekanan darah tinggi dapat dideteksi pada awal minggu karena penghentian alkohol akut pada peminum alkohol berat (5 kali lipat atau lebih) selama akhir pekan. Penggunaan alkohol dalam jumlah kecil setiap hari dikaitkan dengan mortalitas dan morbiditas penyakit arteri koroner yang lebih rendah daripada tidak menggunakan alkohol atau lebih. Konsumsi alkohol harus dibatasi hingga 60 ml wiski, 300 ml anggur, atau 720 ml bir per hari. Karena efek alkohol mungkin lebih tinggi pada orang kurus, wanita harus menggunakan alkohol lebih sedikit dari nilai yang ditentukan, karena penyerapan etil alkohol lebih tinggi pada wanita daripada pria.</string>
+    <string name="title4">Asupan magnesium</string>
+    <string name="title4tanim">Studi menunjukkan tingginya prevalensi hipertensi pada mereka yang menjalani diet rendah magnesium. Namun, hubungan ini tidak pada tingkat yang membutuhkan asupan magnesium untuk menurunkan tekanan darah. 50 persen penderita hipertensi yang menerima terapi diuretik kronis memiliki kadar magnesium otot yang rendah. Kekurangan magnesium juga bertanggung jawab atas hipokalemia yang tidak membaik dengan suplementasi kalium. Pada pasien ini, pemberian harian 15 mmol Mg dapat menurunkan tekanan darah, membantu memperbaiki hipokalemia, dan secara positif memengaruhi metabolisme glukosa.</string>
+    <string name="title5">Asupan kalsium</string>
+    <string name="title5tanim">Penelitian epidemiologi menunjukkan hasil yang bertentangan tentang hubungan antara tingkat tekanan darah dan asupan kalsium. Pemberian kalsium 1 g per hari menyebabkan penurunan tekanan darah sistolik yang sangat minimal dan tekanan darah diastolik tidak berubah. Namun, efek ini tidak memerlukan peningkatan asupan kalsium untuk pencegahan atau pengobatan hipertensi. Meningkatkan asupan kalsium semakin meningkatkan hiperkalsiuria yang sudah ada pada hipertensi, yang dapat menyebabkan batu ginjal dan infeksi saluran kemih</string>
+    <string name="title6">Asupan kalium</string>
+    <string name="title6alim">Diet, sekitar 90 mmol potasium per hari dari buah dan sayuran segar menurunkan tekanan darah pada penderita hipertensi. Dalam uji klinis terkontrol acak, penurunan ini adalah 4,4 mmHg pada tekanan darah sistolik dan 2,4 mmHg pada tekanan darah diastolik. Penggunaan kalium sitrat atau kalium bikarbonat memberikan penurunan tekanan darah lebih banyak daripada kalium klorida. Efek penurunan tekanan darah dari potasium dapat dikurangi ketika diet yang dibatasi natrium digunakan. Perhatian harus dilakukan dalam penggunaan kalium pada pasien dengan gagal ginjal yang menggunakan penghambat ACE atau antagonis reseptor A II. Kalium; Ini menyebabkan peningkatan aktivitas Na dan K ATP vaskular dan relaksasi vaskular terkait, penurunan resistensi vaskular ginjal dan peningkatan laju filtrasi glomerulus, dan ini menunjukkan efek penurunan tekanan darahnya melalui mekanisme ini.</string>
+    <string name="title7">Pembatasan garam</string>
+    <string name="title7alim">Istilah garam dan natrium jangan dikacaukan. Klorida meningkatkan efek natrium. Natrium dikonsumsi bersama makanan, kebanyakan dalam bentuk garam meja. Ketika natrium diambil dalam bentuk lain (seperti Na bikarbonat), efek peningkatan tekanan darah tidak banyak. Dalam klinis, studi acak, ketika asupan natrium dibatasi menjadi 80 sampai 100 mmol (4,7 sampai 5,8 g) per hari pada pasien hipertensi, penurunan 4,8, 1 mmHg tekanan darah sistolik, dan 2.5.0.7 mmHg tekanan darah diastolik adalah diamati (64). Pembatasan garam harus diterapkan selama rata-rata 5 minggu untuk memastikan tekanan darah rendah. Efek ini lebih jelas pada hipertensi lanjut usia. Pasien disarankan untuk mengonsumsi kurang dari 100 mmol (5,8 g) natrium per hari atau kurang dari 6 g NaCl (garam) per hari. Sebagian besar natrium diet berasal dari makanan olahan. Makanan seperti itu harus dihindari dan pengocok garam tidak boleh digunakan di atas meja. Pembatasan natrium meningkatkan efek obat antihipertensi. Efek ini tidak terlihat karena penghambat saluran kalsium memiliki sifat natriuretik intrinsik. Namun, efek antiproteinurik dari penghambat saluran kalsium meningkat. Asupan garam 15 sampai 20 g per hari dapat mengurangi efek antihipertensi dari diuretik. Pembatasan natrium mengurangi kehilangan kalium karena diuretik, mengurangi hipertrofi ventrikel kiri, melindungi dari osteoporosis, dan melemaskan otot polos vaskular dan bronkial. Jika pembatasan natrium di bawah 10 hingga 20 mmol per hari, terjadi peningkatan katekolamin plasma, LDL dan trigliserida, serta resistensi insulin.</string>
+    <string name="title8">Berhenti merokok</string>
+    <string name="title8alim">15 sampai 30 menit setelah setiap batang rokok. peningkatan tekanan darah akut. Meskipun tidak terdeteksi dalam praktik klinis, peningkatan dalam pengukuran tekanan darah rawat jalan 24 jam telah dibuktikan. Merokok merupakan faktor yang meningkatkan risiko kardiovaskular 2 sampai 3 kali lipat. Efek positif kardiovaskular terlihat dalam waktu satu tahun setelah berhenti merokok tembakau. Merokok merusak profil lipid, meningkatkan resistensi insulin, meningkatkan massa ventrikel kiri, dan menurunkan vasodilatasi arteri yang bergantung pada endotelium. Tidak ada penelitian yang menunjukkan bahwa berhenti merokok saja dapat menurunkan tekanan darah. Namun, penghentian merokok diperlukan untuk mencegah resistensi terhadap terapi obat pada hipertensi dan untuk mengurangi risiko kardiovaskular. Patch nikotin tidak meningkatkan tekanan darah dan dapat digunakan untuk berhenti merokok. Efek semprotan hidung nikotin pada tekanan darah tidak diketahui.</string>
+    <string name="title9">Kegemukan</string>
+    <string name="title9alim">Ada korelasi antara indeks massa tubuh (BMI) 27 atau lebih dan tekanan darah tinggi. Hipertensi obesitas memiliki insiden dislipidemia, resistensi insulin, kejadian kardiovaskular, dan diabetes mellitus yang lebih tinggi. Penurunan berat badan 5 kg pada awalnya menyebabkan penurunan tekanan darah yang signifikan pada sebagian besar pasien hipertensi. Dalam studi klinis terkontrol, telah ditunjukkan bahwa 1 kg penurunan berat badan menghasilkan penurunan tekanan darah sistolik dan diastolik sebesar 1,6 mmHg dan 1,3 mmHg. Jika latihan fisik diterapkan bersamaan, penurunan tekanan darah meningkat. Obat anoretik harus dihindari karena dapat meningkatkan tekanan darah dan menyebabkan hipertensi pulmonal. Dengan penurunan berat badan, jumlah dan dosis obat antihipertensi dapat dikurangi. Kontrol tekanan darah rawat jalan telah menunjukkan bahwa diet kaya buah-buahan, sayuran, minyak ikan, dan makanan berserat dapat menurunkan 4,5 mmHg tekanan darah sistolik dan 2,7 mmHg tekanan darah diastolik. Penurunan berat badan awalnya menyebabkan natriuresis intens, dan kemudian menurunkan tekanan darah dengan penurunan aktivitas simpatik dan peningkatan sensitivitas insulin, yang menyebabkan tekanan darah rendah jangka panjang.</string>
+
+
+
+    <string name="yanlisanlama">Anda dapat mendengar segala macam mitos tentang tekanan darah. Mempercayai mitos mitos ini benar benar dapat merusak kontrol tekanan darah Anda dan bahkan memperburuk kondisi Anda. Di bawah ini adalah 9 kesalahpahaman umum tentang tekanan darah. Lihat yang berikut ini dan jangan percaya.</string>
+    <string name="yanlisanlamatitle1">Jika tekanan darah naik tiba tiba, itu harus diturunkan ke normal.</string>
+    <string name="yanlisanlamatitle1tanim">Menurunkan tekanan darah dalam waktu singkat (dengan obat intravena atau beberapa obat sublingual) sangat berbahaya, terutama pada orang tua, kecuali untuk beberapa kasus khusus. Ini menyebabkan masalah serius dengan mengganggu aliran darah ke otak. Dalam kasus seperti itu, konsultasikan dengan dokter Anda.</string>
+    <string name="yanlisanlamatitle2">Tidak ada hipertensi pada orang muda</string>
+    <string name="yanlisanlamatitle2tanim">Hipertensi dapat terjadi pada semua usia dan berbahaya pada semua usia.</string>
+    <string name="yanlisanlamatitle3">Saya tidak ada keluhan jadi tekanan darah saya normal</string>
+    <string name="yanlisanlamatitle3tanim">Keyakinan bahwa tekanan darah tinggi tidak penting tanpa adanya keluhan sangatlah salah. Lebih berbahaya jika tekanan darah tinggi tidak menimbulkan keluhan pada penderita. Karena pasien tidak memiliki keluhan apapun, pasien tidak memperhatikan tekanan darah tinggi atau tidak memikirkan penyakitnya. Meski tidak menimbulkan keluhan, tekanan darah tinggi selalu berbahaya dan menyebabkan kerusakan organ target seperti jantung, ginjal, mata, dan otak.</string>
+    <string name="yanlisanlamatitle4">Makanan tanpa garam tidak memiliki rasa sama sekali.</string>
+    <string name="yanlisanlamatitle4tanim">Ambang batas garam dari tubuh penginderaan garam di lidah orang yang terus menerus makan makanan asin atau menambahkan garam ke makanan mereka meningkat, dan mereka bahkan menganggap makanan asin biasa sebagai tidak asin. Namun, pengecap dapat dilatih: Jika Anda makan lebih sedikit garam, setelah beberapa minggu, makanan akan terasa "asin normal" bagi Anda. Bahkan hidangan "asin normal" menjadi "terlalu asin". Karena itu, kebiasaan makanan asin bisa diubah. Apalagi, terlalu banyak garam menutupi perbedaan rasa pada masakan yang tidak terlalu dominan. Dengan makan lebih sedikit garam, Anda dapat merasakan rasa yang berbeda ini dan mendapatkan lebih banyak kesenangan saat makan.</string>
+    <string name="yanlisanlamatitle5">Terutama orang tua harus berhati-hati dengan garam.</string>
+    <string name="yanlisanlamatitle5tanim">Makan terlalu banyak garam dapat meningkatkan tekanan darah bagi orang orang dari segala usia. Saat ini, angka kejadian tekanan darah tinggi (hipertensi) pada usia 30 an dan 40 an cukup tinggi.</string>
+    <string name="yanlisanlamatitle6">Garam mahal lebih sehat.</string>
+    <string name="yanlisanlamatitle6tanim">Garam mengandung natrium klorida (NaCl), dan natrium (Na) yang meningkatkan tekanan darah. Tidak masalah dari mana garam itu berasal (laut, bawah tanah, dll.) Atau bagaimana garam itu dibuat (kristal, bubuk, kasar). Lagi pula, semuanya mengandung natrium klorida.</string>
+    <string name="yanlisanlamatitle7">Saya bisa mengerti jika tekanan darah saya tinggi.</string>
+    <string name="yanlisanlamatitle7tanim"> Banyak orang dengan tekanan darah tinggi tidak memiliki keluhan. Oleh karena itu, tekanan darah tinggi tidak dapat diketahui kecuali diukur.</string>
+    <string name="yanlisanlamatitle8">Saya bisa menggunakan garam makanan sebanyak yang saya mau daripada garam biasa.</string>
+    <string name="yanlisanlamatitle8tanim">Garam diet sering kali mengandung kalium klorida (KCl), yang memberi rasa garam. Orang lain mungkin juga menambahkan garam biasa ke dalamnya. Kalium klorida mungkin berbahaya pada pasien ginjal. Oleh karena itu, Anda harus menggunakan garam makanan hanya jika dianjurkan oleh dokter Anda.</string>
+    <string name="yanlisanlamatitle9">Garam himalaya menyehatkan</string>
+    <string name="yanlisanlamatitle9tanim">Garam yang diklaim menyehatkan ini juga mengandung natrium klorida seperti yang kita kenal.</string>
+
+
+
+    <string name="hpacil">Pada artikel kali ini, saya akan mencoba memberikan informasi tentang tekanan darah tinggi, gejala tekanan darah tinggi, apa yang harus dilakukan pada tekanan darah tinggi. Saya juga mencoba untuk menuliskan apa yang dapat Anda lakukan segera ketika tekanan darah tinggi mengancam jiwa ketika menjadi terlalu tinggi. Pengingat, Nomor darurat 112.</string>
+    <string name="hpacil1">Respon darurat</string>
+    <string name="hpacil1tanim">Jika tekanan darah Anda lebih besar atau lebih dari 180 mm Hg atau kecil 120 mm Hg, tetapi tidak ada tanda-tanda kerusakan pada organ vital, seharusnya tidak ada gejala ini, mual dan muntah, nyeri dada, sesak napas, nyeri punggung yang parah, kelemahan, gangguan penglihatan, kesulitan berbicara, kecemasan berat, kejang, tidak responsif. Anda berada di kelas ini. Mungkin dokter Anda mungkin perlu melakukan beberapa penyesuaian pada pengobatan Anda. Namun, Anda mungkin perlu dirawat sebagai pasien rawat inap di rumah sakit. Bahkan jika Anda berada di kelas ini, Anda pasti harus pergi ke rumah sakit.</string>
+    <string name="hpacil2">Perawatan rumah sakit darurat</string>
+    <string name="hpacil2tanim">Jika tekanan darah Anda, tekanan darah sistolik 180 atau kurang dari 120 atau lebih, dan ada tanda-tanda kerusakan pada organ vital, bahkan salah satu dari gejala ini sudah cukup. Mual dan muntah, nyeri dada, sesak napas, sakit punggung parah , kelemahan , gangguan penglihatan , kesulitan berbicara , kecemasan berat , kejang , tidak responsif termasuk dalam kelas ini dan segera hubungi ambulans.</string>
+    <string name="hpacil3">Anda harus mengukur tekanan darah Anda dengan benar.</string>
+    <string name="hpacil3tanim">Jika pasien tidak mengalami sakit kepala atau nyeri dada, Anda harus mengulangi pengukuran beberapa kali. Terkadang pengukuran yang salah dapat dilakukan dengan tergesa gesa.</string>
+    <string name="hpacil4">Tetap tenang dan tenangkan pasien dan buka kancing kemeja dengan melonggarkan dasi atau ikat pinggang yang ketat.</string>
+    <string name="hpacil4tanim">Jika Anda telah mencapai nilai tekanan darah diastolik 180 mm Hg tinggi atau 120 mm Hg setelah mengulangi beberapa kali, Anda memiliki masalah. Pertama, Anda perlu menenangkan pasien. Jika ada lingkungan yang tegang, jauhkan pasien. Sementara itu, sangat penting bagi Anda untuk tetap tenang. Jika pasien marah atau sangat kesal tentang sesuatu, Anda bisa mengatakan hal hal yang menenangkan. Longgarkan aksesori yang ketat, seperti ikat pinggang dan dasi. Juga, bebaskan pasien dengan membuka beberapa kancing baju.</string>
+    <string name="hpacil5">Minta dia menarik napas dalam-dalam 6 kali dalam 30 detik</string>
+    <string name="hpacil5tanim">Setelah dikeluarkan dari lingkungan, tempatkan pasien di tempat yang sejuk dan nyaman dan biarkan mereka menarik napas dalam 6 kali dalam 30 detik. Eksperimen menunjukkan bahwa latihan pernapasan dalam dapat menurunkan tekanan darah tinggi sebanyak 10 poin. Sistem otonom mulai bekerja dalam sistem parasimpatis.</string>
+    <string name="hpacil6">Pastikan bahwa pasien meminum obat tekanan darah yang digunakannya.</string>
+    <string name="hpacil6tanim">Jika seorang pasien sedang dalam pengobatan untuk tekanan darah tinggi, minta dia meminumnya. Jika tekanan darah pasien di atas 140 hingga 90 (tekanan darah sistolik 140, tekanan darah diastolik 90) dan jika ada gejala seperti mual dan muntah, nyeri dada, sesak napas, nyeri punggung yang parah, kelemahan, gangguan penglihatan, kesulitan berbicara, kecemasan berat, kejang, tidak responsif, minum obat. harus segera meminumnya dan segera pergi ke rumah sakit.</string>
+    <string name="hpacil7">Cobalah untuk menghubungi dokter pasien.</string>
+    <string name="hpacil7tanim">Coba hubungi dokter pasien dengan cepat melalui telepon dan ikuti petunjuknya. Pada umumnya dokter menggunakan obat dengan 1 tablet Clonidine 75 mcg oral atau Captopril 25 mg untuk menurunkan tekanan darah. Diletakkan di bawah lidah agar obat dengan bahan aktif ini bisa bekerja lebih cepat. Jika Anda bukan seorang dokter, jangan pernah memberikan obat kepada pasien menurut diri Anda sendiri.</string>
+    <string name="hpacil8">Bawa pasien ke rumah sakit.</string>
+    <string name="hpacil8tanim">Meskipun tekanan darah mulai tenang dan turun, pasien harus segera ke dokter.</string>
+    <string name="hpacil9">Pemeriksaan rutin</string>
+    <string name="hpacil9tanim">Jaga pengukuran tekanan darah secara berkala, itu akan baik untuk Anda. </string>
+
+
+
+    <string name="hipoacil">Ada metode pengobatan yang baik untuk tekanan darah rendah. Untuk menjelaskan secara medis, ini terkait dengan tekanan yang diberikan oleh darah di dalam arteri. Tekanan darah rendah yang memiliki gejala seperti mual dan pingsan ini dikenal sebagai gangguan yang bisa dialami oleh semua kalangan usia. Itu terjadi dalam situasi seperti berdiri lama dan lapar. Jadi, apa yang baik untuk menurunkan tekanan darah</string>
+    <string name="hipoacil1">Tetap terhidrasi</string>
+    <string name="hipoacil1tanim">Coba minum 8 sampai 10 gelas air sehari. Sebarkan konsumsi air Anda sepanjang hari. Lebih memperhatikan hal ini, terutama dalam cuaca panas. Mengkonsumsi air akan meningkatkan volume darah dan mencegah tekanan darah turun.</string>
+    <string name="hipoacil2">Perbanyak konsumsi garam</string>
+    <string name="hipoacil2tanim">Sudah diketahui umum bahwa pembatasan garam direkomendasikan bagi mereka yang memiliki tekanan darah tinggi; karena garam menyebabkan retensi air dalam tubuh, meningkatkan tekanan darah. Kebalikannya juga benar: orang dengan tekanan darah rendah juga dapat meningkatkan asupan garamnya, membuat tekanan darahnya sedikit lebih tinggi. Normalnya, konsumsi garam harian yang dianjurkan adalah 1 sendok teh. Pada penderita tekanan darah rendah, konsumsi garam sebaiknya ditingkatkan menjadi 2,5 atau 3 sendok teh per hari, tergantung kebutuhan.</string>
+    <string name="hipoacil3">Gunakan lebih sedikit alkohol</string>
+    <string name="hipoacil3tanim">Alkohol akan menurunkan tekanan darah karena melemaskan pembuluh darah. Juga, beberapa alkohol mengeringkan tubuh karena meningkatkan produksi urin. Oleh karena itu, jika Anda mengonsumsi alkohol, berhati-hatilah untuk membatasi dan membawa banyak air.</string>
+    <string name="hipoacil4">Hindari panas</string>
+    <string name="hipoacil4tanim">Cuaca panas, lingkungan panas seperti sauna hammam, mandi air panas, seperti berpakaian sangat hangat. Ini menurunkan tekanan darah Anda dengan mengendurkan pembuluh darah Anda dan juga menyebabkan hilangnya cairan dari tubuh melalui keringat.</string>
+    <string name="hipoacil5">Kenakan stoking kompresi</string>
+    <string name="hipoacil5tanim"> Stoking ini dijual dengan berbagai tekanan dan panjang sesuai kebutuhan, membungkus kaki dengan rapat dan mencegah darah menggenang di kaki, sehingga memudahkan darah kembali ke jantung. Anda bisa mendapatkan banyak manfaat, terutama jika Anda tahu bahwa Anda akan berdiri dalam waktu lama atau jika Anda memiliki varises.</string>
+    <string name="hipoacil6">Angkat kepala tempat tidur Anda</string>
+    <string name="hipoacil6tanim">Meninggikan kepala tempat tidur setinggi 10 hingga 15 cm menyebabkan beberapa mekanisme rumit yang memengaruhi aliran darah ke otak dan ginjal, dan tekanan darah rendah serta keluhan terkait menjadi lebih baik. Yang penting di sini adalah mengangkat tidak hanya kepala, tetapi juga bagian atas batang tubuh.</string>
+    <string name="hipoacil7">Makan sering dan sedikit demi sedikit</string>
+    <string name="hipoacil7tanim">Makan makanan dalam jumlah besar mengalihkan aliran darah tubuh ke saluran pencernaan, menurunkan tekanan darah dan mengurangi aliran darah ke otak.</string>
+    <string name="hipoacil8">Luruskan secara bertahap</string>
+    <string name="hipoacil8tanim">Jangan terburu-buru saat bangun tidur atau bangun setelah duduk lama. Berikan waktu bagi tubuh untuk mengatur ketegangan dengan duduk terlebih dahulu, menggerakkan kaki.</string>
+    <string name="hipoacil9">Hubungi dokter</string>
+    <string name="hipoacil9tanim">Jika keluhan Anda begitu parah dan sering sehingga memengaruhi kehidupan sehari-hari, jika Anda tidak dapat mengatasinya sendiri, konsultasikan dengan dokter. Mungkin dokter Anda dapat membantu dengan mendeteksi dan mengobati beberapa masalah seperti anemia, kekurangan vitamin-mineral, gangguan hormonal. Atau Anda mungkin merasa pantas menggunakan obat atau suplemen yang meningkatkan tekanan darah.</string>
+
+
+
+
+    <string name="hiperetki">Hipertensi dapat menyebabkan masalah penting lainnya jika tindakan pencegahan tidak dilakukan. Meski bahayanya begitu besar, namun kesadaran masyarakat terhadap hipertensi masih kurang.</string>
+    <string name="hiperetki1">Hubungan serangan jantung</string>
+    <string name="hiperetki1tanim">Hipertensi yang tidak terkontrol adalah salah satu faktor risiko terpenting dalam penyempitan dan penyumbatan pembuluh koroner yang memberi makan otot jantung. Dalam kasus ini, nyeri dada, rasa tidak nyaman di dada, dan sesak napas, yang terjadi akibat aliran darah yang kaya oksigen tidak mencukupi untuk memberi makan jantung, menonjol sebagai gejala serangan jantung yang paling umum.</string>
+    <string name="hiperetki2">Stroke</string>
+    <string name="hiperetki2tanim">Tekanan darah tinggi yang tidak terkontrol dapat menyebabkan pembuluh otak rusak, menyempit dan pecah-pecah. Selain itu, penggumpalan yang merupakan salah satu faktor penyebab tekanan darah tinggi juga dapat menyebabkan stroke saat arteri serebral tersumbat.</string>
+    <string name="hiperetki3">Gagal jantung</string>
+    <string name="hiperetki3tanim">Saat terjadi tekanan darah tinggi, otot jantung menebal untuk memompa darah ke seluruh tubuh. Seiring waktu, otot jantung yang menebal tidak dapat menjalankan fungsinya untuk memompa cukup darah dan terjadi gagal jantung.</string>
+    <string name="hiperetki4">Masalah memori</string>
+    <string name="hiperetki4tanim">Kerusakan yang disebabkan oleh tekanan darah tinggi pada pembuluh otak berdampak negatif pada memori, kemampuan berpikir dan berbicara.</string>
+    <string name="hiperetki5">Asosiasi penyakit ginjal</string>
+    <string name="hiperetki5tanim">Kemampuan ginjal menyaring limbah dari darah; itu membutuhkan pembuluh darah yang sehat untuk menjaga keseimbangan cairan, hormon, garam dan asam secara teratur. Karena itu, gangguan sistem ini akibat tekanan darah tinggi menyebabkan berbagai penyakit ginjal. Tubuh juga semakin sulit untuk mengatur tekanan darah</string>
+    <string name="hiperetki6">Penyakit pembuluh darah perifer</string>
+    <string name="hiperetki6tanim">Jika aliran darah terpengaruh akibat arteriosklerosis di pembuluh darah kaki, nyeri, kram, dan mati rasa dapat terjadi di kaki dan tungkai.</string>
+    <string name="hiperetki7">Penebalan, penyempitan pembuluh mata</string>
+    <string name="hiperetki7tanim">Jika tekanan darah tinggi tidak diobati, dapat merusak pembuluh halus yang mengarah ke retina mata; Hasilnya dapat menyebabkan masalah penglihatan pada tingkat yang berbeda, hingga kehilangan penglihatan permanen. Tekanan darah yang tidak terkontrol, yang juga menyebabkan stroke, juga dapat menyebabkan kehilangan penglihatan.</string>
+    <string name="hiperetki8">Disfungsi seksual</string>
+    <string name="hiperetki8tanim">Studi ilmiah; mengungkapkan bahwa disfungsi seksual lebih sering terjadi pada pria dan wanita dengan tekanan darah tinggi dibandingkan pada orang tanpa hipertensi.</string>
+    <string name="hiperetki9">Aneurisma aorta</string>
+    <string name="hiperetki9tanim">Akibat tekanan darah tinggi akibat hipertensi dan melemahnya dinding pembuluh darah dari waktu ke waktu, dapat menyebabkan pembesaran di bagian pembuluh darah dan balon, yang didefinisikan sebagai aneurisma. Meskipun aneurisma dapat terbentuk di pembuluh darah di seluruh tubuh, aneurisma sering ditemukan di pembuluh terbesar tubuh, aorta, dan dapat pecah serta menyebabkan perdarahan yang mengancam jiwa.</string>
+
+    <string name="tanhata">Ada beberapa aturan yang harus diikuti sebelum dan selama pengukuran tekanan darah agar nilai tekanan darah tidak salah.</string>
+    <string name="tanhata1">Jangan berbicara, tertawa atau membuat keributan selama pengukuran tekanan darah.</string>
+    <string name="tanhata1t"></string>
+    <string name="tanhata2">Jangan melakukan pengukuran tekanan darah tanpa memenuhi kebutuhan toilet Anda sebelum mengukur tekanan darah.</string>
+    <string name="tanhata2t"></string>
+    <string name="tanhata3">Jangan mengukur dengan pakaian ketat</string>
+    <string name="tanhata3t"></string>
+    <string name="tanhata4">Ruangan tidak terlalu panas atau terlalu dingin</string>
+    <string name="tanhata4t"></string>
+    <string name="tanhata5">xKaki Anda harus kokoh di tanah</string>
+    <string name="tanhata5t"></string>
+    <string name="tanhata6"> Ukur dengan lengan telanjang.</string>
+    <string name="tanhata6t"></string>
+    <string name="tanhata7">Periksa baterai perangkat</string>
+    <string name="tanhata7t"></string>
+    <string name="tanhata8">Jangan merokok saat mengukur</string>
+    <string name="tanhata8t"></string>
+    <string name="tanhata9">Jangan terlalu banyak bergerak saat mengukur</string>
+    <string name="tanhata9t"></string>
+
+
+
+    <string name="bpunder">Tekanan darah di dalam arteri disebut tekanan darah. Ketika otot kapiler berkontraksi, darah dipompa ke dalam arteri. Tekanan yang diukur saat ini adalah tekanan sistolik. Saat otot jantung mengendur, darah berhenti di vena; tekanan yang diukur saat ini adalah tekanan diastolik. Dalam pengukuran tekanan darah, tekanan darah sistolik (besar) dan diastolik (kecil) diperiksa. Tekanan darah tinggi disebut hipertensi. Tekanan darah yang ideal dapat bervariasi dari orang ke orang. Rata-rata, tekanan darah sistolik antara 120 dan 130 dan tekanan darah diastolik antara 70 dan 90 dianggap normal. Nilai tekanan darah rendah pada orang muda dan anak-anak dapat dianggap normal. Mari kita periksa nilai-nilai ini sekarang.</string>
+    <string name="bpunder1">Hipotensi</string>
+    <string name="bpunder1t">Hipotensi tidak menyebabkan gejala apa pun dan tidak dapat ditolak kecuali sangat jelas. Itu dianggap positif karena mengurangi risiko penyakit kardiovaskular. Penurunan tekanan darah secara tiba-tiba dapat menyebabkan pusing, lemas, dan pingsan.</string>
+    <string name="bpunder2">Normal</string>
+    <string name="bpunder2t">Tekanan darah Anda ideal (Normal) jika tekanan darah sistolik Anda kurang dari 120 mmHg DAN tekanan darah diastolik Anda kurang dari 80 mmHg. Bahkan jika salah satu tekanan darah sistolik atau diastolik Anda di atas batas, Anda berada di luar kisaran normal. Jika tekanan darah sistolik Anda normal tetapi tekanan darah diastolik Anda di atas 90 Hg, kami menyebutnya Isolated Diastolic Hypertension (IDH).</string>
+    <string name="bpunder3">Ditingkatkan</string>
+    <string name="bpunder3t">Jika tekanan darah sistolik Anda antara 120 dan 129 mmHg dan tekanan darah diastolik Anda kurang dari 80 mmHg, Anda termasuk dalam kategori Tekanan Darah Tinggi. Tetapkan kebiasaan sehat agar tekanan darah Anda bisa kembali normal atau tidak naik lebih jauh. Pastikan untuk melakukan pengukuran tekanan darah dan kontrol umum dalam waktu 3 hingga 6 bulan.</string>
+    <string name="bpunder4">Hipertensi Tahap 1</string>
+    <string name="bpunder4t">Tekanan Darah Tinggi (Hyper) (Tingkat 1) disebutkan jika tekanan darah sistolik Anda antara 130 dan 139 mmHg atau tekanan darah diastolik Anda antara 80 dan 89 mmHg. Anda dapat meminta bantuan dokter Anda. Jika risiko Anda kurang dari 10 persen, singkirkan kebiasaan buruk Anda dan lakukan pengukuran tekanan darah dan kontrol umum setiap 3 atau 6 bulan. Jika risiko Anda lebih dari 10 persen, Anda harus mendapatkan pendapat dokter.</string>
+    <string name="bpunder5">Hipertensi Tahap 2</string>
+    <string name="bpunder5t">Jika tekanan darah sistolik Anda lebih besar atau sama dengan 140 mmHg, atau jika tekanan darah diastolik Anda lebih besar atau sama dengan 90 mmHg, Anda jatuh ke dalam Tekanan Darah Tinggi (Hiper) (Tingkat 2 ) kategori tekanan darah.</string>
+    <string name="bpunder6">Krisis Hipertensi</string>
+    <string name="bpunder6t">Jika tekanan darah sistolik Anda sama dengan atau lebih tinggi dari 180 mmHg, atau jika tekanan darah diastolik Anda sama atau lebih tinggi dari 180 mmHg, Anda mengalami krisis hipertensi. Segera pergi ke rumah sakit sebelum organ Anda rusak akibat tekanan darah tinggi. Selama waktu ini, cobalah teknik pernapasan dalam 6 kali dalam 30 detik.</string>
+    <string name="bpunder7">Ketegangan semu</string>
+    <string name="bpunder7t">Dibutuhkan setidaknya tiga pengukuran untuk mengetahui apakah seseorang memiliki tekanan darah tinggi. Memutuskan bahwa pasien memiliki tekanan darah tinggi dengan pengukuran tunggal dianggap sebagai tekanan darah semu. Tekanan darah orang normal dapat berfluktuasi sepanjang hari. Tekanan darah Anda mungkin tinggi setelah berjalan, berlari, berolahraga, makan.</string>
+    <string name="bpunder8">Tekanan darah kehamilan</string>
+    <string name="bpunder8t">Tekanan darah tinggi dapat dilihat pada hampir satu dari setiap 10 wanita hamil. Hipertensi gestasional harus diselidiki apakah karena kehamilan atau preeklampsia dan harus dibedakan dari hipertensi kronis. Hipertensi gestasional membahayakan ibu dan bayi. Hipertensi kronis pada ibu yang lebih tua dan kelebihan berat badan dapat dideteksi pada kehamilan pertama. Hipertensi gestasional biasanya terjadi setelah paruh kedua kehamilan. Pada hipertensi yang terlihat pada preeklampsia, terjadi kebocoran protein dalam urin. Preeklampsia juga menyebabkan edema, sakit kepala, dan disfungsi hati. Beberapa antihipertensi dapat digunakan selama kehamilan. Hipertensi gestasional dapat menyebabkan kelahiran prematur, keterlambatan pertumbuhan pada bayi, kerusakan otak, dan kerusakan pada plasenta bayi.</string>
+    <string name="bpunder9">Ketegangan mata</string>
+    <string name="bpunder9t">Glaukoma adalah nama medis untuk kondisi tersebut, yang dikenal sebagai glaukoma. Glaukoma adalah kerusakan pada saraf mata akibat tekanan bola mata yang berlebihan dari waktu ke waktu. Akibatnya, penglihatan pasien berangsur-angsur berkurang. Glaukoma lebih sering terjadi pada orang berusia di atas 40 tahun dan mungkin bersifat genetik. Miopia lebih berisiko. Risiko glaukoma meningkat pada penderita diabetes dan hipotiroidisme, penggunaan kortison jangka panjang, dan penderita cedera mata.</string>
+
+
+
+    <string name="riskk">Ada banyak faktor risiko yang dapat mempengaruhi berkembangnya tekanan darah tinggi. Risiko terkena hipertensi meningkat seiring bertambahnya usia. Kehadiran individu dengan hipertensi di antara anggota keluarga dan kerabat juga merupakan salah satu faktor yang dianggap berisiko untuk berkembangnya hipertensi. Terlepas dari situasi tersebut, orang yang kelebihan berat badan, tidak melakukan aktivitas fisik atau merokok tembakau juga termasuk dalam kelompok yang dianggap berisiko terkena hipertensi. Kondisi yang dapat menyebabkan peningkatan tekanan darah pada seseorang diperiksa dalam 2 kelompok sebagai penyebab primer dan sekunder. Definisi hipertensi primer (primer) adalah istilah yang digunakan ketika kondisi yang dapat menyebabkan tekanan darah tinggi pada seseorang tidak dapat ditentukan. Hipertensi primer cenderung berkembang secara klinis secara bertahap dari waktu ke waktu. Konsep hipertensi sekunder (sekunder), sebaliknya, berarti tekanan darah tinggi pada seseorang terjadi sebagai akibat dari kondisi kesehatan tertentu. Tidak seperti hipertensi primer, tekanan darah tinggi, yang terjadi secara sekunder karena suatu sebab, meningkat secara tiba-tiba. Hipertensi sekunder dapat terjadi setelah berbagai penyakit dan penggunaan obat atau zat tertentu. Di bawah ini adalah faktor-faktor yang dapat menyebabkan hipertensi.</string>
+    <string name="risk1">Faktor genetik</string>
+    <string name="risk1t"></string>
+    <string name="risk2">Konsumsi garam yang tinggi</string>
+    <string name="risk2t"></string>
+    <string name="risk3">Diabetes, kolesterol</string>
+    <string name="risk3t"></string>
+    <string name="risk4">Pil KB, beberapa obat penghilang rasa sakit</string>
+    <string name="risk4t"></string>
+    <string name="risk5">Gangguan tiroid</string>
+    <string name="risk5t"></string>
+    <string name="risk6">Stres, obesitas</string>
+    <string name="risk6t"></string>
+    <string name="risk7">Stres, obesitas</string>
+    <string name="risk7t"></string>
+    <string name="risk8">Aktivitas fisik rendah</string>
+    <string name="risk8t"></string>
+    <string name="risk9">Penggunaan zat terlarang</string>
+    <string name="risk9t"></string>
+
+
+    <string name="faqq">Aplikasi kami berfungsi sebagai alat pemantauan dan manajemen data untuk memantau BP Anda dan mendorong Anda untuk meningkatkan kesehatan Anda dengan informasi yang didukung sains. Karena teknologi untuk mengukur tekanan darah dengan ponsel masih dalam tahap pengembangan dan belum siap untuk penggunaan klinis, aplikasi kami tidak mengukur tekanan darah, di bawah tanggung jawab pengguna kami.</string>
+    <string name="faq1">Sebenarnya, belum ada aplikasi yang disertifikasi sebagai alat pengukuran BP yang andal.</string>
+    <string name="faq1t">Badan Pengawas Obat dan Makanan AS (FDA) mengatur perangkat medis di Amerika Serikat, mengklaim bahwa keakuratan pengukuran tekanan darah aplikasi mungkin dipertanyakan. Oleh karena itu, tidak ada aplikasi yang dapat memberikan pengukuran BP yang akurat dan andal.</string>
+    <string name="faq2">Secara umum</string>
+    <string name="faq2t">Aplikasi tekanan darah, tersedia untuk diunduh dari Google Play dan App store, gunakan obor dan kamera ponsel Anda untuk membuat oksimeter denyut mentah yang dapat mendeteksi beberapa informasi tentang sistem kardiovaskular Anda.</string >
+    <string name="faq3">Namun</string>
+    <string name="faq3t">Informasi yang dikumpulkan tidak dapat dibuktikan benar atau dapat diterapkan.</string>
+    <string name="faq4">Penelitian lebih lanjut diperlukan untuk mengembangkan dan menyempurnakan teknologi ini.</string>
+    <string name="faq4t"></string>
+    <string name="faq5">Tidak ada aplikasi yang benar-benar dapat mengukur tekanan darah Anda.</string>
+    <string name="faq5t"></string>
+    <string name="faq6">Aplikasi ini:</string>
+    <string name="faq6t">Merekam dan memeriksa bacaan Anda secara teratur dapat membantu deteksi dini.</string>
+    <string name="faq7">Dapat melacak perawatan Anda</string>
+    <string name="faq7t"></string>
+    <string name="faq8">Membuat grafik untuk Anda</string>
+    <string name="faq8t"></string>
+    <string name="faq9">Menyediakan dukungan tanggal</string>
+    <string name="faq9t"></string>
+
+
+    <string name="hipoad">Anda mengalami tekanan darah rendah. Ubah diet Anda dan konsultasikan dengan dokter Anda jika perlu untuk mengembalikannya ke normal.</string>
+    <string name="normalad">Tidak perlu perawatan. Tekanan darah Anda dalam kondisi terbaiknya.</string>
+    <string name="yuksekad">Tekanan darah Anda agak tinggi. Untuk menghindari hipertensi, ada baiknya untuk memperbaiki gaya hidup dan mengukur tekanan darah secara teratur.</string>
+    <string name="hiperonead">3 nilai atau lebih dalam kisaran ini menunjukkan hipertensi. Lakukan tindakan pencegahan untuk gaya hidup Anda dan konsultasikan dengan dokter Anda untuk menurunkan tekanan darah Anda.</string>
+    <string name="hipertwoad">Jika indikator Anda tetap pada tahap ini, Anda memerlukan obat untuk rencana perawatan tekanan darah Anda.</string>
+    <string name="tansifad">Tekanan darah Anda sangat tinggi. Anda harus mencari pertolongan medis darurat.</string>
+
+
+    <string name="heyy">Hai untuk kesehatan Anda, aplikasi ini untuk Anda</string>
+    <string name="oy">Pilih Kami</string>
+    <string name="ark">Berbagi dengan Teman</string>
+    <string name="geri">Masukan</string>
+    <string name="gizlilik">Kebijakan Privasi</string>
+
+
+    <string name="ayarlar">PENGATURAN</string>
+
+    <string name="anladım">SAYA MENGERTI</string>
+    <string name="kategori">KATEGORI</string>
+
+
+</resources>

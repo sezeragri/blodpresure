@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Blood Pressure</string>
+    <string name="ana_giris">DOMICILE</string>
+    <string name="tansiyonum">Ma tension artérielle</string>
+    <string name="en_son">DERNIER</string>
+    <string name="buyuk_tansiyon">Systolique</string>
+    <string name="kucuk_tansiyon">diastolique</string>
+    <string name="nabiz">Impulsion</string>
+    <string name="tum_kayitlar">Dossiers</string>
+    <string name="ekle">Ajouter</string>
+    <string name="ortalama">Moyenne</string>
+    <string name="tansiyon_bilgileri">Informations sur la tension artérielle</string>
+    <string name="daha">Suite</string>
+    <string name="izleyici">TRAQUEUR</string>
+    <string name="kayitlar">Dossiers</string>
+    <string name="hipotansiyon">Hypotension</string>
+    <string name="normal">Normal</string>
+    <string name="yüksek">Élevé</string>
+    <string name="hipertansiyonbirinciasama">Hypertension . Étape 1</string>
+    <string name="hipertansiyonikinciasama">Hypertension . Étape 2</string>
+    <string name="hipertansif">Hypertendu</string>
+    <string name="gecmis">Passé</string>
+    <string name="hipertansiyonayonelikyasam">Effets de l hypertension que vous devez savoir</string>
+    <string name="lifestyle">Remèdes de style de vie pour l hypertension</string>
+    <string name="first_aid">Premiers soins pour les urgences hypotensives</string>
+    <string name="hypotension_diagons">Diagnostic d hypotension et traitement médical</string>
+    <string name="exercises">Exercices pour contrôler l hypertension</string>
+    <string name="alltoknow">Tout savoir sur l hypotension</string>
+    <string name="medications">Médicaments contre l hypertension</string>
+    <string name="Bp">Malentendus et mythes de BP</string>
+    <string name="hypertension_types">Types et symptômes d hypertension</string>
+    <string name="topmistakes">Principales erreurs lors de la mesure de la pression artérielle</string>
+    <string name="first_aid_hypertensive">Premiers soins pour les urgences hypertensives</string>
+    <string name="whoe_needs">Qui a besoin d une mesure de la pression artérielle à domicile</string>
+    <string name="faq">FAQ - Pourquoi ne pas fournir la mesure de la pression artérielle dans notre application</string>
+    <string name="understanding">Comprendre les numéros BP</string>
+    <string name="master">Mesure principale de la pression artérielle à domicile</string>
+    <string name="risk">Facteurs de risque d hypertension</string>
+    <string name="tarih">Date</string>
+    <string name="bilgiler">INFOS ET CONNAISSANCES </string>
+    <string name="tarihvesaat">Date et l heure </string>
+    <string name="not">Note </string>
+    <string name="kaydet">SAUVEGARDER </string>
+    <string name="yenirekor">Nouvel enregistrement </string>
+    <string name="bilgi">INFO </string>
+
+
+    <string name="hipertansiyon_egzersiz">Vous cherchez des moyens sans médicaments pour la prévention primaire, le traitement et le contrôle de l´hypertension Alors vous êtes au bon endroit. Cet article présentera des exercices physiques qui aideront à abaisser la tension artérielle. Ajoutez les à votre routine quotidienne et vous pourrez voir à quel point cela fera une différence. </string>
+    <string name="aerobik_egzersiz"> Exercice d´aérobie</string>
+    <string name="aerobik_egzersiz_tanim">Comme modalité principale chez les hypertendus; Des exercices aérobies qui impliquent de grands groupes musculaires, qui peuvent être soutenus et qui sont rythmés peuvent être utilisés. Les exercices aérobies sont depuis longtemps une méthode importante dans la prévention et le traitement de maladies typiques telles que le diabète sucré non insulino dépendant, l´hypertension, les maladies cardiaques et l´ostéoporose qui surviennent avec le vieillissement. La marche, le jogging et le vélo ont été essayés comme exercices d´endurance. Le facteur qui prolonge le temps d´exercice est important dans les préférences personnelles pour le choix de l´exercice. Les types d´exercices qui garantissent une durée d´exercice aussi longue que possible doivent être sélectionnés. </string>
+    <string name="aerobik_egzersiz_nekadar">COMBIEN d´exercices aérobiques avons nous besoin</string>
+    <string name="aerobik_egzersiz_nekadar_tanim">La fréquence des exercices aérobies entre 3 et 5 jours par semaine s´est avérée efficace pour abaisser la tension artérielle. Dans le nombre limité d´études suggérant 7 séances par semaine, ils ont rapporté que cela pourrait être plus efficace que les études réalisées 3 séances par semaine. En général, ceux qui ont une faible capacité d´exercice bénéficient d´exercices de faible intensité et de faible durée appliqués plusieurs fois par jour, tandis que ceux qui ont une capacité d´exercice élevée bénéficient d´exercices continus 3 à 5 jours par semaine. L´American College of Sports Medicine (ACSM) recommande l´exercice aérobique, de préférence tous les jours de la semaine </string>
+    <string name="aerobik_ornek_baslik">EXEMPLES d´activités aérobies qui utilisent de grands groupes musculaires</string>
+    <string name="aerobik_ornekler">. Monter des escaliers. marche . Jogging . Vélo . la natation . Danser </string>
+    <string name="direnc"> Entraînement en résistance </string>
+    <string name="direnc_tanim">Les exercices de musculation (comme l´haltérophilie) ne sont généralement pas recommandés pour les personnes souffrant d´hypertension. Cependant, ces exercices sont particulièrement importants chez les personnes âgées, car la perte de masse musculaire et la faiblesse causent des dommages importants. Lorsque le contrôle de la pression artérielle est assuré et que l´ éducation du patient est bien donnée, il est recommandé d´utiliser des exercices de renforcement avec des exercices aérobies qui renforcent l´endurance du système cardiovasculaire.</string>
+    <string name="direnc_onlem">LES MESURES </string>
+    <string name="direnc_onlem_tanim">Les exercices de musculation sont principalement appliqués aux principaux groupes musculaires. Les exercices isométriques sont particulièrement à proscrire. La posture de la personne et la quantité de poids soulevée doivent être respectées. Vous ne devez pas retenir votre souffle pendant les exercices. Des exercices de renforcement multi répétition à faible résistance sont recommandés. Alors que l´ ACSM recommande des exercices de renforcement pour les grands groupes musculaires 2 ou 3 fois par semaine, 3 séries, 8 ou 15 répétitions impliquant 8,10 groupes musculaires, pour les personnes hypertendues  âge moyen; recommande des exercices de renforcement pour les grands groupes musculaires 2 ou 3 fois par semaine, 1 série, 8 ou 15 répétitions impliquant 8,10 groupes musculaires. Les charges peuvent être augmentées progressivement, en commençant par 40 à 60 pourcentage d´un poids de répétition maximal déterminé (intensité modérée). L´augmentation de la force musculaire peut augmenter la capacité de nombreuses personnes à effectuer des activités telles que monter des escaliers et marcher. </string>
+    <string name="ekipman">EXEMPLES d´entraînement en résistance avec équipement </string>
+    <string name="ekipman_ornekler">. Appuyez sur la poitrine. Pression d´épaule. Extension des triceps. Flexion des biceps. Tire le vers le bas. Extension du bas du dos. Navette . Curls des jambes .Mouvement de renforcement musculaire du mollet </string>
+    <string name="esneklik"> Formation à la flexibilité</string>
+    <string name="essnekliktanim">Des exercices de flexibilité simples ou des étirements sont bénéfiques pour les hypertendus. Lorsque vous étirez vos muscles et vos articulations, vous étirez en fait les vaisseaux sanguins et les artères et réduisez le flux sanguin et la raideur. Il est temps d´ajouter des étirements à votre routine d´entraînement.</string>
+    <string name="esneklikkactane">De combien d´exercices de flexibilité avons nous besoin</string>
+    <string name="esneklikkactanetanim">Selon les recherches, le faire 2 à 5 jours par semaine peut faire baisser la tension artérielle. En attendant, il est important de garder chaque exercice entre 10 et 30 secondes pour garantir des gains.</string>
+    <string name="esneklikornekbaslik">EXEMPLES étirements de flexibilité</string>
+    <string name="esneklikornek">. Yoga. Pilates</string>
+
+
+
+    <string name="hipertansiyongiris">Combattre la qualité silencieuse est un engagement à vie. Ne comptez pas uniquement sur les drogues et faites quelques changements pour sauver votre cœur. En suivant le mode de vie sain pour le cœur décrit dans cet article, vous pouvez remettre vos chiffres là où ils devraient être. Prenons des mesures pour abaisser votre tension artérielle et améliorer votre vie quotidienne.</string>
+    <string name="title1">Stress psychologique et techniques de relaxation</string>
+    <string name="title1tanim">Le stress émotionnel peut entraîner une élévation aiguë de la tension artérielle. Les approches cognitives et comportementales telles que la biologie et la rétroaction, le yoga, la méditation transcendantale et la psychothérapie peuvent fournir une réduction à court et à terme de la pression artérielle. Cependant, les effets bénéfiques à long terme de ces méthodes sont inconnus. Une étude a montré que la thérapie de prévention du stress n´est pas efficace pour prévenir l´hypertension. Il n´y a aucune preuve suggérant que les sédatifs et les tranquillisants réduisent la tension artérielle.</string>
+    <string name="title2"> Activité physique</string>
+    <string name="title2tanim">Le risque de développer une hypertension chez les personnes qui mènent une vie sédentaire est de 20 à 50 pourcentage plus élevé que chez celles qui pratiquent une activité physique régulière. Chez les hypertendus qui pratiquent régulièrement des exercices aérobies (isotoniques), il y a une diminution de 4 à 8 mmHg de la pression artérielle systolique. Patients hypertendus au moins 3 à 4 fois par semaine pour atteindre 60 à 70 pourcentage de la fréquence cardiaque cible pendant 30 à 45 minutes. Ils devraient faire de la marche rapide. Ce type d´exercice est plus efficace que la course ou le jogging. Les exercices isométriques ne conviennent pas aux hypertendus. L´utilisation de médicaments antihypertenseurs n´est pas contre-indiquée pour les exercices isotoniques. Pour ceux qui utilisent des bêta-bloquants, atteindre 50 pourcentage de la fréquence cardiaque cible peut être suffisant. La rigidité artérielle diminue chez ceux qui pratiquent régulièrement des exercices aérobies, tandis que la compliance artérielle systémique totale, la sécrétion d´EDRF et la sensibilité à l´insuline augmentent. Ces mécanismes jouent un rôle dans la baisse de la tension artérielle.</string>
+    <string name="title3">Consommation d´alcool</string>
+    <string name="title3tanim">La prévalence de l´hypertension est élevée chez les personnes dont la quantité d´alcool éthylique dépasse 28 à 55 g par jour. Ceux-ci comprennent des élévations aiguës de la pression artérielle. Chez ces personnes, l´alcool réduit l´effet des médicaments antihypertenseurs et augmente le risque d´AVC. L´hypertension artérielle peut être détectée en début de semaine en raison d´un arrêt aigu de l´alcool chez les gros buveurs d´alcool (5 doubles ou plus) au cours du week-end. De petites quantités d´alcool consommées quotidiennement sont associées à une mortalité et une morbidité coronariennes inférieures à l´absence ou à la consommation excessive d´alcool. La consommation d´alcool doit être limitée à 60 ml de whisky, 300 ml de vin ou 720 ml de bière par jour. Étant donné que l´effet de l´alcool peut être plus élevé chez les personnes minces, les femmes doivent consommer moins d´alcool que les valeurs spécifiées, car l´absorption d´alcool éthylique est plus élevée chez les femmes que chez les hommes.</string>
+    <string name="title4">Apport en magnésium</string>
+    <string name="title4tanim">Des études montrent une prévalence élevée d´hypertension chez les personnes suivant un régime pauvre en magnésium. Cependant, cette relation n´est pas à un niveau qui nécessite un apport en magnésium pour abaisser la tension artérielle. 50 pourcentage des hypertendus recevant un traitement diurétique chronique ont de faibles niveaux de magnésium musculaire. Une carence en magnésium est également responsable d´une hypokaliémie qui ne s´améliore pas avec une supplémentation en potassium. Chez ces patients, l´administration quotidienne de 15 mmol Mg peut abaisser la tension artérielle, aider à améliorer l´hypokaliémie et affecter positivement le métabolisme du glucose.</string>
+    <string name="title5">Apport en calcium</string>
+    <string name="title5tanim">Des études épidémiologiques ont montré des résultats contradictoires sur la relation entre le niveau de tension artérielle et l´apport alimentaire en calcium. Lorsque le calcium est administré à raison de 1 g par jour, il provoque une diminution très minime de la pression artérielle systolique et la pression artérielle diastolique ne change pas. Cependant, cet effet ne nécessite pas une augmentation de l´apport en calcium pour la prévention ou le traitement de l´hypertension. L´augmentation de l´apport en calcium augmente encore l´hypercalciurie déjà présente dans l´hypertension, ce qui peut entraîner des calculs rénaux et une infection des voies urinaires</string>
+    <string name="title6">Apport en potassium</string>
+    <string name="title6alim">L´alimentation, environ 90 mmol de potassium par jour à partir de fruits et légumes frais, abaisse la tension artérielle chez les hypertendus. Dans des essais cliniques contrôlés randomisés, cette réduction était de 4,4 mmHg de la pression artérielle systolique et de 2,4 mmHg de la pression artérielle diastolique. L´utilisation de citrate de potassium ou de bicarbonate de potassium permet une réduction de la pression artérielle plus importante que le chlorure de potassium. L´effet hypotenseur du potassium peut être réduit lorsqu´un régime pauvre en sodium est utilisé. La prudence s´impose lors de l´utilisation du potassium chez les insuffisants rénaux qui prennent des inhibiteurs de l´ECA ou des antagonistes des récepteurs A II. Potassium; Il provoque une augmentation de l´activité Na et K ATP vasculaire et de la relaxation vasculaire associée, une diminution de la résistance vasculaire rénale et une augmentation du taux de filtration glomérulaire, et il montre son effet hypotenseur par ces mécanismes.</string>
+    <string name="title7">Restriction de sel</string>
+    <string name="title7alim">Les termes sel et sodium ne doivent pas être confondus. Le chlorure augmente l´effet du sodium. Le sodium est pris avec de la nourriture, principalement sous forme de sel de table. Lorsque le sodium est pris sous d´autres formes (comme le bicarbonate de sodium), l´effet d´augmentation de la pression artérielle n´est pas très important. Dans des études cliniques randomisées, lorsque l´apport de sodium était limité à 80 à 100 mmol (4,7 à 5,8 g) par jour chez les patients hypertendus, une diminution de 4,8, 1 mmHg de la pression artérielle systolique et de 2,5,0,7 mmHg de la pression artérielle diastolique ont été observé (64). La restriction de sel doit être appliquée pendant une moyenne de 5 semaines pour assurer une pression artérielle basse. Cet effet est plus prononcé chez les hypertendus âgés. Il faut conseiller aux patients de consommer moins de 100 mmol (5,8 g) de sodium par jour ou moins de 6 g de NaCl (sel) par jour. Une part importante du sodium alimentaire provient des aliments transformés. Ces aliments doivent être évités et les salières ne doivent pas être utilisées sur la table. La restriction sodée augmente l´effet des antihypertenseurs. Cet effet n´est pas observé car les inhibiteurs calciques ont des propriétés natriurétiques intrinsèques. Cependant, l´effet antiprotéinurique des inhibiteurs calciques augmente. 15 à 20 g de sel par jour peuvent réduire l´effet antihypertenseur des diurétiques. La restriction sodée réduit la perte de potassium due aux diurétiques, régresse l´hypertrophie ventriculaire gauche, protège contre l´ostéoporose et détend les muscles lisses vasculaires et bronchiques. Si la restriction sodée est inférieure à 10 à 20 mmol par jour, il y a une augmentation des catécholamines plasmatiques, des LDL et des triglycérides, et de la résistance à l´insuline.</string>
+    <string name="title8">Arrêter de fumer</string>
+    <string name="title8alim">15 à 30 minutes après chaque cigarette. élévation aiguë de la pression artérielle. Bien qu´elles ne soient pas détectables en pratique clinique, des élévations des mesures ambulatoires de la pression artérielle sur 24 heures ont été démontrées. Le tabagisme est un facteur qui multiplie par 2 à 3 le risque cardiovasculaire. Les effets positifs cardiovasculaires sont observés dans l´année suivant l´arrêt du tabac. Le tabagisme altère le profil lipidique, augmente la résistance à l´insuline, augmente la masse ventriculaire gauche et diminue la vasodilatation artérielle dépendante de l´endothélium. Il n´y a pas d´études montrant que le fait d´arrêter de fumer seul fait baisser la tension artérielle. Cependant, l´arrêt du tabac est nécessaire pour prévenir la résistance au traitement médicamenteux de l´hypertension et pour réduire le risque cardiovasculaire. Les patchs à la nicotine n´augmentent pas la tension artérielle et peuvent être utilisés pour arrêter de fumer. L´effet du vaporisateur nasal de nicotine sur la tension artérielle est inconnu.</string>
+    <string name="title9">Obésité</string>
+    <string name="title9alim">Il existe une corrélation entre un indice de masse corporelle (IMC) de 27 ou plus et l´hypertension artérielle. Les hypertendus obèses ont une incidence plus élevée de dyslipidémie, de résistance à l´insuline, d´événements cardiovasculaires et de diabète sucré. Une perte de poids de 5 kg entraîne initialement une réduction significative de la pression artérielle chez la plupart des patients hypertendus. Dans des études cliniques contrôlées, il a été démontré que 1 kg de perte de poids entraîne des réductions de 1,6 mmHg et 1,3 mmHg des pressions artérielles systolique et diastolique. Si l´exercice physique est appliqué ensemble, la diminution de la pression artérielle augmente. Les médicaments anorétiques doivent être évités car ils peuvent augmenter la tension artérielle et provoquer une hypertension pulmonaire. Avec la perte de poids, le nombre et la dose de médicaments antihypertenseurs peuvent être réduits. Il a été démontré par le contrôle ambulatoire de la pression artérielle qu´une alimentation riche en fruits, légumes, huile de poisson et aliments fibreux peut réduire de 4,5 mmHg la pression artérielle systolique et de 2,7 mmHg la pression artérielle diastolique. La perte de poids provoque initialement une natriurèse intense, puis diminue la tension artérielle avec une diminution de l´activité sympathique et une amélioration de la sensibilité à l´insuline, entraînant une hypotension artérielle à long terme.</string>
+
+
+
+    <string name="yanlisanlama">Vous pouvez entendre toutes sortes de mythes sur la tension artérielle. Croire à ces mythes peut vraiment saper le contrôle de votre tension artérielle et même aggraver votre état. Vous trouverez ci-dessous 9 idées fausses courantes sur la pression artérielle. Lisez ce qui suit et n´y croyez pas.</string>
+    <string name="yanlisanlamatitle1">Si la pression artérielle augmente soudainement, elle doit être abaissée à la normale.</string>
+    <string name="yanlisanlamatitle1tanim">Réduire la tension artérielle en peu de temps (avec des médicaments intraveineux ou certains médicaments sublinguaux) est extrêmement nocif, en particulier chez les personnes âgées, sauf dans certains cas particuliers. Il provoque de graves problèmes en perturbant le flux sanguin vers le cerveau. Dans ce cas, consultez votre médecin.</string>
+    <string name="yanlisanlamatitle2">Pas d´hypertension chez les jeunes</string>
+    <string name="yanlisanlamatitle2tanim">L´hypertension peut survenir à tout âge et est dangereuse à tout âge.</string>
+    <string name="yanlisanlamatitle3">Je n´ai rien à redire donc ma tension artérielle est normale</string>
+    <string name="yanlisanlamatitle3tanim">La croyance que l´hypertension artérielle n´est pas importante en l´absence de plaintes est extrêmement fausse. Il est plus dangereux si l´hypertension artérielle ne provoque pas de plaintes chez le patient. Parce que le patient n´a aucune plainte, le patient ne remarque pas l´hypertension artérielle ou ne s´attarde pas sur la maladie. Même si elle ne provoque pas de plaintes, l´hypertension artérielle est toujours dangereuse et endommage des organes cibles tels que le cœur, les reins, les yeux et le cerveau.</string>
+    <string name="yanlisanlamatitle4">La nourriture sans sel n´a aucun goût.</string>
+    <string name="yanlisanlamatitle4tanim">Le seuil de sel des corps sensibles au sel dans la langue des personnes qui mangent constamment des aliments salés ou ajoutent du sel à leurs repas augmente, et ils perçoivent même les repas salés normaux comme non salés. Cependant, les papilles gustatives peuvent être entraînées : si vous mangez moins de sel, après quelques semaines, les aliments auront un goût  (salé normal)  pour vous. Même les plats  normaux salés  sont  trop salés . Par conséquent, les habitudes alimentaires salées peuvent être modifiées. De plus, trop de sel masque les différentes saveurs des plats qui ne sont pas trop dominantes. En mangeant moins salé, vous pourrez percevoir ces différentes saveurs et prendre plus de plaisir à manger.</string>
+    <string name="yanlisanlamatitle5">Les personnes âgées, en particulier, doivent faire attention au sel.</string>
+    <string name="yanlisanlamatitle5tanim">Manger trop de sel peut augmenter la tension artérielle chez les personnes de tous âges. Aujourdhui, l´incidence de l´hypertension artérielle (hypertension) dans la trentaine et la quarantaine est assez élevée.</string>
+    <string name="yanlisanlamatitle6">Les sels chers sont plus sains.</string>
+    <string name="yanlisanlamatitle6tanim">Le sel contient du chlorure de sodium (NaCl), et c´est le sodium (Na) qui augmente la tension artérielle. Peu importe d´où vient le sel (mer, sous terre, etc.) ou comment il est préparé (cristal, poudre, grossier). Après tout, ils contiennent tous du chlorure de sodium.</string>
+    <string name="yanlisanlamatitle7">Je peux comprendre si ma tension artérielle est élevée.</string>
+    <string name="yanlisanlamatitle7tanim"> De nombreuses personnes souffrant d´hypertension artérielle ne se plaignent pas. Par conséquent, on ne peut pas savoir que la tension artérielle est élevée à moins qu´elle ne soit mesurée.</string>
+    <string name="yanlisanlamatitle8">Je peux utiliser autant de sel alimentaire que je veux au lieu du sel ordinaire.</string>
+    <string name="yanlisanlamatitle8tanim">Les sels alimentaires contiennent souvent du chlorure de potassium (KCl), qui donne le goût du sel. D´autres peuvent également avoir du sel ordinaire ajouté. Le chlorure de potassium peut être nocif chez les patients insuffisants rénaux. Par conséquent, vous ne devez utiliser le sel alimentaire que si votre médecin vous le recommande.</string>
+    <string name="yanlisanlamatitle9">Le sel de l´Himalaya est sain</string>
+    <string name="yanlisanlamatitle9tanim">Ce sel, dont on dit qu´il est sain, contient également du chlorure de sodium tel que nous le connaissons.</string>
+
+
+
+
+    <string name="hpacil">Dans cet article, je vais essayer de vous donner des informations sur l´hypertension artérielle, les symptômes de l´hypertension artérielle, que faire en cas d´hypertension artérielle. J´ai également essayé d´écrire ce que vous pouvez faire d´urgence lorsque l´hypertension artérielle devient mortelle lorsqu´elle devient trop élevée. Rappel, numéro d´urgence 112.</string>
+    <string name="hpacil1">Réponse d´urgence</string>
+    <string name="hpacil1tanim">Si votre tension artérielle est ou a été supérieure à 180 mm Hg ou à 120 mm Hg, mais qu´il n´y a aucun signe de lésion des organes vitaux, aucun de ces symptômes ne doit être présent, nausées et vomissements, douleur thoracique, essoufflement, douleur dorsale sévère, faiblesse, troubles visuels, difficulté à parler, anxiété sévère, convulsions, absence de réaction. Vous êtes dans cette classe. Peut-être que votre médecin devra peut-être faire quelques ajustements à vos médicaments. Cependant, vous devrez peut-être être traité comme un patient hospitalisé à l´hôpital. Même si vous êtes dans cette classe, vous devez absolument aller à l´hôpital.</string>
+    <string name="hpacil2">Soins hospitaliers d´urgence</string>
+    <string name="hpacil2tanim">Si votre tension artérielle, votre tension artérielle systolique est de 180 ou inférieure à 120 ou plus, et qu´il y a des signes de dommages aux organes vitaux, même un seul de ces symptômes est suffisant. Nausées et vomissements, douleurs thoraciques, essoufflement, douleurs dorsales sévères, faiblesse, troubles visuels, difficultés d´élocution, anxiété sévère, convulsions, absence de réponse sont inclus dans cette classe et appelez une ambulance immédiatement.</string>
+    <string name="hpacil3">Vous devez mesurer correctement votre tension artérielle.</string>
+    <string name="hpacil3tanim">Si le patient n´a pas de mal de tête ou de douleur thoracique, vous devez absolument répéter la mesure plusieurs fois. Parfois, une mauvaise mesure peut être faite à la hâte.</string>
+    <string name="hpacil4">Restez calme et calmez le patient et déboutonnez la chemise en desserrant la cravate ou la ceinture serrée.</string>
+    <string name="hpacil4tanim">Si vous avez atteint 180 mm Hg de haut ou 120 mm Hg de tension artérielle diastolique après plusieurs répétitions, vous avez un problème. Vous devez d´abord calmer le patient. Si l´environnement est tendu, éloignez le patient. En attendant, il est très important que vous restiez calme. Si le patient est en colère ou très contrarié par quelque chose, vous pouvez dire des choses apaisantes. Desserrez tous les accessoires ajustés, tels que les ceintures et les cravates. Soulagez également le patient en déboutonnant quelques boutons de chemise.</string>
+    <string name="hpacil5">Demandez-lui de respirer profondément 6 fois en 30 secondes</string>
+    <string name="hpacil5tanim">Après avoir retiré de l´environnement, placez le patient dans un endroit frais et confortable et laissez-le prendre 6 respirations profondes en 30 secondes. Des expériences montrent que l´exercice de respiration profonde peut réduire l´hypertension artérielle jusqu´à 10 points. Le système autonome commence à fonctionner dans le système parasympathique.</string>
+    <string name="hpacil6">Assurez-vous que le patient prend les médicaments contre l´hypertension qu´il utilise.</string>
+    <string name="hpacil6tanim">Si un patient prend un médicament contre l´hypertension artérielle, faites-le-lui prendre. Si la pression artérielle du patient est supérieure à 140 à 90 (pression artérielle systolique 140, pression artérielle diastolique 90) et s´il existe des symptômes tels que nausées et vomissements, douleurs thoraciques, essoufflement, douleurs dorsales sévères, faiblesse, troubles visuels, difficulté à parler, anxiété sévère, convulsions, absence de réaction, prendre leurs médicaments. devrait le prendre immédiatement et aller à l´hôpital d´urgence.</string>
+    <string name="hpacil7">Essayez de joindre le médecin du patient.</string>
+    <string name="hpacil7tanim">Essayez de joindre rapidement le médecin du patient par téléphone et suivez ses instructions. En général, les médecins utilisent des médicaments avec 1 comprimé de Clonidine (Clonidine) 75 mcg ou Kaptopril (Captopril) 25 mg par voie orale pour abaisser la tension artérielle. Il est placé sous la langue afin que les médicaments contenant cet ingrédient actif puissent agir plus rapidement. Si vous n´êtes pas médecin, ne donnez jamais de médicament au patient selon vous même.</string>
+    <string name="hpacil8">Emmenez le patient à l´hôpital.</string>
+    <string name="hpacil8tanim">Malgré le calme et la baisse de la pression artérielle, le patient doit absolument consulter un médecin immédiatement.</string>
+    <string name="hpacil9">Contrôle régulier</string>
+    <string name="hpacil9tanim">Prenez soin de mesurer la tension artérielle à intervalles réguliers, cela vous fera du bien. </string>
+
+
+
+
+    <string name="hipoacil">Il existe des méthodes de traitement qui sont bonnes pour l´hypotension artérielle. Pour l´expliquer médicalement, il est lié à la pression exercée par le sang à l´intérieur des artères. L´hypotension artérielle, qui présente des symptômes tels que des nausées et des évanouissements, est connue comme un trouble que les personnes de tous âges peuvent ressentir. Cela se produit dans des situations telles que rester debout longtemps et avoir faim. Alors, qu´est-ce qui est bon pour faire baisser la tension artérielle</string>
+    <string name="hipoacil1">Restez hydraté</string>
+    <string name="hipoacil1tanim">Essayez de boire 8 à 10 verres d´eau par jour. Répartissez votre consommation d´eau tout au long de la journée. Faites plus attention à cela, surtout par temps chaud. Consommer de l´eau augmentera le volume sanguin et empêchera la tension artérielle de chuter.</string>
+    <string name="hipoacil2">Augmenter la consommation de sel</string>
+    <string name="hipoacil2tanim">Il est bien connu que la restriction en sel est recommandée pour les personnes souffrant d´hypertension; parce que le sel provoque une rétention d´eau dans le corps, ce qui augmente la tension artérielle. L´inverse est également vrai : les personnes souffrant d´hypotension peuvent également augmenter leur consommation de sel, ce qui augmente légèrement leur tension artérielle. Normalement, la consommation quotidienne recommandée de sel est de 1 cuillère à café. Chez les personnes souffrant d´hypotension artérielle, la consommation de sel doit être augmentée à 2,5 ou 3 cuillères à café par jour, selon les besoins.</string>
+    <string name="hipoacil3">Consommez moins d´alcool</string>
+    <string name="hipoacil3tanim">L´alcool abaisse la tension artérielle car il détend les vaisseaux. De plus, certains alcools déshydratent le corps en augmentant la production d´urine. Par conséquent, si vous consommez de l´alcool, faites attention à être limité et emportez beaucoup d´eau avec vous.</string>
+    <string name="hipoacil4">Éviter la chaleur</string>
+    <string name="hipoacil4tanim">Temps chaud, ambiances chaudes comme sauna hammam, douche chaude, comme s´ habiller très chaudement. Ceux-ci abaissent votre tension artérielle en relaxant vos veines et en provoquant également une perte de liquide du corps par la transpiration.</string>
+    <string name="hipoacil5">Porter des bas de contention</string>
+    <string name="hipoacil5tanim"> Ces bas, vendus en différentes pressions et longueurs selon les besoins, enveloppent étroitement les jambes et empêchent le sang de s´accumuler dans les jambes, facilitant ainsi le retour du sang vers le cœur. Vous pouvez en tirer de grands avantages, surtout si vous savez que vous resterez debout longtemps ou si vous avez des varices.</string>
+    <string name="hipoacil6">Soulevez la tête de votre lit</string>
+    <string name="hipoacil6tanim">L´élévation de la tête de votre lit de 10 à 15 cm provoque l´ amélioration de certains mécanismes complexes qui affectent le flux sanguin vers le cerveau et les reins, ainsi que l´hypotension artérielle et les troubles associés. L´important ici est de relever non seulement la tête, mais aussi la partie supérieure du torse.</string>
+    <string name="hipoacil7">Mangez souvent et petit à petit</string>
+    <string name="hipoacil7tanim">Manger de grandes quantités de nourriture détourne le flux sanguin du corps vers le tube digestif, abaissant la tension artérielle et réduisant le flux sanguin vers le cerveau.</string>
+    <string name="hipoacil8">Redressez-vous progressivement</string>
+    <string name="hipoacil8tanim">Ne soyez pas pressé lorsque vous sortez du lit ou que vous vous levez après une longue période de repos. Laissez le temps au corps de réguler la tension en s´asseyant d´abord, en bougeant les jambes.</string>
+    <string name="hipoacil9">Contacter un médecin</string>
+    <string name="hipoacil9tanim">Si vos plaintes sont si graves et fréquentes qu´ elles affectent votre vie quotidienne, si vous ne pouvez pas vous débrouiller seule, consultez un médecin. Peut-être que votre médecin peut vous aider en détectant et en traitant certains problèmes tels que l´anémie, les carences en vitamines et minéraux, les troubles hormonaux. Ou vous pouvez trouver approprié d´utiliser des médicaments ou des suppléments qui augmentent la tension artérielle.</string>
+
+
+
+    <string name="hiperetki">L´hypertension peut entraîner d´autres problèmes vitaux si des précautions ne sont pas prises. Bien que le danger soit si grand, il n´y a pas assez de sensibilisation dans la société contre l´ hypertension.</string>
+    <string name="hiperetki1">Relation crise cardiaque</string>
+    <string name="hiperetki1tanim">L´hypertension non contrôlée est l´un des facteurs de risque les plus importants dans le rétrécissement et l´occlusion des vaisseaux coronaires alimentant le muscle cardiaque. Dans ce cas, les douleurs thoraciques, l´ inconfort dans la poitrine et l´essoufflement, qui résultent d´un flux sanguin insuffisant et riche en oxygène pour alimenter le cœur, sont les symptômes les plus courants d´une crise cardiaque.</string>
+    <string name="hiperetki2">Coup</string>
+    <string name="hiperetki2tanim">L´hypertension artérielle non contrôlée peut endommager, rétrécir et fissurer les vaisseaux cérébraux. De plus, le caillot, qui est un facteur de formation de l´ hypertension artérielle, peut également entraîner un accident vasculaire cérébral lorsque l´artère cérébrale est obstruée.</string>
+    <string name="hiperetki3">Insuffisance cardiaque</string>
+    <string name="hiperetki3tanim">En cas d´hypertension artérielle, le muscle cardiaque s´épaissit pour pomper le sang dans tout le corps. Au fil du temps, le muscle cardiaque épaissi ne peut plus remplir sa fonction de pomper suffisamment de sang et une insuffisance cardiaque se produit.</string>
+    <string name="hiperetki4">Problèmes de mémoire</string>
+    <string name="hiperetki4tanim">Les dommages causés par l´hypertension artérielle aux vaisseaux cérébraux affectent négativement la mémoire, la réflexion et l´expression orale.</string>
+    <string name="hiperetki5">Association des maladies rénales</string>
+    <string name="hiperetki5tanim">La capacité des reins à filtrer les déchets du sang; il a besoin de veines saines pour maintenir un équilibre hydrique, hormonal, salin et acide régulier. Pour cette raison, la perturbation de ce système due à l´ hypertension artérielle entraîne diverses maladies rénales. Il est également de plus en plus difficile pour le corps de réguler la tension artérielle</string>
+    <string name="hiperetki6">Maladies vasculaires périphériques</string>
+    <string name="hiperetki6tanim">Si le flux sanguin est affecté à la suite d´une artériosclérose dans les veines des jambes, des douleurs, des crampes et des engourdissements peuvent survenir dans les pieds et les jambes.</string>
+    <string name="hiperetki7">Épaississement, rétrécissement des vaisseaux oculaires</string>
+    <string name="hiperetki7tanim">Si l´hypertension n´est pas traitée, elle peut endommager les vaisseaux délicats menant à la rétine de l´il; Le résultat peut causer des problèmes de vision à différents niveaux, jusqu´à une perte de vision permanente. Une pression artérielle non contrôlée, qui provoque également un accident vasculaire cérébral, peut également entraîner une perte de vision.</string>
+    <string name="hiperetki8">Dysfonctions sexuelles</string>
+    <string name="hiperetki8tanim">Études scientifiques; révèle que la dysfonction sexuelle est plus fréquente chez les hommes et les femmes souffrant d´hypertension artérielle que chez les personnes sans hypertension.</string>
+    <string name="hiperetki9">Anévrisme aortique</string>
+    <string name="hiperetki9tanim">En raison de l´hypertension artérielle due à l´hypertension et à l´affaiblissement de la paroi vasculaire au fil du temps, cela peut provoquer une hypertrophie d´une partie du vaisseau et un ballonnement, défini comme un anévrisme. Bien qu´un anévrisme puisse se former dans les vaisseaux de tout le corps, il se trouve souvent dans le plus gros vaisseau du corps, l´aorte, et peut se rompre et provoquer une hémorragie potentiellement mortelle.</string>
+
+
+
+
+    <string name="tanhata">Il y a quelques règles à suivre avant et pendant la mesure de la tension artérielle afin que les valeurs de tension artérielle ne soient pas erronées.</string>
+    <string name="tanhata1">Ne parlez pas, ne riez pas et ne faites pas de bruit pendant la mesure de la tension artérielle.</string>
+    <string name="tanhata1t"></string>
+    <string name="tanhata2">Ne prenez pas de mesure de tension artérielle sans répondre à vos besoins de toilette avant de mesurer la tension artérielle.</string>
+    <string name="tanhata2t"></string>
+    <string name="tanhata3">Ne pas mesurer avec des vêtements serrés</string>
+    <string name="tanhata3t"></string>
+    <string name="tanhata4">La pièce n´est ni trop chaude ni trop froide</string>
+    <string name="tanhata4t"></string>
+    <string name="tanhata5">Vos pieds doivent être bien ancrés au sol</string>
+    <string name="tanhata5t"></string>
+    <string name="tanhata6"> Mesurez avec le bras nu.</string>
+    <string name="tanhata6t"></string>
+    <string name="tanhata7">Vérifier la batterie de l´appareil</string>
+    <string name="tanhata7t"></string>
+    <string name="tanhata8">Vérifier la batterie de l´appareil</string>
+    <string name="tanhata8t"></string>
+    <string name="tanhata9">Ne bougez pas trop lors de la mesure</string>
+    <string name="tanhata9t"></string>
+
+
+
+
+    <string name="bpunder">La pression sanguine à l´intérieur des artères est appelée tension artérielle. Lorsque le muscle capillaire se contracte, le sang est pompé dans les artères. La pression mesurée à ce moment est la pression systolique. Lorsque le muscle cardiaque se détend, le sang s´arrête dans la veine ; la pression mesurée à ce moment est la pression diastolique. Lors de la mesure de la pression artérielle, les pressions artérielles systolique (grande) et diastolique (petite) sont vérifiées. L´hypertension artérielle est appelée hypertension. La tension artérielle idéale peut varier d´une personne à l´autre. En moyenne, une pression artérielle systolique entre 120 et 130 et une pression artérielle diastolique entre 70 et 90 sont considérées comme normales. Les valeurs de tension artérielle basse chez les jeunes et les enfants peuvent être considérées comme normales. Examinons ces valeurs maintenant.</string>
+    <string name="bpunder1">Hypotension</string>
+    <string name="bpunder1t">L´hypotension ne provoque aucun symptôme et n´est pas répréhensible à moins qu´elle ne soit très évidente. Il est considéré comme positif car il réduit le risque de maladies cardiovasculaires. Une chute soudaine de la tension artérielle peut provoquer des étourdissements, une faiblesse et des évanouissements.</string>
+    <string name="bpunder2">Normal</string>
+    <string name="bpunder2t">Votre tension artérielle est idéale si votre tension artérielle systolique est inférieure à 120 mmHg et votre tension artérielle diastolique est inférieure à 80 mmHg. Si même une de vos pressions artérielles systolique ou diastolique dépasse la limite, vous êtes en dehors de la plage normale. Si votre tension artérielle systolique est normale mais que votre tension artérielle diastolique est supérieure à 90 Hg, nous l´appelons hypertension diastolique isolée.</string >
+    <string name="bpunder3">Amélioré</string>
+    <string name="bpunder3t">Si votre tension artérielle systolique est comprise entre 120 et 129 mmHg et que votre tension artérielle diastolique est inférieure à 80 mmHg, vous êtes dans la catégorie Tension artérielle élevée. Établissez des habitudes saines afin que votre tension artérielle puisse revenir à la normale ou ne pas augmenter davantage. Assurez vous d´avoir votre mesure de tension artérielle et vos contrôles généraux effectués dans les 3 à 6 mois.</string>
+    <string name="bpunder4">Stade 1 de l´hypertension</string>
+    <string name="bpunder4t">La pression artérielle élevée (hyper) est mentionnée si votre pression artérielle systolique est comprise entre 130 et 139 mmHg ou si votre pression artérielle diastolique est comprise entre 80 et 89 mmHg. Vous pouvez demander de l´aide à votre médecin. Si votre risque est inférieur à 10 pourcentage, débarrassez vous de vos mauvaises habitudes et faites effectuer votre mesure de la tension artérielle et vos contrôles généraux tous les 3 ou 6 mois. Si votre risque est supérieur à 10 pourcentage, vous devriez demander l´avis d´un médecin.</string>
+    <string name="bpunder5">Stade 2 de l´hypertension</string>
+    <string name="bpunder5t">Si votre tension artérielle systolique est supérieure ou égale à 140 mmHg, ou si votre tension artérielle diastolique est supérieure ou égale à 90 mmHg, vous tombez dans la catégorie Haute (Hyper) Tension Artérielle  catégorie de tension artérielle.</string>
+    <string name="bpunder6">Crise d´hypertension</string>
+    <string name="bpunder6t">Si votre tension artérielle systolique est égale ou supérieure à 180 mmHg, ou si votre tension artérielle diastolique est égale ou supérieure à 180 mmHg, vous faites une crise d´hypertension. Allez à l´hôpital immédiatement avant que vos organes ne soient endommagés par l´hypertension artérielle. Pendant ce temps, essayez la technique de respiration profonde 6 fois en 30 secondes.</string>
+    <string name="bpunder7">Pseudo tension</string>
+    <string name="bpunder7t">Il faut au moins trois mesures pour pouvoir dire si une personne souffre d´hypertension artérielle. Décider que le patient a une pression artérielle élevée avec une seule mesure est considéré comme une pseudo tension artérielle. La tension artérielle d´une personne normale peut fluctuer tout au long de la journée. Votre tension artérielle peut être élevée après avoir marché, couru, fait de l´exercice, mangé.</string>
+    <string name="bpunder8">Tension artérielle de grossesse</string>
+    <string name="bpunder8t">L´hypertension artérielle peut être observée chez près d´une femme enceinte sur 10. L´hypertension gestationnelle doit être recherchée si elle est due à la grossesse ou à la prééclampsie et doit être différenciée de l´hypertension chronique. L´hypertension gestationnelle nuit à la fois à la mère et au bébé. L´hypertension chronique chez les mères âgées et en surpoids peut être détectée dès la première grossesse. L´hypertension gestationnelle survient généralement après la seconde moitié de la grossesse. Dans l´hypertension observée dans la prééclampsie, il y a une fuite de protéines dans l´urine. La prééclampsie provoque également un dème, des maux de tête et un dysfonctionnement hépatique. Peu d´antihypertenseurs peuvent être utilisés pendant la grossesse. L´hypertension gestationnelle peut entraîner une naissance prématurée, un retard de croissance chez le bébé, des lésions cérébrales et des dommages au placenta du bébé.</string>
+    <string name="bpunder9">Tension oculaire</string>
+    <string name="bpunder9t">Glaucome est le nom médical de la condition, populairement connue sous le nom de glaucome. Le glaucome est une lésion du nerf optique résultant d´une pression oculaire excessive de temps à autre. En conséquence, la vision du patient diminue progressivement. Le glaucome est plus fréquent chez les personnes de plus de 40 ans et peut être génétique. La myopie est plus à risque. Le risque de glaucome est accru chez les personnes atteintes de diabète et d´hypothyroïdie, d´utilisation à long terme de cortisone et de lésions oculaires.</string>
+
+
+    <string name="riskk">De nombreux facteurs de risque peuvent prédisposer au développement de l´hypertension artérielle. Le risque de développer une hypertension augmente avec l´âge. La présence de personnes hypertendues parmi les membres de la famille et les proches fait également partie des facteurs considérés comme à risque pour le développement de l´hypertension. En dehors de ces situations, les personnes en surpoids, ne faisant pas d´activité physique ou fumant du tabac sont également considérées dans le groupe considéré à risque de développer une hypertension. Les conditions pouvant entraîner une augmentation de la pression artérielle chez une personne sont examinées en 2 groupes en tant que causes primaires et secondaires. La définition de l´hypertension primaire (primaire) est un terme utilisé lorsque la condition qui peut provoquer une hypertension artérielle chez la personne ne peut être déterminée. L´hypertension primaire a tendance à se développer cliniquement progressivement au fil du temps. Le concept d´hypertension secondaire (secondaire), en revanche, signifie que l´hypertension artérielle chez la personne survient à la suite d´un certain état de santé. Contrairement à l´hypertension primaire, l´hypertension artérielle, qui se développe secondairement à une cause, augmente soudainement. L´hypertension secondaire peut survenir après diverses affections et l´utilisation de certains médicaments ou substances. Vous trouverez ci dessous les facteurs qui peuvent causer l´hypertension.</string>
+    <string name="risk1">Facteurs génétiques</string>
+    <string name="risk1t"></string>
+    <string name="risk2">Consommation élevée de sel</string>
+    <string name="risk2t"></string>
+    <string name="risk3">Diabète, cholestérol</string>
+    <string name="risk3t"></string>
+    <string name="risk4">Pilules contraceptives, certains analgésiques</string>
+    <string name="risk4t"></string>
+    <string name="risk5">Troubles thyroïdiens</string>
+    <string name="risk5t"></string>
+    <string name="risk6">Stress, obésité</string>
+    <string name="risk6t"></string>
+    <string name="risk7">Malnutrition en magnésium, potassium et calcium</string>
+    <string name="risk7t"></string>
+    <string name="risk8">Faible activité physique</string>
+    <string name="risk8t"></string>
+    <string name="risk9">Utilisation de substances interdites</string>
+    <string name="risk9t"></string>
+
+
+    <string name="faqq">Notre application sert d´outil de surveillance et de gestion des données pour surveiller votre tension artérielle et vous encourage à améliorer votre santé grâce à des informations scientifiques. Étant donné que la technologie de mesure de la pression artérielle avec les téléphones mobiles est encore en phase de développement et n´est pas prête pour une utilisation clinique, notre application ne mesure pas la pression artérielle, sous la responsabilité de nos utilisateurs.</string>
+    <string name="faq1">En fait, aucune application n´a été certifiée comme outil de mesure fiable de la pression artérielle.</string>
+    <string name="faq1t">La Food and Drug Administration (FDA) des États-Unis réglemente les dispositifs médicaux aux États Unis, affirmant que l´exactitude des mesures de la pression artérielle des applications peut être remise en question. Par conséquent, aucune application ne peut fournir une mesure précise et fiable de la pression artérielle.</string>
+    <string name="faq2">En général</string>
+    <string name="faq2t">Les applications de tension artérielle, disponibles en téléchargement sur Google Play et l´App Store, utilisent la torche et l´appareil photo de votre téléphone pour créer un oxymètre de pouls brut capable de détecter certaines informations sur votre système cardiovasculaire.</string >
+    <string name="faq3">Cependant</string>
+    <string name="faq3t">Il n´a pas été possible de prouver que les informations collectées étaient correctes ou applicables.</string>
+    <string name="faq4">Des recherches supplémentaires sont nécessaires pour développer et améliorer cette technologie.</string>
+    <string name="faq4t"></string>
+    <string name="faq5">Aucune application ne peut réellement mesurer votre tension artérielle.</string>
+    <string name="faq5t"></string>
+    <string name="faq6">Cette application:</string>
+    <string name="faq6t">L´enregistrement et la vérification régulière de vos lectures peuvent aider à une détection précoce.</string>
+    <string name="faq7">Peut suivre votre traitement</string>
+    <string name="faq7t"></string>
+    <string name="faq8">Crée des graphiques pour vous</string>
+    <string name="faq8t"></string>
+    <string name="faq9">Fournit un support de date</string>
+    <string name="faq9t"></string>
+
+
+
+    <string name="hipoad">Vous souffrez d´hypotension artérielle. Modifiez votre alimentation et consultez votre médecin si nécessaire pour la ramener à la normale.</string>
+    <string name="normalad">Aucun traitement nécessaire. Votre tension artérielle est optimale.</string>
+    <string name="yuksekad">Votre tension artérielle est un peu élevée. Pour éviter l´hypertension, il est bon d´améliorer son hygiène de vie et de mesurer régulièrement sa tension artérielle.</string>
+    <string name="hiperonead">3 valeurs ou plus dans cette plage indiquent une hypertension. Prenez des précautions pour votre mode de vie et consultez votre médecin pour abaisser votre tension artérielle.</string>
+    <string name="hipertwoad">Si vos indicateurs restent à ce stade, vous avez besoin de médicaments pour votre plan de traitement de la tension artérielle.</string>
+    <string name="tansifad">Votre tension artérielle est très élevée. Vous devriez consulter un médecin d´urgence.</string>
+
+    <string name="heyy">Hey pour votre santé cette application est pour vous</string>
+    <string name="oy">Votez pour nous</string>
+    <string name="ark">Partager avec des amis</string>
+    <string name="geri">Commentaires</string>
+    <string name="gizlilik">Politique de confidentialité</string>
+
+
+    <string name="ayarlar">PARAMETRES</string>
+
+    <string name="anladım">JE COMPRENDS</string>
+    <string name="kategori">CATÉGORIES</string>
+
+
+</resources>

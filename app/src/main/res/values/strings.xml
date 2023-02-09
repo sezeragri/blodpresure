@@ -1,0 +1,282 @@
+<resources>
+    <string name="app_name">Blood Pressure</string>
+    <string name="ana_giris">HOME</string>
+    <string name="tansiyonum">My Blood Pressure</string>
+    <string name="en_son">Latest</string>
+    <string name="buyuk_tansiyon">Systolic</string>
+    <string name="kucuk_tansiyon">Diastolic</string>
+    <string name="nabiz">Pulse</string>
+    <string name="tum_kayitlar">All Records</string>
+    <string name="ekle">Add</string>
+    <string name="ortalama">Average</string>
+    <string name="tansiyon_bilgileri">Blood Pressure Info</string>
+    <string name="daha">More</string>
+    <string name="izleyici">TRACKER</string>
+    <string name="kayitlar">Records</string>
+    <string name="hipotansiyon">Hypotension</string>
+    <string name="normal">Normal</string>
+    <string name="yüksek">Elevated</string>
+    <string name="hipertansiyonbirinciasama">Hypertension . Stage 1</string>
+    <string name="hipertansiyonikinciasama">Hypertension . Stage 2</string>
+    <string name="hipertansif">Hypertensive</string>
+    <string name="gecmis">Past</string>
+    <string name="hipertansiyonayonelikyasam">Hypertansion Effects You Should Know</string>
+    <string name="lifestyle">Lifestyle Remedies for Hypertension</string>
+    <string name="first_aid">First Aid for Hypotensive Emergencies</string>
+    <string name="hypotension_diagons">Hypotension Diagnosis and Medical Treatment</string>
+    <string name="exercises">Exercises to Control Hypertension</string>
+    <string name="alltoknow">All to Know About Hypotension</string>
+    <string name="medications">Mediciations for Hypertension</string>
+    <string name="Bp">BP Misunderstands and Myths</string>
+    <string name="hypertension_types">Hypertension Types and Symptoms</string>
+    <string name="topmistakes">Top Mistakes When Measuring BP</string>
+    <string name="first_aid_hypertensive">First Aid for Hypertensive Emergencies</string>
+    <string name="whoe_needs">Who Needs Home Bp Measurement</string>
+    <string name="faq">FAQ - Why not provide BP measurement in our app</string>
+    <string name="understanding">Undertanding BP Numbers</string>
+    <string name="master">Master Home BP Measurement</string>
+    <string name="risk">Risk Factors for Hypertension</string>
+    <string name="tarih">Date</string>
+    <string name="bilgiler">INFO AND KNOWLEDGE </string>
+    <string name="tarihvesaat">Date an Time </string>
+    <string name="not">Note </string>
+    <string name="kaydet">SAVE </string>
+    <string name="yenirekor">New record </string>
+    <string name="bilgi">INFO </string>
+
+    <string name="hipertansiyon_egzersiz">Looking for drug-free ways to primary prevention, treatment and control of hypertension Then you´ve come to the right place. This article will introduce physical exercises that will help lower blood pressure. Add them to your daily routine and you can see how much of a difference it will make. </string>
+    <string name="aerobik_egzersiz"> Aerobic exercise</string>
+    <string name="aerobik_egzersiz_tanim">As a primary modality in hypertensives; Aerobic exercises that involve large muscle groups, that can be sustained and that are rhythmic can be used. Aerobic exercises have long been an important method in the prevention and treatment of typical diseases such as non insulin dependent diabetes mellitus, hypertension, heart disease and osteoporosis that occur with aging. Walking, jogging and cycling have been tried as endurance exercises. The factor that prolongs the exercise time is important in personal preferences for the choice of exercise. Exercise types that ensure the exercise duration is as long as possible should be selected. </string>
+    <string name="aerobik_egzersiz_nekadar">HOW MUCH aerobic exercise do we need </string>
+    <string name="aerobik_egzersiz_nekadar_tanim">Aerobic exercise frequency between 3 and 5 days a week has been determined to be effective in lowering blood pressure. In the limited number of studies suggesting 7 sessions per week, they reported that it may be more effective than the studies performed 3 sessions per week. In general, those with low exercise capacity benefit from low intensity and duration exercise applied several times a day, while those with high exercise capacity benefit from continuous exercise 3 to 5 days a week. The American College of Sports Medicine (ACSM) recommends aerobic exercise, preferably all days of the week </string>
+    <string name="aerobik_ornek_baslik">EXAMPLES of aerobic activity that uses large muscle groups</string>
+    <string name="aerobik_ornekler">. Climbing stairs. walk . Jogging . Bike . swimming . Dance </string>
+    <string name="direnc"> Resistance training </string>
+    <string name="direnc_tanim">Strength exercises (such as weight lifting) are generally not recommended for people with hypertension. However, these exercises are especially important in the elderly, as loss of muscle mass and weakness cause significant damage. When blood pressure control is provided and patient education is given well, strengthening exercises are recommended to be used together with aerobic exercises that strengthen the endurance of the cardiovascular system.</string>
+    <string name="direnc_onlem">MEASURES </string>
+    <string name="direnc_onlem_tanim">Strength exercises are mostly applied to major muscle groups. Isometric exercises should especially be avoided. The posture of the person and the amount of weight lifted must be followed. You should not hold your breath during the exercises. Low resistance multi repetition strengthening exercises are recommended. While ACSM recommends strengthening exercises for large muscle groups 2 or 3 times a week, 3 sets, 8 or 15 repetitions involving 8,10 muscle groups, for hypertensive middle-aged individuals; recommends strengthening exercises for large muscle groups 2 or 3 times a week, 1 set, 8 or 15 repetitions involving 8,10 muscle groups. Loads can be increased gradually, starting with 40 to 60 percent of a determined maximum repetition weight (moderate intensity). Increasing muscle strength can increase the capacity of many individuals to perform activities such as climbing stairs and walking. </string>
+    <string name="ekipman">EXAMPLES of resistance training with equipment </string>
+    <string name="ekipman_ornekler">. Chest press. Shoulder pressure. Triceps extension . Biceps curl. Pull it down. Lower back extension. shuttle . Leg curls .Calf muscle building movement </string>
+    <string name="esneklik"> Flexibility training</string>
+    <string name="essnekliktanim">Simple flexibility exercises or stretches are beneficial for hypertensives. When you stretch your muscles and joints, you actually stretch blood vessels and arteries and reduce blood flow and stiffness. It´s time to add stretching to your workout routine.</string>
+    <string name="esneklikkactane">How many flexibility workouts do we need</string>
+    <string name="esneklikkactanetanim">According to research, doing it 2 to 5 days a week can lower blood pressure. Meanwhile, it´s important to keep each exercise between 10 and 30 seconds to ensure gains.</string>
+    <string name="esneklikornekbaslik">EXAMPLES flexibility stretches</string>
+    <string name="esneklikornek">. Yoga . Pilates</string>
+
+
+
+    <string name="hipertansiyongiris">Fighting silent quality is a lifetime commitment. Don´t just rely on drugs and make some changes to save your heart. By following the heart-healthy lifestyle in this article, you can get your numbers back where they should be. Let´s take steps to lower your blood pressure and improve daily life.</string>
+    <string name="title1">Psychological stress and relaxation techniques</string>
+    <string name="title1tanim">Emotional stress can cause acute elevation in blood pressure. Cognitive and behavioral approaches such as biological and feedback, yoga, transcendental meditation, and psychotherapy can provide a short and term reduction in blood pressure. However, the long term beneficial effects of these methods are unknown. A study has shown that stress prevention therapy is not effective in preventing hypertension. There is no evidence to suggest that sedatives and tranquilizers reduce blood pressure.</string>
+    <string name="title2"> Physical activity</string>
+    <string name="title2tanim">The risk of developing hypertension in people who lead a sedentary life is 20 to 50 percent higher than those with regular physical activity. In hypertensives who do regular aerobic (isotonic) exercise, there is a 4 to 8 mmHg decrease in systolic blood pressure. Hypertensive patients at least 3 to 4 times a week to reach 60 to 70 percent of the target heart rate for 30 to 45 minutes. They should take brisk walks. This type of exercise is more effective than running or jogging. Isometric exercises are not suitable for hypertensives. The use of antihypertensive drugs is not contraindicated for isotonic exercises. For those using beta-blockers, reaching 50 percent of the target heart rate may be sufficient. Arterial stiffness decreases in those who do regular aerobic exercise, while total systemic arterial compliance, EDRF secretion and insulin sensitivity increase. These mechanisms play a role in lowering blood pressure.</string>
+    <string name="title3">Alcohol use</string>
+    <string name="title3tanim">The prevalence of hypertension is high in people whose ethyl alcohol amount exceeds 28 to 55 g per day. These include acute blood pressure elevations. In these people, alcohol reduces the effect of antihypertensive drugs and increases the risk of stroke. High blood pressure may be detected at the beginning of the week due to acute alcohol cessation in heavy alcohol drinkers (5 or more doubles) over the weekend. Small amounts of daily alcohol use are associated with lower coronary artery disease mortality and morbidity than no or more alcohol use. Alcohol consumption should be limited to 60 ml of whiskey, 300 ml of wine or 720 ml of beer per day. Since the effect of alcohol may be higher in thin people, women should use less alcohol than the specified values, since the absorption of ethyl alcohol is higher in women than in men.</string>
+    <string name="title4">Magnesium intake</string>
+    <string name="title4tanim">Studies show a high prevalence of hypertension in those on a low magnesium diet. However, this relationship is not at a level that requires magnesium intake to lower blood pressure. 50 percentage of hypertensives receiving chronic diuretic therapy have low muscle magnesium levels. Magnesium deficiency is also responsible for hypokalemia that does not improve with potassium supplementation. In these patients, daily administration of 15 mmol Mg can lower blood pressure, help to improve hypokalemia and positively affect glucose metabolism.</string>
+    <string name="title5">Calcium intake</string>
+    <string name="title5tanim">Epidemiological studies have shown conflicting results about the relationship between blood pressure level and dietary calcium intake. When calcium is given 1 g per day, it causes a very minimal decrease in systolic blood pressure and diastolic blood pressure does not change. However, this effect does not require an increase in calcium intake for the prevention or treatment of hypertension. Increasing calcium intake further increases the hypercalciuria already present in hypertension, which can lead to kidney stones and urinary tract infection</string>
+    <string name="title6">Potassium intake</string>
+    <string name="title6alim">Diet, about 90 mmol potassium per day from fresh fruits and vegetables lowers blood pressure in hypertensives. In randomized controlled clinical trials, this reduction was 4.4 mmHg in systolic blood pressure and 2.4 mmHg in diastolic blood pressure. The use of potassium citrate or potassium bicarbonate provides more blood pressure reduction than potassium chloride. The blood pressure lowering effect of potassium may be reduced when a sodium-restricted diet is used. Caution should be exercised in the use of potassium in patients with renal failure who are taking ACE inhibitors or A II receptor antagonists. Potassium; It causes an increase in vascular Na and K ATP activity and related vascular relaxation, a decrease in renal vascular resistance and an increase in glomerular filtration rate, and it shows its blood pressure lowering effect by these mechanisms.</string>
+    <string name="title7">Salt restriction</string>
+    <string name="title7alim">The terms salt and sodium should not be confused. Chloride increases the effect of sodium. Sodium is taken with food, mostly in the form of table salt. When sodium is taken in other forms (such as Na bicarbonate), the blood pressure-raising effect is not much. In clinical, randomized studies, when sodium intake was restricted to 80 to 100 mmol (4.7 to 5.8 g) per day in hypertensive patients, a decrease of 4.8 , 1 mmHg in systolic blood pressure, and 2.5.0.7 mmHg in diastolic blood pressure were observed (64). Salt restriction should be applied for an average of 5 weeks to ensure low blood pressure. This effect is more pronounced in elderly hypertensives. Patients should be advised to consume less than 100 mmol (5.8 g) sodium per day or less than 6 g NaCl (salt) per day. A significant portion of dietary sodium comes from processed foods. Such foods should be avoided and salt shakers should not be used on the table. Sodium restriction increases the effect of antihypertensive drugs. This effect is not seen because calcium channel blockers have intrinsic natriuretic properties. However, the antiproteinuric effect of calcium channel blockers increases. 15 to 20 g of salt intake per day may reduce the antihypertensive effect of diuretics. Sodium restriction reduces potassium loss due to diuretics, regresses left ventricular hypertrophy, protects against osteoporosis, and relaxes vascular and bronchial smooth muscles. If sodium restriction is below 10 to 20 mmol per day, there is an increase in plasma catecholamines, LDL and triglycerides, and insulin resistance.</string>
+    <string name="title8">Quitting smoking</string>
+    <string name="title8alim">15 to 30 minutes after each cigarette. acute elevation of blood pressure. Although not detectable in clinical practice, elevations in 24 hour ambulatory blood pressure measurements have been demonstrated. Cigarette smoking is a factor that increases cardiovascular risk 2 to 3 times. The cardiovascular positive effects are seen within one year of quitting tobacco smoking. Smoking impairs the lipid profile, increases insulin resistance, increases left ventricular mass, and decreases endothelium-dependent arterial vasodilation. There are no studies showing that quitting smoking alone lowers blood pressure. However, smoking cessation is necessary to prevent resistance to drug therapy in hypertension and to reduce cardiovascular risk. Nicotine patches do not increase blood pressure and can be used to quit smoking. The effect of nicotine nasal spray on blood pressure is unknown.</string>
+    <string name="title9">Obesity</string>
+    <string name="title9alim">There is a correlation between a body mass index (BMI) of 27 or more and high blood pressure. Obese hypertensives have a higher incidence of dyslipidemia, insulin resistance, cardiovascular events, and diabetes mellitus. Weight loss of 5 kg initially leads to significant blood pressure reduction in most hypertensive patients. In controlled clinical studies, it has been shown that 1 kg of weight loss provides 1.6 mmHg and 1.3 mmHg reductions in systolic and diastolic blood pressures. If physical exercise is applied together, the decrease in blood pressure increases. Anoretic drugs should be avoided as they can raise blood pressure and cause pulmonary hypertension. With weight loss, the number and dose of antihypertensive drugs can be reduced. It has been shown by ambulatory blood pressure control that a diet rich in fruits, vegetables, fish oil, and fibrous foods can reduce 4.5 mmHg in systolic blood pressure and 2.7 mmHg in diastolic blood pressure. Weight loss initially causes intense natriuresis, and then decreases blood pressure with a decrease in sympathetic activity and improvement in insulin sensitivity, leading to long-term low blood pressure.</string>
+
+
+    <string name="yanlisanlama">You can hear all kinds of myths about blood pressure. Believing these myths can really undermine your blood pressure control and even make your condition worse. Below are 9 common misconceptions about blood pressure. Check out the following and don´t believe it.</string>
+    <string name="yanlisanlamatitle1">If blood pressure rises suddenly, it should be lowered to normal.</string>
+    <string name="yanlisanlamatitle1tanim">Reducing the blood pressure in a short time (with intravenous drugs or some sublingual drugs) is extremely harmful, especially in the elderly, except for some special cases. It causes serious problems by disrupting the blood flow to the brain. In such cases, consult your doctor.</string>
+    <string name="yanlisanlamatitle2">No hypertension in young people</string>
+    <string name="yanlisanlamatitle2tanim">Hypertension can occur at any age and is dangerous at any age.</string>
+    <string name="yanlisanlamatitle3">I have no complaints so my blood pressure is normal</string>
+    <string name="yanlisanlamatitle3tanim">The belief that high blood pressure is not important in the absence of complaints is extremely wrong. It is more dangerous if high blood pressure does not cause complaints in the patient. Because the patient does not have any complaints, the patient does not notice the high blood pressure or does not dwell on the disease. Even if it does not cause complaints, high blood pressure is always dangerous and causes damage to target organs such as heart, kidney, eye and brain.</string>
+    <string name="yanlisanlamatitle4">Food without salt has no taste at all.</string>
+    <string name="yanlisanlamatitle4tanim">The salt threshold of the salt sensing bodies in the tongue of people who constantly eat salty foods or add salt to their meals increases, and they perceive even normal salty meals as unsalted. However, the taste buds can be trained: If you eat less salt, after a few weeks, the food will taste "normal salty" to you. Even "normal salty" dishes come "too salty". Therefore, salty food habits can be changed. Moreover, too much salt masks the different flavors in the dishes that are not too dominant. By eating less salt, you can perceive these different flavors and get more pleasure from eating.</string>
+    <string name="yanlisanlamatitle5">Especially old people should be careful with salt.</string>
+    <string name="yanlisanlamatitle5tanim">Eating too much salt can raise blood pressure for people of all ages. Today, the incidence of high blood pressure (hypertension) in the 30s and 40s is quite high.</string>
+    <string name="yanlisanlamatitle6">Expensive salts are healthier.</string>
+    <string name="yanlisanlamatitle6tanim">Salt contains sodium chloride (NaCl), and it is sodium (Na) that raises blood pressure. It does not matter where the salt comes from (sea, underground, etc.) or how it is prepared (crystal, powder, coarse). After all, they all contain sodium chloride.</string>
+    <string name="yanlisanlamatitle7">I can understand if my blood pressure is high.</string>
+    <string name="yanlisanlamatitle7tanim"> Many people with high blood pressure have no complaints. Therefore, it cannot be known that the blood pressure is high unless it is measured.</string>
+    <string name="yanlisanlamatitle8">I can use as much dietary salt as I want instead of regular salt.</string>
+    <string name="yanlisanlamatitle8tanim">Dietary salts often contain potassium chloride (KCl), which gives the salt taste. Others may also have some regular salt added to it. Potassium chloride may be harmful in kidney patients. Therefore, you should use dietary salt only if your doctor recommends it.</string>
+    <string name="yanlisanlamatitle9">Himalayan salt is healthy</string>
+    <string name="yanlisanlamatitle9tanim">This salt, which is claimed to be healthy, also contains sodium chloride as we know it.</string>
+
+
+
+    <string name="hpacil">In this article, I will try to give you information about high blood pressure, symptoms of high blood pressure, what to do in high blood pressure. I also tried to write down what you can do urgently when high blood pressure becomes life threatening when it gets too high. Reminder, Emergency number 112.</string>
+    <string name="hpacil1">Emergency response</string>
+    <string name="hpacil1tanim">If your blood pressure is or has been greater than 180 mm Hg or small 120 mm Hg, but there are no signs of damage to vital organs, none of these symptoms should be present, nausea and vomiting, chest pain , shortness of breath, severe back pain, weakness, visual disturbances, difficulty speaking, severe anxiety, seizures, unresponsiveness. You are in this class. Maybe your doctor may need to make some adjustments to your medications. However, you may need to be treated as an inpatient in the hospital. Even if you are in this class, you should definitely go to the hospital.</string>
+    <string name="hpacil2">Emergency hospital care</string>
+    <string name="hpacil2tanim">If your blood pressure, systolic blood pressure is 180 or less than 120 or above, and there are signs of damage to vital organs, even one of these symptoms is sufficient. Nausea and vomiting, chest pain, shortness of breath, severe back pain , weakness , visual disturbances , difficulty speaking , severe anxiety , seizures , unresponsiveness are included in this class and call an ambulance immediately.</string>
+    <string name="hpacil3">You must measure your blood pressure correctly.</string>
+    <string name="hpacil3tanim">If the patient does not have a headache or chest pain, you should definitely repeat the measurement several times. Sometimes wrong measurement can be made with haste.</string>
+    <string name="hpacil4">Remain calm and calm the patient and unbutton the shirt by loosening the tight tie or belt.</string>
+    <string name="hpacil4tanim">If you have reached 180 mm Hg high or 120 mm Hg diastolic blood pressure values after repeating a few times, you have a problem. First you need to calm the patient down. If there is a tense environment, move the patient away. In the meantime, it is very important for you to remain calm. If the patient is angry or very upset about something, you can say calming things. Loosen any tight fitting accessories, such as belts and ties. Also, relieve the patient by unbuttoning a few of the shirt buttons.</string>
+    <string name="hpacil5">Have him take deep breaths 6 times in 30 seconds</string>
+    <string name="hpacil5tanim">After removing from the environment, place the patient in a cool and comfortable place and let them take 6 deep breaths in 30 seconds. Experiments show that deep breathing exercise can lower high blood pressure by as much as 10 points. The autonomic system begins to work in the parasympathetic system.</string>
+    <string name="hpacil6">Ensure that the patient takes the blood pressure medication he or she uses.</string>
+    <string name="hpacil6tanim">If a patient is on a medication for high blood pressure, have him take it. If the patient´s blood pressure is above 140 to 90 (systolic blood pressure 140, diastolic blood pressure 90) and if there are symptoms such as nausea and vomiting, chest pain, shortness of breath, severe back pain, weakness, visual disturbances, difficulty in speaking, severe anxiety, seizures, unresponsiveness, take their medication. should take it immediately and go to the hospital urgently.</string>
+    <string name="hpacil7">Try to reach the patient´s doctor.</string>
+    <string name="hpacil7tanim">Try to reach the patient´s doctor quickly by phone and follow his directions. In general, doctors use drugs with 1 tablet of oral Clonidine  75 mcg or  Captopril 25 mg to lower blood pressure. It is put under the tongue so that drugs with this active ingredient can take effect more quickly. If you are not a doctor, never give medicine to the patient according to yourself.</string>
+    <string name="hpacil8">Take the patient to the hospital.</string>
+    <string name="hpacil8tanim">Despite the calming down and falling blood pressure, the patient should definitely see a doctor immediately.</string>
+    <string name="hpacil9">Regular checkup</string>
+    <string name="hpacil9tanim">Take care of blood pressure measurement at regular intervals, it will be good for you. </string>
+
+
+
+    <string name="hipoacil">There are treatment methods that are good for low blood pressure. To explain medically, it is related to the pressure exerted by the blood inside the arteries. Low blood pressure, which has symptoms such as nausea and fainting, is known as a disorder that individuals of all ages can experience. It occurs in situations such as standing for a long time and being hungry. So, what is good for lowering blood pressure</string>
+    <string name="hipoacil1">Stay hydrated</string>
+    <string name="hipoacil1tanim">Try to drink 8 to 10 glasses of water a day. Spread your water consumption throughout the day. Pay more attention to this, especially in hot weather. Consuming water will increase blood volume and prevent blood pressure from falling.</string>
+    <string name="hipoacil2">Increase salt consumption</string>
+    <string name="hipoacil2tanim">It is well known that salt restriction is recommended for those with high blood pressure; because salt causes water retention in the body, raising blood pressure. The reverse is also true: people with low blood pressure can also increase their salt intake, making their blood pressure slightly higher. Normally, the recommended daily salt consumption is 1 teaspoon. In those with low blood pressure, salt consumption should be increased to 2.5 or 3 teaspoons per day, depending on the need.</string>
+    <string name="hipoacil3">Use less alcohol</string>
+    <string name="hipoacil3tanim">Alcohol will lower blood pressure as it relaxes the vessels. Also, some alcohols dehydrate the body as they increase urine output. Therefore, if you consume alcohol, be careful to be limited and take plenty of water with you.</string>
+    <string name="hipoacil4">Avoid heat</string>
+    <string name="hipoacil4tanim">Hot weather, hot environments such as sauna hammam, hot shower, such as dressing very warmly. These lower your blood pressure by relaxing your veins and also causing fluid loss from the body through sweat.</string>
+    <string name="hipoacil5">Wear compression stockings</string>
+    <string name="hipoacil5tanim"> These stockings, which are sold in different pressures and lengths according to needs, wrap the legs tightly and prevent the blood from pooling in the legs, thus making it easier for the blood to return to the heart. You can benefit a lot, especially when you know that you will be standing for a long time or if you have varicose veins.</string>
+    <string name="hipoacil6">Raise the head of your bed</string>
+    <string name="hipoacil6tanim">Raising the head of your bed by 10 to 15 cm causes some complex mechanisms that affect blood flow to the brain and kidneys, and low blood pressure and related complaints to improve. The important thing here is to raise not only the head, but also the upper part of the torso.</string>
+    <string name="hipoacil7">Eat often and little by little</string>
+    <string name="hipoacil7tanim">Eating large amounts of food diverts the body´s blood flow to the digestive tract, lowering blood pressure and reducing blood flow to the brain.</string>
+    <string name="hipoacil8">Gradually straighten up</string>
+    <string name="hipoacil8tanim">Don´t be in a hurry when getting out of bed or getting up after sitting for a long time. Allow time for the body to regulate tension by sitting first, moving the legs.</string>
+    <string name="hipoacil9">Contact doctor</string>
+    <string name="hipoacil9tanim">If your complaints are so severe and frequent that they affect your daily life, if you cannot cope on your own, consult a doctor. Maybe your doctor can help by detecting and treating some problems such as anemia, vitamin-mineral deficiency, hormonal disorders. Or you may find it appropriate to use drugs or supplements that increase blood pressure.</string>
+
+
+
+    <string name="hiperetki">Hypertension can lead to other vital problems if precautions are not taken. Although the danger is so great, there is not enough awareness in the society against hypertension.</string>
+    <string name="hiperetki1">Heart attack relationship</string>
+    <string name="hiperetki1tanim">Uncontrolled hypertension is one of the most important risk factors in the narrowing and occlusion of the coronary vessels feeding the heart muscle. In this case, chest pain, discomfort in the chest, and shortness of breath, which occur as a result of insufficient blood flow rich in oxygen to feed the heart, stand out as the most common symptoms of a heart attack.</string>
+    <string name="hiperetki2">Stroke</string>
+    <string name="hiperetki2tanim">Uncontrolled high blood pressure can cause brain vessels to be damaged, narrowed and cracked. In addition, the clot, which is a factor in the formation of high blood pressure, can also lead to stroke when the cerebral artery is blocked.</string>
+    <string name="hiperetki3">Heart failure</string>
+    <string name="hiperetki3tanim">When there is high blood pressure, the heart muscle thickens to pump blood throughout the body. Over time, the thickened heart muscle cannot perform its function to pump enough blood and heart failure occurs.</string>
+    <string name="hiperetki4">Memory problems</string>
+    <string name="hiperetki4tanim">The damage caused by high blood pressure to the brain vessels negatively affects memory, thinking and speaking skills.</string>
+    <string name="hiperetki5">Kidney disease association</string>
+    <string name="hiperetki5tanim">The ability of the kidneys to filter waste from the blood; it needs healthy veins to maintain regular fluid, hormone, salt and acid balance. For this reason, the disruption of this system due to high blood pressure leads to various kidney diseases. It´s also getting harder for the body to regulate blood pressure</string>
+    <string name="hiperetki6">Peripheral vascular diseases</string>
+    <string name="hiperetki6tanim">If blood flow is affected as a result of arteriosclerosis in the leg veins, pain, cramping and numbness may occur in the feet and legs.</string>
+    <string name="hiperetki7">Thickening, narrowing of the eye vessels</string>
+    <string name="hiperetki7tanim">If high blood pressure is not treated, it can damage the delicate vessels leading to the retina of the eye; The result can cause vision problems at different levels, up to permanent vision loss. Uncontrolled blood pressure, which also causes a stroke, can also lead to vision loss.</string>
+    <string name="hiperetki8">Sexual dysfunctions</string>
+    <string name="hiperetki8tanim">Scientific studies; reveals that sexual dysfunction is more common in both men and women with high blood pressure than in people without hypertension.</string>
+    <string name="hiperetki9">Aortic aneurysm</string>
+    <string name="hiperetki9tanim">As a result of high blood pressure due to hypertension and weakening of the vessel wall over time, it can cause enlargement in a part of the vessel and ballooning, which is defined as an aneurysm. Although an aneurysm can form in vessels all over the body, it is often found in the body´s largest vessel, the aorta, and can rupture and cause life threatening bleeding.</string>
+
+    <string name="tanhata">There are some rules to follow before and during blood pressure measurement so that blood pressure values are not wrong.</string>
+    <string name="tanhata1">Do not talk, laugh or make noise during blood pressure measurement.</string>
+    <string name="tanhata1t"></string>
+    <string name="tanhata2">Do not take a blood pressure measurement without meeting your toilet needs before measuring blood pressure.</string>
+    <string name="tanhata2t"></string>
+    <string name="tanhata3">Do not measure with tight clothes</string>
+    <string name="tanhata3t"></string>
+    <string name="tanhata4">The room is not too hot or too cold</string>
+    <string name="tanhata4t"></string>
+    <string name="tanhata5">Your feet must be firmly on the ground</string>
+    <string name="tanhata5t"></string>
+    <string name="tanhata6"> Measure with the bare arm.</string>
+    <string name="tanhata6t"></string>
+    <string name="tanhata7">Check device battery</string>
+    <string name="tanhata7t"></string>
+    <string name="tanhata8">Do not smoke while measuring</string>
+    <string name="tanhata8t"></string>
+    <string name="tanhata9">Do not move too much when measuring</string>
+    <string name="tanhata9t"></string>
+
+
+
+    <string name="bpunder">The blood pressure inside the arteries is called blood pressure. When the capillary muscle contracts, blood is pumped into the arteries. The pressure measured at this time is the systolic pressure. When the heart muscle relaxes, the blood stops in the vein; the pressure measured at this time is the diastolic pressure. In blood pressure measurement, systolic (large) and diastolic (small) blood pressures are checked. High blood pressure is called hypertension. Ideal blood pressure can vary from person to person. On average, systolic blood pressure between 120 and 130 and diastolic blood pressure between 70 and 90 is considered normal. Low blood pressure values in young people and children can be considered normal. Let´s examine these values now.</string>
+    <string name="bpunder1">Hypotension</string>
+    <string name="bpunder1t">Hypotension does not cause any symptoms and is not objectionable unless it is very obvious. It is considered positive because it reduces the risk of cardiovascular diseases. Sudden drop in blood pressure can cause dizziness, weakness and fainting.</string>
+    <string name="bpunder2">Normal</string>
+    <string name="bpunder2t">Your blood pressure is ideal (Normal) if your systolic blood pressure is less than 120 mmHg AND your diastolic blood pressure is less than 80 mmHg. If even one of your systolic or diastolic blood pressure is above the limit, you are out of the normal range. If your systolic blood pressure is normal but your diastolic blood pressure is above 90 Hg, we call it Isolated Diastolic hypertension (IDH).</string>
+    <string name="bpunder3">Upgraded</string>
+    <string name="bpunder3t">If your systolic blood pressure is between 120 and 129 mmHg and your diastolic blood pressure is less than 80 mmHg, you are in the Elevated Blood Pressure category. Establish healthy habits so that your blood pressure can return to normal or not rise further. Make sure to have your blood pressure measurement and general controls done within 3 to 6 months.</string>
+    <string name="bpunder4">Hypertension Stage 1</string>
+    <string name="bpunder4t">High (Hyper) Blood Pressure (Level 1) is mentioned if your systolic blood pressure is between 130 and 139 mmHg or your diastolic blood pressure is between 80 and 89 mmHg. You can ask your doctor for help. If your risk is less than 10 percent, get rid of your bad habits and have your blood pressure measurement and general controls done every 3 or 6 months. If your risk is over 10 percent, you should get a doctor´s opinion.</string>
+    <string name="bpunder5">Hypertension Stage 2</string>
+    <string name="bpunder5t">If your systolic blood pressure is greater than or equal to 140 mmHg, or if your diastolic blood pressure is greater than or equal to 90 mmHg, you fall into the High (Hyper) Blood Pressure (Level 2) blood pressure category.</string>
+   <string name="bpunder6">Hypertension Crisis</string>
+   <string name="bpunder6t">If your systolic blood pressure is equal to or higher than 180 mmHg, or if your diastolic blood pressure is equal or higher than 180 mmHg, you have a hypertension crisis. Go to the hospital immediately before your organs are damaged by high blood pressure. During this time, try the deep breathing technique 6 times in 30 seconds.</string>
+   <string name="bpunder7">Pseudo tension</string>
+   <string name="bpunder7t">It takes at least three measurements to be able to tell if a person has high blood pressure. Deciding that the patient has high blood pressure with a single measurement is considered as pseudo blood pressure. A normal person´s blood pressure can fluctuate throughout the day. Your blood pressure may be high after walking, running, exercising, eating.</string>
+   <string name="bpunder8">Pregnancy blood pressure</string>
+  <string name="bpunder8t">High blood pressure can be seen in almost one out of every 10 pregnant women. Gestational hypertension should be investigated whether it is due to pregnancy or preeclampsia and should be differentiated from chronic hypertension. Gestational hypertension harms both mother and baby. Chronic hypertension in older and overweight mothers can be detected in the first pregnancy. Gestational hypertension usually occurs after the second half of pregnancy. In hypertension seen in preeclampsia, there is protein leakage in the urine. Preeclampsia also causes edema, headache, and liver dysfunction. Few antihypertensives can be used during pregnancy. Gestational hypertension can cause premature birth, growth retardation in the baby, brain damage and damage to the baby´s placenta.</string>
+  <string name="bpunder9">Eye tension</string>
+  <string name="bpunder9t">Glaucoma is the medical name for the condition, popularly known as glaucoma. Glaucoma is damage to the optic nerve as a result of excessive eye pressure from time to time. As a result, the patient´s vision gradually decreases. Glaucoma is more common in people over the age of 40 and may be genetic. Myopia is more at risk. The risk of glaucoma is increased in people with diabetes and hypothyroidism, long-term cortisone use, and those with eye injuries.</string>
+
+
+    <string name="riskk">There are many risk factors that may predispose to the development of high blood pressure. The risk of developing hypertension increases with advancing age. The presence of individuals with hypertension among family members and relatives is also among the factors considered risky for the development of hypertension. Apart from these situations, people who are overweight, do not do physical activity or smoke tobacco are also considered in the group considered at risk for the development of hypertension. Conditions that may cause an increase in blood pressure in a person are examined in 2 groups as primary and secondary causes. The definition of primary (primary) hypertension is a term used when the condition that may cause high blood pressure in the person cannot be determined. Primary hypertension tends to develop clinically gradually over time. The concept of secondary (secondary) hypertension, on the other hand, means that high blood pressure in the person occurs as a result of a certain health condition. Unlike primary hypertension, high blood pressure, which develops secondary to a cause, rises suddenly. Secondary hypertension may occur after various ailments and the use of certain drugs or substances. Below are the factors that can cause hypertension.</string>
+    <string name="risk1">Genetic factors</string>
+    <string name="risk1t"></string>
+    <string name="risk2">High salt consumption</string>
+    <string name="risk2t"></string>
+    <string name="risk3">Diabetes, cholesterol</string>
+    <string name="risk3t"></string>
+    <string name="risk4">Birth control pills, some painkillers</string>
+    <string name="risk4t"></string>
+    <string name="risk5">Thyroid disorders</string>
+    <string name="risk5t"></string>
+    <string name="risk6">Stress, obesity</string>
+    <string name="risk6t"></string>
+    <string name="risk7">Magnesium, potassium and calcium malnutrition</string>
+    <string name="risk7t"></string>
+    <string name="risk8">Low physical activity</string>
+    <string name="risk8t"></string>
+    <string name="risk9">Use of prohibited substances</string>
+    <string name="risk9t"></string>
+
+
+    <string name="faqq">Our app serves as a data monitoring and management tool to monitor your BP and encourages you to improve your health with science-backed information. Since the technology for measuring blood pressure with mobile phones is still in the development stage and is not ready for clinical use, our application does not measure blood pressure, under the responsibility of our users.</string>
+    <string name="faq1">Actually, no app has been certified as a reliable BP measurement tool.</string>
+    <string name="faq1t">The U.S. Food and Drug Administration (FDA) regulates medical devices in the United States, claiming that the accuracy of app blood pressure measurements may be questioned. Therefore, no application can provide accurate and reliable BP measurement.</string>
+    <string name="faq2">Generally speaking</string>
+    <string name="faq2t">Blood pressure apps, available for download from Google Play and the App store, use your phone´s torch and camera to create a raw pulse oximeter that can detect some information about your cardiovascular system.</string>
+    <string name="faq3">However</string>
+    <string name="faq3t">The information collected could not be proven to be correct or applicable.</string>
+    <string name="faq4">More research is needed to develop and improve this technology.</string>
+    <string name="faq4t"></string>
+    <string name="faq5">No app can actually measure your blood pressure.</string>
+    <string name="faq5t"></string>
+    <string name="faq6">This app:</string>
+    <string name="faq6t">Recording and checking your readings regularly can aid in early detection.</string>
+    <string name="faq7">Can track your treatment</string>
+    <string name="faq7t"></string>
+    <string name="faq8">Creates graphics for you</string>
+    <string name="faq8t"></string>
+    <string name="faq9">Provides date support</string>
+    <string name="faq9t"></string>
+
+
+
+    <string name="hipoad">You are experiencing low blood pressure. Change your diet and consult your doctor if necessary to bring it back to normal.</string>
+    <string name="normalad">No treatment needed. Your blood pressure is at its best.</string>
+    <string name="yuksekad">Your blood pressure is a little high. To avoid hypertension, it is good to improve your lifestyle and measure your blood pressure regularly.</string>
+    <string name="hiperonead">3 or more values in this range indicate hypertension. Take precautions for your lifestyle and consult your doctor to lower your blood pressure.</string>
+    <string name="hipertwoad">If your indicators stay at this stage, you need medications for your blood pressure treatment plan.</string>
+    <string name="tansifad">Your blood pressure is seriously high. You should seek emergency medical attention.</string>
+
+
+    <string name="heyy">Hey for your health this app is for you</string>
+    <string name="oy">Vote For Us</string>
+    <string name="ark">Share with Friends</string>
+    <string name="geri">Feedback</string>
+    <string name="gizlilik">Privacy Policy</string>
+
+
+    <string name="ayarlar">SETTINGS</string>
+
+    <string name="anladım">I UNDERSTAND</string>
+    <string name="kategori">CATEGORIES</string>
+
+</resources>

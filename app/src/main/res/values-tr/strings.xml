@@ -1,0 +1,301 @@
+<resources>
+    <string name="app_name">Blood Pressure</string>
+    <string name="ana_giris">ANA</string>
+    <string name="tansiyonum">Tansiyonum</string>
+    <string name="en_son">EN SON</string>
+    <string name="buyuk_tansiyon">Büyük Tansiyon</string>
+    <string name="kucuk_tansiyon">Küçük Tansiyon</string>
+    <string name="nabiz">Nabız</string>
+    <string name="tum_kayitlar">Tüm Kayıtlar</string>
+    <string name="ekle">Ekle</string>
+    <string name="ortalama">Ortalama</string>
+    <string name="tansiyon_bilgileri">Tansiyon Bilgileri</string>
+    <string name="daha">Daha</string>
+    <string name="izleyici">IZLEYICI</string>
+    <string name="kayitlar">Kayitlar</string>
+    <string name="hipotansiyon">Hipotansiyon</string>
+    <string name="normal">Normal</string>
+    <string name="yüksek">Yüksek</string>
+    <string name="hipertansiyonbirinciasama">Hipertansiyon 1. Aşama</string>
+    <string name="hipertansiyonikinciasama">Hipertansiyon 2. Aşama</string>
+    <string name="hipertansif">Hipeprtansif</string>
+    <string name="gecmis">Geçmiş</string>
+
+    <string name="hipertansiyonayonelikyasam">Bilmeniz Gereken Hipertansiyon Etkileri</string>
+    <string name="lifestyle">Hipertansiyon için Yaşam Tarzı Çözümleri</string>
+    <string name="first_aid">Hipotansif Acil Durumlarda İlk Yardım</string>
+    <string name="hypotension_diagons">Hipotansiyon Teşhis ve Medikal Tedavi</string>
+    <string name="exercises">Hipertansiyonu Kontrol Etmek İçin Egzersizler</string>
+    <string name="alltoknow">Hipotansiyon Hakkında Bilinmesi Gereken Her Şey</string>
+    <string name="medications">Hipertansiyon için ilaçlar</string>
+    <string name="Bp">BP Yanlış Anlamaları ve Efsaneler</string>
+    <string name="hypertension_types">Hipertansiyon Çeşitleri ve Belirtileri</string>
+    <string name="topmistakes">Tansiyonu Ölçerken En Çok Yapılan Hatalar</string>
+    <string name="first_aid_hypertensive">Hipertansif Acil Durumlarda İlk Yardım</string>
+    <string name="whoe_needs">Kimler Evde Kan Basıncı Ölçümüne İhtiyaç Duyar</string>
+    <string name="faq">SSS - Neden uygulamamızda KB ölçümü sağlamıyorsunuz</string>
+    <string name="understanding">BP Numaralarını Anlamak</string>
+    <string name="master">Ana Sayfa BP Ölçümü</string>
+    <string name="risk">Hipertansiyon için Risk Faktörleri</string>
+    <string name="tarih">Tarih</string>
+    <string name="bilgiler">BILGILER VE BILGI </string>
+    <string name="tarihvesaat">Tarih ve Saat </string>
+    <string name="not">Not </string>
+    <string name="kaydet">KAYDET </string>
+    <string name="yenirekor">Yeni rekor </string>
+    <string name="bilgi">BILGI </string>
+
+    <string name="hipertansiyon_egzersiz">Hipertansiyonun birincil önlenmesi, tedavisi ve kontrolü için ilaçsız yollar mı arıyorsunuz O zaman doğru yere geldiniz. Bu makale, kan basıncını düşürmeye yardımcı olacak fiziksel egzersizleri tanıtacakıtr.Bunları günlük rutininize ekleyin, ne kadar büyük bir fark yaratacağınızı görebilirsiniz. </string>
+    <string name="aerobik_egzersiz"> Aerobik egzersiz </string>
+    <string name="aerobik_egzersiz_tanim">Hipertansiflerde primer modalite olarak; büyük kas gruplarını içeren, süreklilik sağlanabilen ve ritmik olan aerobik egzersizler kullanılabilir. Aerobik egzersizler uzun zamandır yaşlanmayla ortaya çıkan insüline bağımlı olmayan diabetes mellitus, hipertansiyon, kalp hastalığı ve osteoporoz gibi tipik hastalıkların engellenmesi ve tedavisinde önemli bir yöntem olmuştur. Yürüyüş, jogging ve bisiklet dayanıklılık egzersizi olarak denenmiştir. Egzersizin seçimine yönelik kişisel tercihlerde egzersiz süresini uzatan faktör önemlidir. Egzersiz süresinin mümkün olduğu kadar uzun olmasını sağlayan egzersiz tipleri seçilmelidir. </string>
+    <string name="aerobik_egzersiz_nekadar">NE KADAR aerobik egzersize ihtiyacımız var </string>
+    <string name="aerobik_egzersiz_nekadar_tanim">Aerobik egzersiz frekansının haftada 3 ile 5 gün arasında yapılması tansiyonun düşürülmesinde etkili olduğu belirlenmiştir. Haftada 7 seansı öneren sınırlı sayıdaki çalışmalarda haftada 3 seans yapılan çalışmalardan daha etkili olabileceğini bildirmişlerdir. Genel olarak, egzersiz kapasitesi düşük olanlar, düşük şiddet ve süreli, gün içinde birkaç defa uygulanan egzersizden fayda görürken, egzersiz kapasitesi yüksek olanlar haftada 3 ile 5 gün sürekli yapılan egzersizden fayda görürler. Amerikan Spor Hekimliği Koleji (ACSM) tercihen haftanın tüm günlerinde aerobik egzersizi önermektedir </string>
+
+    <string name="aerobik_ornek_baslik">Büyük kas gruplarını kullanan aerobik aktivite ÖRNEKLERİ </string>
+    <string name="aerobik_ornekler">. Merdiven tırmanma . yürüyüş . Koşu yapmak . Bisiklet . Yüzme . Dans </string>
+    <string name="direnc"> Direnç eğitimi </string>
+    <string name="direnc_tanim">Kuvvetlendirme egzersizleri (ağırlık kaldırma gibi), genellikle hipertansiyonu olan kişilere önerilmez. Ancak, bu egzersizler kas kitlesi kaybının ve güçsüzlüğünün önemli hasarlar teşkil ettiği için özellikle yaşlılarda önemlidir. Tansiyon kontrolü sağlandığında ve hasta eğitimi iyi şekilde verildiğinde, kuvvetlendirme egzersizlerinin kalp dolaşım sistemi dayanıklılığını güçlendiren, aerobik egzersizlerle birlikte kullanılması önerilmektedir.</string>
+
+    <string name="direnc_onlem">ÖNLEMLER </string>
+    <string name="direnc_onlem_tanim">Kuvvetlendirme egzersizleri daha çok majör kas gruplarına uygulanır. İzometrik egzersizlerden özellikle kaçınılmalıdır. Kişinin duruşu, kaldırdığı ağırlık miktarı mutlaka takip edilmelidir. Egzersizler sırasında nefesin tutulmaması gerekir. Düşük direnç çok tekrarlı kuvvetlendirme egzersizleri önerilir. ACSM, hipertansif orta yaş bireylerde büyük kas gruplarına haftada 2 veya 3 kez, 3 set, 8,10 kas grubunu içeren, 8 veya 15 tekrarlı kuvvetlendirme egzersizlerini önerirken; yaşlılarda büyük kas gruplarına haftada 2 veya 3 kez, 1 set, 8,10 kas grubunu içeren 8 veya 15 tekrarlı kuvvetlendirme egzersizlerini önermektedir. Belirlenen bir maksimum tekrar ağırlığının yüzde 40 ile 60’ı (orta şiddetli) ile başlanarak tedrici olarak yüklenmeler artırılabilir. Kas kuvvetini artırmak, birçok bireyin merdiven çıkma ve yürüme gibi aktiviteleri yerine getirebilme kapasitelerini artırabilmektedir. </string>
+
+    <string name="ekipman">Ekipmanla direnç eğitimi ÖRNEKLERİ </string>
+    <string name="ekipman_ornekler">. Göğüs presi . Omuz baskısı . Triceps uzantısı . Biceps kıvrımı . Aşağı çek . Alt sırt uzantısı . Mekik . Bacak bukleleri .Baldır kası geliştirme hareketi </string>
+
+    <string name="esneklik"> Esneklik antrenmanı</string>
+    <string name="essnekliktanim">Basit esneklik egzersizleri veya esneme hareketleri hipertansifler için fayda sağlar. Kaslarınızı ve eklemlerinizi gerdiğinizde, aslında kan damarlarını ve atardamarları germiş olursunuz ve kan akışını sertliğini azaltırsınız. Egzersiz rutininize esnemeyi eklemenin zamanı geldi.</string>
+
+    <string name="esneklikkactane">Kaç esneklik antrenmanına ihtiyacımız var</string>
+    <string name="esneklikkactanetanim">Araştırmalara göre, haftada 2 ile 5 gün yapmak kan basıncını düşürebilir. Bu arada kazanımları sağlamak için her egzersizi 10 ile 30 saniye arasında tutmak önemlidir.</string>
+
+    <string name="esneklikornekbaslik">ÖRNEKLER esneklik esnemeleri</string>
+    <string name="esneklikornek">. Yoga . Pilates</string>
+
+
+
+
+
+
+    <string name="hipertansiyongiris">Sessiz kaliteye karşı savaşmak ömür boyu sürecek bir taahüttür. sadece ilaçlara güvenmeyin ve kalbinizi kurtarmak için bazı değişiklikler yapın. Bu makaledeki kalp-sağlıklı yaşamı takip ederek,sayılarınızı olması gerektiği yere geri döndürebilirsiniz. Şimdi tansiyonunuzu düşürmek ve günlük yaşamı iyileştirmek için adım atalım.</string>
+    <string name="title1">Psikolojik stres ve gevşeme teknikleri</string>
+    <string name="title1tanim">Emosyonel stres kan basıncında akut yükselme yapabilir. Biyolojik geri besleme(biological feed back), yoga, transandantal meditasyon, psikoterapi gibi kognitif-davranışsal yaklaşımlar kan basıncında kısa süreli düşme sağlayabilirler. Ancak bu yöntemlerin uzun süreli faydalı etkileri bilinmemektedir. Yapılan bir çalışmada stresi önleme tedavisinin hipertansiyondan korunmada etkili olmadığını göstermiştir. Sedatif ve trankilizanların kan basıncını azalttığını gösteren kanıtlar yoktur.</string>
+    <string name="title2">Fizik aktivite</string>
+    <string name="title2tanim">Sedanter yaşam süren kişilerde hipertansiyon gelişme riski, düzenli fiziki aktivitesi olanlara göre yüzde 20 ile 50 daha fazladır. Düzenli aerobik (izotonik) egzersiz yapan hipertansiflerde sistolik kan basıncında 4 ile 8 mmHg düşme olmaktadır. Hipertansif hastalar haftada en az 3 ile 4 kez hedef kalp hızının yüzde 60 ile 70´ine ulaşacak şekilde 30 ile 45 dk. lık hızlı yürüyüşler yapmalıdırlar. Bu tip egzersiz koşu veya jogging’den daha etkilidir. İzometrik egzersizler hipertansifler için uygun değildir. Antihipertansif ilaç kullanımı izotonik egzersizler için kontrendike değildir. Beta bloker kullananlar için hedef kalp hızının yüzde 50 sine ulaşmak yeterli olabilir. Düzenli aerobik egzersiz yapanlarda arter sertliği azalmakta, total sistemik arteriel komplians, EDRF salgısı ve insülin sensitivitesi ise artmaktadır. Bu mekanizmalar kan basıncının düşmesinde rol oynamaktadır.</string>
+    <string name="title3">Alkol kullanımı</string>
+    <string name="title3tanim">Etil alkol miktarı günlük 28 ile 55 gramı geçenlerde hipertansiyon prevalansı fazladır. Bunlarda akut kan basıncı yükselmesi görülür. Bu kişilerde alkol antihipertansif ilaçların etkisini azaltır ve inme riskini artırır. Hafta sonu yoğun alkol alanlarda (5 veya daha fazla duble), akut alkol kesilmesine bağlı olarak hafta başında kan basıncı yüksekliği saptanabilir. Az miktarda günlük alkol kullanımı hiç içmemeye veya daha fazla alkol kullanmaya oranla daha düşük koroner arter hastalığı mortalitesi ve morbiditesi ile birliktedir. Alkol tüketimi günlük 60 ml viski, 300 ml şarap veya 720 ml birayla sınırlandırılmalıdır. Zayıf insanlarda alkolün etkisi daha fazla olabileceğinden kadınlarda ise etil alkolun emilimi erkeklere göre daha fazla olduğundan bu kişiler belirtilen değerlerden daha az alkol kullanmalıdırlar.</string>
+    <string name="title4">Magnezyum alımı</string>
+    <string name="title4tanim">Çalışmalar, düşük magnezyumlu diyet alanlarda hipertansiyon prevalansınının fazla olduğunu göstermektedir. Ancak bu ilişki, kan basıncı düşürülmesi için magnezyum alımını gerektirecek düzeyde değildir. Kronik diüretik tedavisi alan hipertansiflerin yüzde 50’sinin kaslarda magnezyum düzeyi düşüktür. Potasyum verilmesiyle düzelmeyen hipokalemiden de magnezyum eksikliği sorumludur. Bu hastalarda günde 15 mmol Mg verilmesi kan basıncını düşürebilir, hipokaleminin düzelmesine yardımcı olur ve glukoz metabolizmasını da olumlu yönde etkiler.</string>
+    <string name="title5">Kalsiyum alımı</string>
+    <string name="title5tanim">Epidemiyolojik çalışmalarda kan basıncı düzeyi ile diyetle alınan kalsiyum arasındaki ilişki çelişkili sonuçlar göstermiştir. Kalsiyum günde 1g verildiğinde sistolik kan basıncında çok minimal düşme yapar ve diyastolik kan basıncı da değişmez. Ancak bu etki hipertansiyondan korunma veya tedavi amacıyla kalsiyum alımının arttırılmasını gerektirecek özellikte değildir. Kalsiyum alımının artması hipertansiyonda zaten mevcut olan hiperkalsiüriyi daha da arttırır, böbrek taşlarına ve üriner sistemde infeksiyona yol açabilir</string>
+    <string name="title6">Potasyum alımı</string>
+    <string name="title6alim">Diyetle, taze meyve ve sebzelerden sağlanan yaklaşık günde 90 mmol potasyum hipertansiflerde kan basıncını düşürür. Randomize kontrollü klinik çalışmalarda bu düşme sistolik kan basıncında 4.4 mmHg, diyastolik kan basıncında 2.4 mmHg’dır. Potasyum sitrat veya potasyum bikarbonat kullanılması potasyum klorür’e göre daha fazla kan basıncı azalmasını sağlar. Sodyumdan kısıtlı diyet kullanıldığında potasyumun kan basıncı düşürücü etkisi azalabilir. Böbrek yetersizliği olanlarda ACE inhibitörü veya A II reseptör antagonisti alanlarda potasyum kullanımı için dikkatli olunmalıdır. Potasyum; vasküler Na ile K ATP aktivitesinde artış ve buna bağlı vasküler gevşeme yapmakta, renal vasküler dirençte azalma ve glomerüler filtrasyon hızında artış oluşturmakta ve bu mekanizmalarla kan basıncı düşürücü etkisini göstermektedir.</string>
+    <string name="title7">Tuz kısıtlaması</string>
+    <string name="title7alim">Tuz ve sodyum kavramları karıştırılmamalıdır. Klorür sodyumun etkisini arttırmaktadır. Sodyum, çoğunlukla sofra tuzu şeklinde gıdayla alınmaktadır. Sodyum diğer şekillerde alındığında (Na bicarbonat gibi) kan basıncı arttırıcı etkisi fazla değildir. Klinik, randomize çalışmalarda hipertansif hastalarda sodyum alımı günde 80 ile 100 mmol (4.7 ile 5.8 g) ile kısıtlandığında sistolik kan basıncında 4.8 , 1 mmHg, diyastolik kan basıncında 2.5,0.7 mmHg düşme görülmüştür (64). Kan basıncı düşüklüğünün sağlanması için ortalama 5 haftalık tuz kısıtlaması yapılmalıdır. Yaşlı hipertansiflerde bu etki daha fazladır. Hastalara günde 100 mmol (5. 8 g) den az sodyum ya da günde 6g’dan az NaCl (tuz) almaları önerilmelidir. Diyetle alınan sodyumun önemli bir kısmı işlenmiş gıdalardan gelmektedir. Bu tür gıdalardan kaçınılmalı ve sofrada tuzluk kullanılmamalıdır. Sodyum kısıtlaması antihipertansif ilaçların etkisini artırır. Kalsiyum kanal blokerlerinin intrensek natriüretik özelliği olduğu için bu etki görülmez. Ancak kalsiyum kanal blokerlerinin antiproteinürik etkisi artar. Günde 15 ile 20 g tuz alımı ise diüretiklerin antihipertansif etkisini azaltabilir. Sodyum kısıtlaması diüretiklere bağlı potasyum kaybını azaltır, sol ventrikül hipertrofisini geriletebilir, osteoporoza karşı koruma sağlar, vasküler ve bronşial düz kaslarda gevşeme yapar. Sodyum kısıtlaması günde 10 ile 20 mmol´un altında olursa, plazma katekolaminlerinde, LDL ve trigliseridde, insülin direncinde artma görülür.</string>
+    <string name="title8">Sigara içiminin bırakılması</string>
+    <string name="title8alim">Her sigara içiminden sonra 15 ile 30 dk. süren akut kan basıncı yükselmesi olur. Klinik uygulamada saptanamasa bile 24 saatlik ambulatuar kan basıncı ölçümlerinde yükselmeler gösterilmiştir. Sigara içimi kardiovasküler riski 2 ile 3 kat artıran bir faktördür. Kardiyovasküler olumlu etkiler tütün içiminin bırakılmasından sonraki bir yıl içinde görülür. Sigara lipid profilini bozar, insülin direncini artırır, sol ventrikül kütlesinde artış olur ve endotele bağımlı arteriyel vasodilatasyonda azalmaya yol açar. Tek başına sigarayı bırakmanın kan basıncını düşürdüğünü gösteren çalışma yoktur. Ancak, sigarayı bırakmak hipertansiyonda ilaç tedavisine karşı direncin önlenmesi ve kardiovasküler riskin azaltılması için gereklidir. Nikotin bandları kan basıncını yükseltmemektedir ve sigarayı bırakmak için kullanılabilirler. Nikotin burun spreyinin kan basıncı üzerine etkisi ise bilinmemektedir.</string>
+    <string name="title9">Şişmanlık ve zayıflama</string>
+    <string name="title9alim">Vücut kütle indeksinin 27 veya daha fazla olması ile kan basıncı yüksekliği arasında ilişki vardır. Obez hipertansiflerde dislipidemi, insülin direnci, kardiovasküler olay, diabetes mellitus sıklığı fazladır. Başlangıçta 5 kg zayıflama, hipertansif hastaların çoğunda anlamlı kan basıncı düşmesine yol açar. Kontrollü klinik çalışmalarda 1 kg zayıflamanın sistolik ve diyastolik kan basınçlarında 1.6 mmHg ve 1.3 mmHg düşme sağladığı gösterilmiştir. Birlikte fiziki egzersiz uygulanırsa kan basıncında düşme artmaktadır. Kan basıncını yükseltebileceği ve pulmoner hipertansiyona neden olabileceği için anoretik ilaçlardan kaçınılmalıdır. Kilo kaybı ile antihipertansif ilaçların sayısı ve dozu azaltılabilir. Meyve, sebze, balık yağı, lifli gıdalardan zengin diyet ile sistolik kan basıncında 4.5 mmHg, diyastolik kan basıncında 2.7 mmHg düşme sağlanabileceği ambulatuar kan basıncı kontrolüyle gösterilmiştir. Kilo kaybı başlangıçta yoğun natriüreze neden olmakta, daha sonra ise sempatik aktivitede azalma ve insülin sensitivitesinde düzelme ile kan basıncının uzun süreli düşük olmasını sağlamaktadır.</string>
+
+    <string name="yanlisanlama">Tansiyon hakkında her türlü efsaneyi duyabilirsiniz. Bu efsanelere inanmak, kan basıncı kontrolünüzü gerçekten boşa çıkarabilir ve hatta durumunuzu daha da kötüleştirebilir. Aşağıda kan basıncıyla ilgili 9 yaygın yanlış anlama vardır. Aşağıdakilere göz atın ve sakın inanmayın.</string>
+    <string name="yanlisanlamatitle1">Tansiyon ani yükselirse birden normale düşürülmelidir</string>
+    <string name="yanlisanlamatitle1tanim">Tansiyonun bazı özel durumlar dışında kısa sürede (damardan ilaçlarla veya dil altı bazı ilaçlarla) birden düşürülmesi özellikle yaşlılarda son derece zararlıdır. Beyin kan akımını bozarak ciddi problemlerin oluşmasına yol açar. Böyle durumlarda doktorunuza danışınız.</string>
+    <string name="yanlisanlamatitle2">Gençlerde hipertansiyon olmaz</string>
+    <string name="yanlisanlamatitle2tanim">Hipertansiyon her yaşta görülebilir ve her yaşta tehlikelidir.</string>
+    <string name="yanlisanlamatitle3">Şikayetim yok o halde tansiyonum normal</string>
+    <string name="yanlisanlamatitle3tanim">Şikayetlerin olmaması halinde tansiyon yüksekliğinin önemli olmadığı inancı son derece yanlıştır. Yüksek tansiyonun hastada şikayet oluşturmaması daha tehlikelidir. Çünkü şikayeti olmadığından dolayı hasta, tansiyon yüksekliğini fark etmez veya hastalığı üzerinde fazla durmaz. Şikayet yaratmasa bile tansiyon yüksekliği her zaman tehlikelidir ve kalp, böbrek, göz ve beyin gibi hedef organlar üzerinde hasar oluşturur.</string>
+    <string name="yanlisanlamatitle4">Tuzsuz yemeğin hiç tadı olmaz.</string>
+    <string name="yanlisanlamatitle4tanim">Devamlı tuzlu yiyecekler yiyen veya yemeklerine ek olarak tuz atan kişilerin dillerindeki tuzu algılayan cisimciklerin tuz eşiği yükselir ve normal tuzlu yemekleri bile tuzsuz olarak algılar. Oysa tat cisimcikleri eğitilebilir: Yani az tuzlu yerseniz bir kaç hafta sonra yemekler size “normal tuzlu” gelir. Hatta “normal tuzlu” yemekler de “çok tuzlu” gelir. Dolayısı ile tuzlu yemek alışkanlığı değiştirilebilir. Bundan başka fazla tuz, yemeklerdeki çok baskın olmayan farklı lezzetleri de maskeler. Az tuzlu yiyerek, bu farklı lezzetleri de algılayıp yemekten daha fazla zevk alabilirsiniz.</string>
+    <string name="yanlisanlamatitle5">Tuza özellikle yaşlı insanlar dikkat etmelidir.</string>
+    <string name="yanlisanlamatitle5tanim">Çok fazla tuz almak her yaştan insanın tansiyonunu yükseltebilir. Günümüzde 30´lu ve 40’lı yaşlarda yüksek tansiyonun (hipertansiyon) görülme sıklığı oldukça fazladır.</string>
+    <string name="yanlisanlamatitle6">Pahalı tuzlar daha sağlıklıdır.</string>
+    <string name="yanlisanlamatitle6tanim">Tuzda sodyum klorür (NaCl) vardır ve tansiyonu yükselten sodyum (Na)’dur. Tuzun nereden çıkarıldığı (deniz, yer altı vs) veya nasıl hazırlandığı (kristal, toz, kaba) önemli değildir. Sonuçta hepsi sodyum klorür içerir.</string>
+    <string name="yanlisanlamatitle7">Tansiyonum yüksek ise bunu anlayabilirim.</string>
+    <string name="yanlisanlamatitle7tanim"> Tansiyonu yüksek olan bir çok insanın hiçbir şikayeti yoktur. Dolayısı ile ölçülmediği sürece, tansiyonun yüksek olduğu bilinemez.</string>
+    <string name="yanlisanlamatitle8">Normal tuz yerine istediğim kadar diyet tuzu kullanabilirim.</string>
+    <string name="yanlisanlamatitle8tanim">Diyet tuzlarında çoğunlukla tuz tadını veren potasyum klorür (KCl) bulunur. Bazılarında ise buna ek olarak bir miktar normal tuz da olabilir. Potasyum klorür böbrek hastalarında zararlı olabilir. Onun için diyet tuzunu ancak doktorunuz önerirse kullanmalısınız.</string>
+    <string name="yanlisanlamatitle9">Himalaya tuzu sağlıklıdır</string>
+    <string name="yanlisanlamatitle9tanim">Sağlıklı olduğu ileri sürülen bu tuzda da bildiğimiz sodyum klorür bulunur.</string>
+
+
+    <string name="hpacil">Bu makalede sizlere yüksek tansiyon , tansiyon yükselmesi belirtileri, yüksek tansiyonda yapılması gerekenler konularında bilgiler vermeye çalışacağım. Yüksek tansiyon çok yükseldiğinde hayatı tehdit ettiğinde acil olarak yapabileceklerinizi de yazmaya çalıştım. Hatırlatma: Acil yardım numarası 112.</string>
+    <string name="hpacil1">Acil müdahale</string>
+    <string name="hpacil1tanim">Eğer tansiyonunuz büyük 180 mm Hg veya küçük 120 mm Hg olmuş ya da üzerine çıkmışsa fakat hayati organların hasar gördüğünü gösteren herhangi bir belirti yoksa, bu belirtilerin bir tanesi bile olmaması gerekir, mide bulantısı ve kusma, göğüs ağrısı, nefes kesilmesi, şiddetli sırt ağrısı, güçsüzlük, görme bozuklukları, konuşmada zorluk, ciddi endişe , nöbetler , tepkisizlik bu sınıftasınız. Doktorunuz belki ilaçlarınızda bazı düzeltmeler yapması yeterli olabilir. Fakat az bir olasılıkla hastanede yatarak tedavi olmanız gerekebilir. Bu sınıfta da olsanız bile mutlak suretle hastaneye gitmelisiniz.</string>
+    <string name="hpacil2">Acil hastane bakımı</string>
+    <string name="hpacil2tanim">Eğer tansiyonunuz, büyük tansiyonunuz 180 veya küçük 120 olmuş ya da üzerine çıkmışsa ve hayati organların hasar gördüğünü gösteren belirtiler varsa bu belirtilerden sadece biri bile yeterlidir mide bulantısı ve kusma, göğüs ağrısı, nefes kesilmesi, şiddetli sırt ağrısı, güçsüzlük, görme bozuklukları, konuşmada zorluk, ciddi endişe , nöbetler , tepkisizlik bu sınıfta yer alırsınız ve hemen ambulans çağırınız.</string>
+    <string name="hpacil3">Tansiyon ölçümünü doğru yapmalısınız.</string>
+    <string name="hpacil3tanim">Eğer hastada baş ağrısı ya da göğüs ağrısı yoksa mutlaka ölçümü birkaç kez tekrarlamalısınız. Bazen telaş ile yanlış ölçüm yapılabilmektedir.</string>
+    <string name="hpacil4">Sakin kalıp hastayı sakinleştirin ve onu sıkan kravat ya da kemeri gevşeterek gömlek düğmelerini açın.</string>
+    <string name="hpacil4tanim">Birkaç kez tekrarladığınızda 180 mm Hg büyük veya 120 mm Hg küçük tansiyon değerlerine ulaşmışsanız probleminiz var demektir. İlk önce hastayı sakinleştirmelisiniz. Eğer gergin bir ortam varsa hastayı oradan uzaklaştırın. Bu sırada sizin de sakin kalmanız çok önemli. Hasta bir şeye sinirlenmiş ya da çok üzülmüşse sakinleştirici şeyler söyleyebilirsiniz.Kemer ve kravat gibi hastayı sıkan aksesuarları gevşetin. Ayrıca gömlek düğmelerinin bir kaçını açarak hastayı rahatlatın.</string>
+    <string name="hpacil5">30 saniyede 6 kez derin nefes almasını sağlayın</string>
+    <string name="hpacil5tanim">Ortamdan uzaklaştırdıktan sonra hastayı serin ve rahat bir yere oturtun ve 30 saniyede 6 kere derin nefes almasını sağlayın. Deneyler derin nefes egzersizinin yüksek tansiyonu 10 puan kadar düşürebildiğini gösteriyor. Otonom sistemi parasempatik sistemde çalışmaya başlıyor.</string>
+    <string name="hpacil6">Hastanın kullandığı tansiyon ilaçlarını almasını sağlayın.</string>
+    <string name="hpacil6tanim">Eğer hasta bir yüksek tansiyonu için bir ilaç kullanıyorsa almasını sağlayın. Zaten hastanın tansiyonu 140 ile 90 (büyük tansiyon 140, küçük tansiyon 90) üzerindeyse ve mide bulantısı ve kusma, göğüs ağrısı, nefes kesilmesi, şiddetli sırt ağrısı, güçsüzlük, görme bozuklukları, konuşmada zorluk, ciddi endişe , nöbetler , tepkisizlik gibi belirtiler varsa ilaçlarını hemen almalıdır ve hastaneye acil gidilmelidir.</string>
+    <string name="hpacil7">Hastanın doktoruna ulaşmaya çalışın.</string>
+    <string name="hpacil7tanim">Telefon ile hastanın doktoruna hızlıca ulaşmayı deneyin ve onun yönlendirmelerine uyun. Genelde doktorlar tansiyonu düşürmek için 1 tablet ağızdan Klonidin (Clonidine) 75 mcg  veya Kaptopril (Captopril) 25 mg etken maddeli ilaçları kullanırlar. Bu etken maddeli ilaçların daha hızlı etkili edebilmesi için dil altına konur. Asla doktor değilseniz kendinize göre hastaya ilaç vermeyin.</string>
+    <string name="hpacil8">Hastayı mutlaka hastaneye götürün.</string>
+    <string name="hpacil8tanim">Sakinleşen hasta ve düşen tansiyona rağmen mutlaka acilen doktora görünmelidir.</string>
+    <string name="hpacil9">Düzenli kontrol!</string>
+    <string name="hpacil9tanim">Düzenli aralıklarda tansiyon ölçümüne özen gösterin, bu size iyi gelecektir. </string>
+
+
+
+
+
+    <string name="hipoacil">Tansiyon düşüklüğüne iyi gelen tedavi yöntemleri bulunmaktadır. Tıbbi olarak açıklamak gerekirse atardamarların içerisinde kanın yaptığı basınçla ilgilidir. Bulantı ve bayılma gibi belirtileri bulunan düşük tansiyon, her yaştan bireyin yaşayabileceği bir rahatsızlık olarak bilinir. Uzun süre ayakta ve aç kalınması gibi durumlarda meydana gelmektedir. Peki, tansiyon düşmesine ne iyi gelir</string>
+    <string name="hipoacil1">Sulu kalın</string>
+    <string name="hipoacil1tanim">Günde 8 ile 10 su bardağı su içmeye çalışın. Su tüketimini gün içine yayın. Özellikle sıcak havalarda buna daha çok dikkat edin. Su tüketmek kan hacmini artırarak, tansiyonun düşmesine engel olacaktır.</string>
+    <string name="hipoacil2">Tuz tüketimini artırın</string>
+    <string name="hipoacil2tanim">Çok iyi bilinir ki, yüksek tansiyon sorunu olanlarda tuz kısıtlaması önerilir; çünkü tuz vücutta su tutulmasına neden olarak kan basıncını yükseltir. Bunun tersi de doğrudur: Düşük tansiyonlu kişiler de tuz alımını artırarak, tansiyonlarının biraz daha yüksek seyretmesini sağlayabilirler. Normalde önerilen günlük tuz tüketimi 1 çay kaşığı kadardır. Tansiyonu düşük olanlarda ise ihtiyaca göre, tuz tüketimi günde 2,5 veya 3 çay kaşığına yükseltilmelidir.</string>
+    <string name="hipoacil3">Alkolü az kullanın</string>
+    <string name="hipoacil3tanim">Alkol damarları gevşettiği için tansiyonu düşürecektir. Ayrıca bazı alkoller idrar çıkışını da artırdığı için vücudu susuz bırakır. Bu nedenle alkol tüketiyorsanız sınırlı olmaya ve yanında bol su almaya özen gösterin.</string>
+    <string name="hipoacil4">Sıcaktan kaçının</string>
+    <string name="hipoacil4tanim">Sıcak hava, sauna-hamam gibi sıcak ortamlar, sıcak duş, çok sıcak tutacak şekilde giyinmek gibi. Bunlar damarlarınızı gevşeterek ve aynı zamanda terle vücuttan sıvı kaybına neden olarak tansiyonunuzu düşürür.</string>
+    <string name="hipoacil5">Basınçlı çoraplar giyin</string>
+    <string name="hipoacil5tanim"> İhtiyaca göre farklı basınçlarda ve uzunluklarda satılan bu çoraplar bacakları sıkı sararak kanın bacaklarda göllenmesine engel olur, dolayısı ile de kanın kalbe dönmesini kolaylaştırır. Özellikle uzun süre ayakta kalacağınızı bildiğiniz durumlarda ya da varis sorununuz varsa bunlardan çok fayda görebilirsiniz.</string>
+    <string name="hipoacil6">Yatağınızın baş kısmını yükseltin</string>
+    <string name="hipoacil6tanim">Yatağınızın baş kısmını 10 ile 15 cm kadar yükseltmek, beyne ve böbreklere kan akımını etkileyen bazı kompleks mekanizmalar ile düşük kan basıncı ve buna bağlı yakınmalarda iyileşmeye neden olur. Burada önemli olan yalnız başı değil, gövdenin üst kısmını yükseltmektir.</string>
+    <string name="hipoacil7">Sık sık ve azar azar yemek yiyin</string>
+    <string name="hipoacil7tanim">Çok miktarda yemek yemek vücudun kan akışını sindirim sistemine yönlendirerek tansiyonu düşürür ve beyne giden kan akışını azaltır.</string>
+    <string name="hipoacil8">Kademeli doğrulun</string>
+    <string name="hipoacil8tanim">Yataktan kalkarken veya uzun süre oturduktan sonra ayağa kalkarken acele etmeyin. Önce oturarak, bacakları hareket ettirerek vücudun tansiyonu düzenlemesine zaman verin.</string>
+    <string name="hipoacil9">Doktora başvurun</string>
+    <string name="hipoacil9tanim">Şikayetleriniz günlük yaşamınızı etkileyecek kadar şiddetli ve sıksa, kendi başınıza baş edemediyseniz mutlaka bir doktora başvurun. Doktorunuz belki kansızlık, vitamin-mineral eksikliği, hormonal bozukluklar gibi bazı sorunları tespit edip tedavi ederek yardımcı olabilir. Veya kan basıncını yükselten ilaçlar ya da takviyeler kullanmanızı uygun bulabilir.</string>
+
+
+
+
+    <string name="hiperetki">Hipertansiyon, önlem alınmaması halinde başka hayati sorunlara da yol açabiliyor. Tehlike bu kadar büyük olmasına rağmen toplumda hipertansiyona karşı yeterli bir bilinç oluşmuş durumda değil.</string>
+    <string name="hiperetki1">Kalp krizi ilişkisi</string>
+    <string name="hiperetki1tanim">Kalp kasını besleyen koroner damarların daralmasında ve tıkanmasında kontrolsüz hipertansiyon en önemli risk faktörlerinden biri. Bu durumda kalbi besleyecek oksijenden zengin, yeterli kan akımının sağlanamaması sonucu oluşan göğüs ağrısı, göğüste rahatsızlık hissi, nefes darlığı kalp krizinin en sık görülen belirtileri olarak öne çıkıyor.</string>
+    <string name="hiperetki2">İnme</string>
+    <string name="hiperetki2tanim">Kontrolsüz yüksek kan basıncı, beyin damarlarının hasar görmesi ve daralmasına, çatlamasına sebep olabiliyor. Bunun yanı sıra kan basıncı yüksekliğinin de oluşmasında etken olduğu pıhtının, beyin damarını tıkaması da inmeye yol açabiliyor.</string>
+    <string name="hiperetki3">Kalp yetmezliği</string>
+    <string name="hiperetki3tanim">Yüksek kan basıncı olduğu zaman kalp kası, kanı vücuda pompalamak için kalınlaşıyor. Zamanla kalınlaşmış kalp kası, yeterli kanı pompalamak için gerekli fonksiyonunu yerine getiremiyor ve kalp yetmezliği oluşuyor.</string>
+    <string name="hiperetki4">Hafıza sorunları</string>
+    <string name="hiperetki4tanim">Beyin damarlarına kan basıncı yüksekliğinin verdiği zarar hafıza, düşünme ve konuşma becerilerini olumsuz yönde etkiliyor.</string>
+    <string name="hiperetki5">Böbrek hastalığı ilişkisi</string>
+    <string name="hiperetki5tanim">Böbreklerin kandaki atıkları süzebilmesi; düzenli sıvı, hormon, tuz, asit dengesini sağlayabilmesi için sağlıklı damarlara ihtiyacı var. Bu nedenle yüksek kan basıncına bağlı bu sistemdeki düzenin bozulması, çeşitli böbrek hastalıklarına yol açıyor. Vücudun kan basıncını düzenlemesi de daha da zorlaşıyo</string>
+    <string name="hiperetki6">Periferal damar hastalıkları</string>
+    <string name="hiperetki6tanim">Bacak damarlarında, damar sertliğinin oluşması sonucu kan akımı etkilenirse, ayaklarda ve bacaklarda ağrı, kramp, uyuşma oluşabiliyor.</string>
+    <string name="hiperetki7">Göz damarlarında kalınlaşma, daralma</string>
+    <string name="hiperetki7tanim">Kan basıncı yüksekliği tedavi edilmezse gözde retinaya giden hassas damarlara zarar verebiliyor; sonuç kalıcı görme kaybına kadar farklı seviyelerde görme sorunlarına sebep olabiliyor. Aynı zamanda inmeye neden olan kontrolsüz kan basıncı da görme kayıplarına yol açabiliyor.</string>
+    <string name="hiperetki8">Cinsel fonksiyon bozuklukları</string>
+    <string name="hiperetki8tanim">Yapılan bilimsel çalışmalar; hem erkek hem de kadınlarda kan basıncı yüksek olanlarda cinsel fonksiyon bozukluklarının, hipertansiyonu olmayan kişilere göre daha fazla olduğunu ortaya koyuyor.</string>
+    <string name="hiperetki9">Aort anevrizması</string>
+    <string name="hiperetki9tanim">Hipertansiyon nedeniyle kan basıncının yüksek olması, zamanla damar duvarında zayıflama olması sonucunda, damarın bir kesiminde genişleme ve anevrizma olarak tanımlanan balonlaşmaya sebep olabiliyor. Anevrizma vücudun her yerindeki damarlarda oluşabilmekle birlikte, sıklıkla vücudun en büyük damarı olan aortta da bulunuyor ve yırtılarak hayatı tehdit eden kanamalara sebep olabiliyor.</string>
+
+
+
+    <string name="tanhata">Tansiyon değerleri yanlış çıkmaması için tansiyon ölçüm yapılmadan önce ve ölçüm esnasında bazı uyacağımız kurallar var.</string>
+    <string name="tanhata1">Tansiyon ölçüm sırasında konuşmayın, gülmeyin, ses çıkarmayın.</string>
+    <string name="tanhata1t"></string>
+    <string name="tanhata2">Tansiyon ölçüm öncesi tuvalet ihtiyacınızı gidermeden ölçüm yapmayın.</string>
+    <string name="tanhata2t"></string>
+    <string name="tanhata3">Dar elbise ile ölçüm yapmayın</string>
+    <string name="tanhata3t"></string>
+    <string name="tanhata4">Oda çok sıcak ya da çok soğuk olmasın</string>
+    <string name="tanhata4t"></string>
+    <string name="tanhata5">Ayaklarınız kesinlik yere basmalı</string>
+    <string name="tanhata5t"></string>
+    <string name="tanhata6"> Çıplak koldan ölçüm yapınız.</string>
+    <string name="tanhata6t"></string>
+    <string name="tanhata7">cihaz pilini kontrol edin</string>
+    <string name="tanhata7t"></string>
+    <string name="tanhata8">ölçüm yaparken sigara içmeyin</string>
+    <string name="tanhata8t"></string>
+    <string name="tanhata9">ölçüm yaparken çok fazla hareket etmeyin</string>
+    <string name="tanhata9t"></string>
+
+
+
+    <string name="bpunder">Atardamarların içindeki kan basıncına tansiyon denir. Kalp kası kasıldığında atardamarlara kan pompalanır. Bu esnada ölçülen basınç sistolik basınçtır. Kalp kası gevşediğinde ise kan damarda durulur; bu esnada ölçülen basınç diastolik basınçtır. Tansiyon ölçümünde sistolik (büyük) ve diyastolik (küçük) kan basınçlarına bakılır. Tansiyon yüksekliğine hipertansiyon denir.İdeal tansiyon, kişiden kişiye göre değişebilir. Ortalama olarak büyük tansiyonun 120 130, küçük tansiyonun ise 70 90 arasında olması normal kabul edilir. Gençlerde ve çocuklarda tansiyonun düşük değerleri normal kabul edilebilir. Şimdi bu değerleri inceleyelim.</string>
+    <string name="bpunder1">Hipotansiyon</string>
+    <string name="bpunder1t">Hipotansiyon çok belirgin olmadıkça hastada belirti vermez ve sakıncalı değildir.  Kalp damar hastalıklarına yakalanma riskinde azalmaya neden olduğu için olumlu kabul edilir. Ani tansiyon düşmesi baş dönmesi, halsizlik ve baygınlığa neden olabilir.</string>
+    <string name="bpunder2">Normal</string>
+    <string name="bpunder2t">Büyük tansiyonunuz 120 mmHg den ve küçük tansiyonunuz 80 mmHg den düşükse tansiyonunuz ideal (Normal) dir. Büyük veya küçük tansiyonunuzdan biri bile sınırın üzerindeyse normal değerin dışına çıkmış olursunuz.Eğer büyük tansiyonunuz normal fakat küçük tansiyonunuz 90 Hg’nin üzerine çıkarsa buna İzole Diyastolik hipertansiyon (İDH) diyoruz.</string>
+    <string name="bpunder3">Yükseltilmiş</string>
+    <string name="bpunder3t">Büyük tansiyonunuz 120 ve 129 mmHg arasında ve küçük tansiyonunuz 80 mmHg den düşük ise Yükselmiş Tansiyon kategorisindesiniz. Tansiyonunuzun normale dönebilmesi ya da daha da yükselmemesi için sağlıklı alışkanlıklar edinin. 3 ila 6 ay içinde mutlaka Tansiyon ölçümünüzü ve genel kontrollerinizi yaptırın.</string>
+    <string name="bpunder4">Hipertansiyon Aşama 1</string>
+    <string name="bpunder4t">Büyük tansiyonunuz 130 ve 139 mmHg arasında veya küçük tansiyonunuz 80 ve 89 mmHg arasında ise Yüksek (Hiper) Tansiyon (1.Seviye) den bahsedilir.Öneri: 10 yıl kalp hastalıkları ve krizi değerlendirmesi yapın. Doktorunuzdan yardım isteyebilirsiniz. Eğer riskiniz yüzde 10 dan az ise kötü alışkanlıklarınızdan kurtulun ve 3 veya 6 ayda bir tansiyon ölçümünüzü ve genel kontrollerinizi yaptırın. Eğer riskiniz yüzde 10 nun üzerindeyse doktor görüşü almalısınız.</string>
+    <string name="bpunder5">Hipertansiyon Aşama 2</string>
+    <string name="bpunder5t">Büyük tansiyonunuz 140 mmHg ‘a eşit veya yüksekse veya  küçük tansiyonunuz 90 mmHg eşit ve yüksek ise Yüksek (Hiper) Tansiyon (2.Seviye) tansiyon kategorisine girersiniz.</string>
+    <string name="bpunder6">Hipertansiyon Krizi</string>
+    <string name="bpunder6t">Büyük tansiyonunuz 180 mmHg ‘a eşit veya yüksekse veya küçük tansiyonunuz 180 mmHg eşit ve yüksek ise hipertansiyon krizine girmişsinizdir.Acilen organlarınız yüksek tansiyon yüzünden hasar almadan hastaneye gidiniz. Bu süre zarfında 30 sn de 6 kere derin nefes tekniğini deneyin.</string>
+    <string name="bpunder7">Yalancı tansiyon</string>
+    <string name="bpunder7t">Bir kişide yüksek tansiyon olduğunu söyleyebilmek için en az üç ölçüm yapmak gerekir. Tek ölçümle hastanın tansiyon hastası olduğuna karar vermek yalancı tansiyon olarak değerlendirilir. Normal bir insanın tansiyonu gün içinde dalgalanmalar gösterebilir. Hızı yürüme, koşma, egzersiz, yemek yeme sonrası tansiyonunuz yüksek çıkabilir.</string>
+    <string name="bpunder8">Gebelikte tansiyon</string>
+    <string name="bpunder8t">Neredeyse her 10 gebeden birinde yüksek tansiyon görülebilmektedir. Gebelik hipertansiyonunun , gebeliğe mi, preeklampsiye mi bağlı olduğu araştırılmalı ve kronik hipertansiyondan ayırt edilmelidir. Gebelik tansiyonu hem anneye hem de bebeğe zarar vermektedir. İleri yaş ve kilolu annelerde kronik hipertansiyon ilk gebelikte tespit edilebilir. Gebelik hipertansiyonu genellikle gebeliğin ikinci yarısından sonra ortaya çıkmaktadır.  Preeklampside görülen hipertansiyonda ise idrarda protein kaçağı bulunmaktadır. Preeklampside ayrıca ödem, baş ağrısı ve karaciğer bozukluğu görülür. Gebelikte az sayıda antihipertansif kullanılabilmektedir. Gebelik tansiyonu erken doğum, bebekte gelişme geriliği, beyin hasarı ve bebeğin plesantasında hasara neden olabilir.</string>
+    <string name="bpunder9">Göz tansiyonu</string>
+    <string name="bpunder9t">Halk arasında göz tansiyonu olarak bilinen durumun tıbbi adı glokomdur. Glokom göz basıncının ara ara çok yükselmesi sonucu görme sinirinin zarar görmesidir. Buna bağlı hastanın görmesi gittikçe azalır.  Glokom 40 yaş üstü kişilerde daha sık görülür ve genetik olabilir. Miyoplarda risk daha fazladır. Şeker hastalığı ve hipotiroidizmde ,uzun süreli kortizon kullananlarda ve göz yaralanması olanlarda glokom riski artmıştır.</string>
+
+
+
+    <string name="riskk">Kişide yüksek kan basıncı gelişimine zemin hazırlayabilecek birçok risk faktörü mevcuttur. Hipertansiyon gelişme riski yaşın ilerlemesi ile birlikte artış gösterir. Aile bireyleri ve akrabaları arasında hipertansiyon hastası bireylerin bulunması da kişide hipertansiyon gelişimi için riskli kabul edilen faktörler arasında yer alır. Bu durumlar dışında aşırı kilolu, fiziksel aktivite yapmayan ya da tütün kullanan kişiler de hipertansiyon gelişimi açısından riskli kabul edilen grup içerisinde değerlendirilir. Kişide kan basıncının yükselmesine neden olabilecek durumlar, birincil ve ikincil nedenler olmak üzere 2 grupta incelenir. Birincil (primer) hipertansiyon tanımlaması kişideki yüksek kan basıncının oluşmasına neden olabilecek durumun tespit edilememesi halinde kullanılan bir terimdir. Birincil hipertansiyon klinik olarak zaman içerisinde yavaş yavaş gelişme eğilimindedir. İkincil (sekonder) hipertansiyon kavramı ise kişideki yüksek kan basıncının belirli bir sağlık durumunun bir sonucu olarak ortaya çıktığını ifade eder. Birincil hipertansiyondan farklı olarak, bir neden sonucunda sekonder olarak gelişen yüksek kan basıncı ani olarak yükselir. Çeşitli rahatsızlıklar ve bazı ilaç veya maddelerin kullanımı sonrasında ikincil hipertansiyon ortaya çıkabilir. Hipertansiyona neden olabilecek faktörler aşağıdadır.</string>
+    <string name="risk1">Genetik faktörler</string>
+    <string name="risk1t"></string>
+    <string name="risk2">Yüksek tuz tüketimi</string>
+    <string name="risk2t"></string>
+    <string name="risk3">Diyabet, kolesterol</string>
+    <string name="risk3t"></string>
+    <string name="risk4">Doğum kontrol hapları, bazı ağrı kesiciler</string>
+    <string name="risk4t"></string>
+    <string name="risk5">Tiroit rahatsızlıkları</string>
+    <string name="risk5t"></string>
+    <string name="risk6">Stres, obezite</string>
+    <string name="risk6t"></string>
+    <string name="risk7">Magnezyum, potasyum ve kalsiyumdan yetersiz beslenme</string>
+    <string name="risk7t"></string>
+    <string name="risk8">Fiziksel aktivitenin az olması</string>
+    <string name="risk8t"></string>
+    <string name="risk9">Yasaklı madde kullanımı</string>
+    <string name="risk9t"></string>
+
+
+    <string name="faqq">Uygulamamız, BP´nizi izlemek için bir veri izleme ve yönetim aracı olarak hizmet eder ve sizi bilim destekli bilgilerle sağlığınızı iyileştirmeye teşvik eder. Cep telefonu ile tansiyon ölçme teknolojisi henüz gelişme aşamasında olduğundan ve klinik kullanıma hazır olmadığından, kullanıcılarımızın sorumluluğunda olmak üzere uygulamamız tansiyon ölçümü yapmamaktadır.</string>
+    <string name="faq1">Aslında hiçbir uygulama güvenilir bir BP ölçüm aracı olarak onaylanmamıştır.</string>
+    <string name="faq1t">ABD Gıda ve İlaç Dairesi (FDA), uygulama kan basıncı ölçümlerinin doğruluğunun sorgulanabileceğini iddia ederek Amerika´daki tıbbi cihazları düzenlemektedir. Bu nedenle, hiçbir uygulama doğru ve güvenilir BP ölçümü sağlayamaz.</string>
+    <string name="faq2">Genel olarak Konuşursak</string>
+    <string name="faq2t">Google Play ve App store´dan indirebileceğiniz tansiyon ölçüm uygulamaları, kardiyovasküler sisteminiz hakkında bazı bilgileri algılayabilecek ham bir nabız oksimetresi oluşturmak iin telefonunuzdaki meşale ve kamerayı kullanır.</string>
+    <string name="faq3">Bununla birlikte</string>
+    <string name="faq3t">toplanan bilgilerin doğru veya uygulanabilir olduğu kanıtlanamadı.</string>
+    <string name="faq4">Bu teknolojiyi geliştirmek ve iyileştirmek için daha fazla araştırmaya ihtiyaç vardır.</string>
+    <string name="faq4t"></string>
+    <string name="faq5">Hiçbir uygulama kan basıncınızı gerçekten ölçemez.</string>
+    <string name="faq5t"></string>
+    <string name="faq6">Bu uygulama:</string>
+    <string name="faq6t">Okumalarınızı düzenli olarak kaydetmek ve kontrol etmek, erken teşhiste size yardımcı olabilir.</string>
+    <string name="faq7">Tedavinizi takip edebilir</string>
+    <string name="faq7t"></string>
+    <string name="faq8">Sizin için grafikler oluşturur</string>
+    <string name="faq8t"></string>
+    <string name="faq9">Tarih desteği sunar</string>
+    <string name="faq9t"></string>
+
+
+
+
+
+
+
+    <string name="hipoad">Düşük tansiyon yaşıyorsunuz. Beslenme şeklinizi değiştirin ve normal haline getirmek için gerekirse doktorunuza başvurun.</string>
+    <string name="normalad">Tedavi gerekmiyor. Tansiyonunuz en iyi seviyesinde.</string>
+    <string name="yuksekad">Tansiyonunuz biraz yüksek. Hipertansiyondan kaçınmak için yaşam tarzınızı iyileştirmek ve tansiyonunuzu düzenli olarak ölçmeniz iyi olacaktır.</string>
+    <string name="hiperonead">Bu aralıkta 3 veya daha fazla değer hipertansiyon olduğunu gösterir. Yaşam tarzınıza yönelik önlemler alın ve tansiyonunuzu düşürmek için doktorunuza başvurun.</string>
+    <string name="hipertwoad">Göstergeleriniz bu aşamada kalırsa, tansiyon tedavisi planınız için ilaçlara ihtiyacınız ver demektir.</string>
+    <string name="tansifad">Tansiyonunuz ciddi derecede yüksek. Acil tıbbi yardım almalısınız.</string>
+
+
+
+    <string name="heyy">Heyy sağlığın için bu uygulama tam sana göre</string>
+    <string name="oy">Bize Oy Ver</string>
+    <string name="ark">Arkadaşlarınla Paylaş</string>
+    <string name="geri">Geri Bildirim</string>
+    <string name="gizlilik">Gizlilik Politikası</string>
+
+
+    <string name="ayarlar">AYARLAR</string>
+
+    <string name="anladım">ANLADIM</string>
+    <string name="kategori">KATEGORİLER</string>
+
+</resources>

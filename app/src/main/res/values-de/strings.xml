@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Blood Pressure</string>
+    <string name="ana_giris">HEIMAT</string>
+    <string name="tansiyonum">Mein Blutdruck</string>
+    <string name="en_son">NEUESTE</string>
+    <string name="buyuk_tansiyon">Systolisch</string>
+    <string name="kucuk_tansiyon">Diastolisch</string>
+    <string name="nabiz">Impuls</string>
+    <string name="tum_kayitlar">Aufzeichnungen</string>
+    <string name="ekle">Hinzufügen</string>
+    <string name="ortalama">Durchschnitt</string>
+    <string name="tansiyon_bilgileri">Blutdruck-Info</string>
+    <string name="daha">Mehr</string>
+    <string name="izleyici">TRACKER</string>
+    <string name="kayitlar">Aufzeichnungen</string>
+    <string name="hipotansiyon">Hypotonie</string>
+    <string name="normal">Normal</string>
+    <string name="yüksek">Erhöht</string>
+    <string name="hipertansiyonbirinciasama">Bluthochdruck . Bühne 1</string>
+    <string name="hipertansiyonikinciasama">Bluthochdruck . Stufe 2</string>
+    <string name="hipertansif">Bluthochdruck</string>
+    <string name="gecmis">Vergangenheit</string>
+    <string name="hipertansiyonayonelikyasam">Auswirkungen von Bluthochdruck, die Sie kennen sollten</string>
+    <string name="lifestyle">Lebensstil Heilmittel für Bluthochdruck</string>
+    <string name="first_aid">Erste Hilfe bei hypotensiven Notfällen</string>
+    <string name="hypotension_diagons">Hypotonie-Diagnose und medizinische Behandlung</string>
+    <string name="exercises">Übungen zur Kontrolle von Bluthochdruck</string>
+    <string name="alltoknow">Alles Wissenswerte über Hypotonie</string>
+    <string name="medications">Medikamente gegen Bluthochdruck</string>
+    <string name="Bp">BP Missverständnisse und Mythen</string>
+    <string name="hypertension_types">Arten und Symptome von Bluthochdruck</string>
+    <string name="topmistakes">Die häufigsten Fehler bei der Blutdruckmessung</string>
+    <string name="first_aid_hypertensive">Erste Hilfe bei hypertensiven Notfällen</string>
+    <string name="whoe_needs">Wer braucht Bp-Messung zu Hause</string>
+    <string name="faq">Häufig gestellte Fragen – Warum bieten Sie keine Blutdruckmessung in unserer App an</string>
+    <string name="understanding">BD-Nummern verstehen</string>
+    <string name="master">Meistern Sie die Blutdruckmessung zu Hause</string>
+    <string name="risk">Risk Factors for Hypertension</string>
+    <string name="tarih">Datum</string>
+    <string name="bilgiler">INFO UND WISSEN </string>
+    <string name="tarihvesaat">Datum und Uhrzeit</string>
+    <string name="not">Notiz </string>
+    <string name="kaydet">SPEICHERN </string>
+    <string name="yenirekor">Neuer Eintrag </string>
+    <string name="bilgi">DIE INFO </string>
+
+    <string name="hipertansiyon_egzersiz">Sie suchen nach medikamentenfreien Wegen zur Primärprävention, Behandlung und Kontrolle von Bluthochdruck Dann sind Sie bei uns genau richtig. Dieser Artikel stellt körperliche Übungen vor, die helfen, den Blutdruck zu senken. Fügen Sie sie Ihrer täglichen Routine hinzu und Sie können sehen, wie viel Unterschied es machen wird. </string>
+    <string name="aerobik_egzersiz"> Aerobic Übung</string>
+    <string name="aerobik_egzersiz_tanim">Als primäre Modalität bei Bluthochdruck; Aerobic-Übungen, die große Muskelgruppen einbeziehen, die ausgehalten werden können und rhythmisch sind, können verwendet werden. Aerobic-Übungen sind seit langem eine wichtige Methode zur Vorbeugung und Behandlung typischer altersbedingter Krankheiten wie nicht insulinabhängiger Diabetes mellitus, Bluthochdruck, Herzerkrankungen und Osteoporose. Als Ausdauerübungen wurden Gehen, Joggen und Radfahren erprobt. Der Faktor, der die Übungszeit verlängert, ist wichtig für die persönlichen Vorlieben bei der Wahl der Übung. Es sollten Übungstypen gewählt werden, die eine möglichst lange Übungsdauer gewährleisten. </string>
+    <string name="aerobik_egzersiz_nekadar">WIE VIEL aerobes Training brauchen wir </string>
+    <string name="aerobik_egzersiz_nekadar_tanim">Es wurde festgestellt, dass eine Aerobic-Übungsfrequenz zwischen 3 und 5 Tagen pro Woche bei der Senkung des Blutdrucks wirksam ist. In der begrenzten Anzahl von Studien, die 7 Sitzungen pro Woche vorschlugen, berichteten sie, dass dies effektiver sein könnte als die Studien, in denen 3 Sitzungen pro Woche durchgeführt wurden. Im Allgemeinen profitieren diejenigen mit geringer Trainingskapazität von einem Training mit geringer Intensität und Dauer, das mehrmals täglich durchgeführt wird, während diejenigen mit hoher Trainingskapazität von kontinuierlichem Training an 3 bis 5 Tagen pro Woche profitieren. Das American College of Sports Medicine (ACSM) empfiehlt Aerobic-Übungen, vorzugsweise an allen Tagen der Woche </string>
+    <string name="aerobik_ornek_baslik">BEISPIELE für aerobe Aktivität, die große Muskelgruppen beansprucht</string>
+    <string name="aerobik_ornekler">. Treppen steigen. Spaziergang . Joggen . Fahrrad . Baden . Tanzen </string>
+    <string name="direnc"> Krafttraining </string>
+    <string name="direnc_tanim">Kraftübungen (wie Gewichtheben) werden im Allgemeinen nicht für Menschen mit Bluthochdruck empfohlen. Diese Übungen sind jedoch besonders wichtig bei älteren Menschen, da der Verlust von Muskelmasse und Schwäche erhebliche Schäden verursachen. Wenn die Blutdruckkontrolle gewährleistet und die Patienten gut aufgeklärt sind, wird empfohlen, Kräftigungsübungen zusammen mit Aerobic-Übungen zu verwenden, die die Ausdauer des Herz-Kreislauf-Systems stärken.</string>
+    <string name="direnc_onlem">MASSE </string>
+    <string name="direnc_onlem_tanim">Kraftübungen werden meistens auf große Muskelgruppen angewendet. Insbesondere isometrische Übungen sollten vermieden werden. Die Körperhaltung der Person und die Höhe des angehobenen Gewichts müssen beachtet werden. Sie sollten während der Übungen nicht die Luft anhalten. Es werden Kräftigungsübungen mit geringem Widerstand und mehreren Wiederholungen empfohlen. Während ACSM Kräftigungsübungen für große Muskelgruppen 2 oder 3 Mal pro Woche empfiehlt, 3 Sätze, 8 oder 15 Wiederholungen mit 8, 10 Muskelgruppen, für hypertensive Personen mittleren Alters; empfiehlt Kräftigungsübungen für große Muskelgruppen 2 oder 3 Mal pro Woche, 1 Satz, 8 oder 15 Wiederholungen mit 8,10 Muskelgruppen. Die Belastungen können schrittweise gesteigert werden, beginnend mit 40 bis 60 Prozent eines festgelegten maximalen Wiederholungsgewichts (mittlere Intensität). Die Steigerung der Muskelkraft kann die Fähigkeit vieler Menschen erhöhen, Aktivitäten wie Treppensteigen und Gehen auszuführen. </string>
+    <string name="ekipman">BEISPIELE für Widerstandstraining mit Geräten </string>
+    <string name="ekipman_ornekler">. Brustpresse. Schulterdruck. Trizeps strecken. Bizeps-Curl. Zieh es runter. Verlängerung des unteren Rückens. Shuttle . Beincurls. Bewegung zum Aufbau der Wadenmuskulatur </string>
+    <string name="esneklik"> Flexibilitätstraining</string>
+    <string name="essnekliktanim">Einfache Beweglichkeitsübungen oder Dehnübungen sind bei Bluthochdruck von Vorteil. Wenn Sie Ihre Muskeln und Gelenke dehnen, dehnen Sie tatsächlich Blutgefäße und Arterien und reduzieren den Blutfluss und die Steifheit. Es ist an der Zeit, Stretching zu deiner Trainingsroutine hinzuzufügen.</string>
+    <string name="esneklikkactane">Wie viele Flexibilitätsübungen brauchen wir</string>
+    <string name="esneklikkactanetanim">Laut Untersuchungen kann eine Anwendung an 2 bis 5 Tagen pro Woche den Blutdruck senken. In der Zwischenzeit ist es wichtig, jede Übung zwischen 10 und 30 Sekunden zu halten, um Gewinne zu erzielen.</string>
+    <string name="esneklikornekbaslik">BEISPIELE Flexibilität erstreckt sich</string>
+    <string name="esneklikornek">. Joga. Pilates</string>
+
+
+
+
+
+
+    <string name="hipertansiyongiris">Der Kampf gegen stille Qualität ist eine lebenslange Verpflichtung. Verlassen Sie sich nicht nur auf Medikamente und nehmen Sie einige Änderungen vor, um Ihr Herz zu retten. Indem Sie dem in diesem Artikel beschriebenen herzgesunden Lebensstil folgen, können Sie Ihre Werte wieder dorthin bringen, wo sie sein sollten. Lassen Sie uns Schritte unternehmen, um Ihren Blutdruck zu senken und das tägliche Leben zu verbessern.</string>
+    <string name="title1">Psychischer Stress und Entspannungstechniken</string>
+    <string name="title1tanim">Emotionaler Stress kann zu einem akuten Anstieg des Blutdrucks führen. Kognitive und verhaltensbezogene Ansätze wie biologische und Feedback, Yoga, transzendentale Meditation und Psychotherapie können eine kurz- und langfristige Senkung des Blutdrucks bewirken. Die langfristigen vorteilhaften Wirkungen dieser Methoden sind jedoch unbekannt. Eine Studie hat gezeigt, dass eine Stresspräventionstherapie bei der Vorbeugung von Bluthochdruck nicht wirksam ist. Es gibt keine Hinweise darauf, dass Beruhigungsmittel und Beruhigungsmittel den Blutdruck senken.</string>
+    <string name="title2"> Physische Aktivität</string>
+    <string name="title2tanim">Das Risiko, Bluthochdruck zu entwickeln, ist bei Menschen, die ein sitzendes Leben führen, um 20 bis 50 Prozent höher als bei Menschen mit regelmäßiger körperlicher Aktivität. Bei Hypertonikern, die regelmäßig aerobe (isotonische) Übungen machen, sinkt der systolische Blutdruck um 4 bis 8 mmHg. Bluthochdruckpatienten mindestens 3 bis 4 Mal pro Woche, um 60 bis 70 Prozent der Zielherzfrequenz für 30 bis 45 Minuten zu erreichen. Sie sollten zügige Spaziergänge machen. Diese Art der Übung ist effektiver als Laufen oder Joggen. Isometrische Übungen sind für Hypertoniker nicht geeignet. Die Verwendung von Antihypertensiva ist bei isotonischen Übungen nicht kontraindiziert. Für diejenigen, die Betablocker verwenden, kann das Erreichen von 50 Prozent der Zielherzfrequenz ausreichend sein. Die arterielle Steifheit nimmt bei denjenigen ab, die regelmäßig Aerobic-Übungen machen, während die gesamte systemische arterielle Compliance, die EDRF-Sekretion und die Insulinsensitivität zunehmen. Diese Mechanismen spielen eine Rolle bei der Senkung des Blutdrucks.</string>
+    <string name="title3">Alkoholkonsum</string>
+    <string name="title3tanim">Die Prävalenz von Bluthochdruck ist bei Menschen hoch, deren Ethylalkoholmenge 28 bis 55 g pro Tag übersteigt. Dazu gehören akute Blutdruckerhöhungen. Bei diesen Menschen verringert Alkohol die Wirkung von Antihypertensiva und erhöht das Schlaganfallrisiko. Bluthochdruck kann zu Beginn der Woche aufgrund einer akuten Alkoholentwöhnung bei starken Alkoholtrinkern (5 oder mehr Doppelgänger) über das Wochenende festgestellt werden. Geringe Mengen an täglichem Alkoholkonsum sind mit einer geringeren Sterblichkeit und Morbidität bei koronarer Herzkrankheit verbunden als kein oder mehr Alkoholkonsum. Der Alkoholkonsum sollte auf 60 ml Whisky, 300 ml Wein oder 720 ml Bier pro Tag begrenzt werden. Da die Wirkung von Alkohol bei dünnen Personen höher sein kann, sollten Frauen weniger Alkohol als die angegebenen Werte konsumieren, da die Aufnahme von Ethylalkohol bei Frauen höher ist als bei Männern.</string>
+    <string name="title4">Magnesiumaufnahme</string>
+    <string name="title4tanim">Studien zeigen eine hohe Prävalenz von Bluthochdruck bei Menschen mit einer Magnesium-armen Ernährung. Diese Beziehung ist jedoch nicht auf einem Niveau, das eine Magnesiumaufnahme zur Senkung des Blutdrucks erfordert. 50 Prozent der Hypertoniker, die eine chronische diuretische Therapie erhalten, haben niedrige Muskelmagnesiumspiegel. Magnesiummangel ist auch für eine Hypokaliämie verantwortlich, die sich durch eine Kaliumergänzung nicht bessert. Bei diesen Patienten kann die tägliche Verabreichung von 15 mmol Mg den Blutdruck senken, zur Verbesserung der Hypokaliämie beitragen und den Glukosestoffwechsel positiv beeinflussen.</string>
+    <string name="title5">Kalziumaufnahme</string>
+    <string name="title5tanim">Epidemiologische Studien haben widersprüchliche Ergebnisse über die Beziehung zwischen Blutdruck und Kalziumaufnahme aus der Nahrung gezeigt. Wenn Calcium 1 g pro Tag verabreicht wird, bewirkt es eine sehr minimale Senkung des systolischen Blutdrucks und der diastolische Blutdruck ändert sich nicht. Dieser Effekt erfordert jedoch keine Erhöhung der Kalziumaufnahme zur Vorbeugung oder Behandlung von Bluthochdruck. Eine Erhöhung der Kalziumaufnahme verstärkt die bereits bei Bluthochdruck vorhandene Hyperkalziurie weiter, was zu Nierensteinen und Harnwegsinfektionen führen kann</string>
+    <string name="title6">Kaliumaufnahme</string>
+    <string name="title6alim">Diät, etwa 90 mmol Kalium pro Tag aus frischem Obst und Gemüse senkt den Blutdruck bei Bluthochdruck. In randomisierten, kontrollierten klinischen Studien betrug diese Senkung den systolischen Blutdruck um 4,4 mmHg und den diastolischen Blutdruck um 2,4 mmHg. Die Verwendung von Kaliumcitrat oder Kaliumbicarbonat bewirkt eine stärkere Blutdrucksenkung als Kaliumchlorid. Die blutdrucksenkende Wirkung von Kalium kann durch eine natriumarme Diät verringert werden. Vorsicht ist geboten bei der Anwendung von Kalium bei Patienten mit Niereninsuffizienz, die ACE-Hemmer oder A-II-Rezeptorantagonisten einnehmen. Kalium; Es verursacht eine Erhöhung der vaskulären Na- und K ATP-Aktivität und eine damit verbundene vaskuläre Relaxation, eine Abnahme des renalen Gefäßwiderstands und eine Erhöhung der glomerulären Filtrationsrate, und es zeigt seine blutdrucksenkende Wirkung durch diese Mechanismen.</string>
+    <string name="title7">Salzbeschränkung</string>
+    <string name="title7alim">Die Begriffe Salz und Natrium sollten nicht verwechselt werden. Chlorid verstärkt die Wirkung von Natrium. Natrium wird mit der Nahrung aufgenommen, meist in Form von Speisesalz. Wenn Natrium in anderen Formen (wie Na-Bicarbonat) eingenommen wird, ist die blutdrucksteigernde Wirkung nicht sehr groß. In klinischen, randomisierten Studien, bei denen die Natriumaufnahme auf 80 bis 100 mmol (4,7 bis 5,8 g) pro Tag bei Bluthochdruckpatienten beschränkt wurde, kam es zu einer Abnahme des systolischen Blutdrucks um 4,8, 1 mmHg und des diastolischen Blutdrucks um 2,5 bis 0,7 mmHg beobachtet (64). Eine Salzrestriktion sollte durchschnittlich 5 Wochen lang angewendet werden, um einen niedrigen Blutdruck zu gewährleisten. Dieser Effekt ist bei älteren Hypertonikern stärker ausgeprägt. Den Patienten sollte geraten werden, weniger als 100 mmol (5,8 g) Natrium pro Tag oder weniger als 6 g NaCl (Salz) pro Tag zu sich zu nehmen. Ein erheblicher Teil des Nahrungsnatriums stammt aus verarbeiteten Lebensmitteln. Solche Lebensmittel sollten vermieden werden und Salzstreuer sollten nicht auf dem Tisch verwendet werden. Natriumrestriktion verstärkt die Wirkung von Antihypertensiva. Dieser Effekt wird nicht beobachtet, da Calciumkanalblocker intrinsische natriuretische Eigenschaften haben. Allerdings verstärkt sich die antiproteinurische Wirkung von Calciumkanalblockern. 15 bis 20 g Kochsalz pro Tag können die blutdrucksenkende Wirkung von Diuretika abschwächen. Die Natriumrestriktion reduziert den Kaliumverlust aufgrund von Diuretika, reduziert die linksventrikuläre Hypertrophie, schützt vor Osteoporose und entspannt die glatte Muskulatur der Gefäße und Bronchien. Wenn die Natriumrestriktion unter 10 bis 20 mmol pro Tag liegt, kommt es zu einem Anstieg der Plasmakatecholamine, LDL und Triglyceride und der Insulinresistenz.</string>
+    <string name="title8">Aufhören zu rauchen</string>
+    <string name="title8alim">15 bis 30 Minuten nach jeder Zigarette. akute Blutdruckerhöhung. Obwohl in der klinischen Praxis nicht nachweisbar, wurden Erhöhungen bei ambulanten 24 Stunden Blutdruckmessungen nachgewiesen. Zigarettenrauchen ist ein Faktor, der das kardiovaskuläre Risiko um das 2- bis 3-fache erhöht. Die kardiovaskulären positiven Wirkungen werden innerhalb eines Jahres nach Beendigung des Tabakrauchens sichtbar. Rauchen beeinträchtigt das Lipidprofil, erhöht die Insulinresistenz, erhöht die linksventrikuläre Masse und verringert die Endothel-abhängige arterielle Vasodilatation. Es gibt keine Studien, die belegen, dass das Rauchen allein den Blutdruck senkt. Eine Raucherentwöhnung ist jedoch notwendig, um eine Resistenz gegen eine medikamentöse Therapie bei Bluthochdruck zu verhindern und das kardiovaskuläre Risiko zu verringern. Nikotinpflaster erhöhen den Blutdruck nicht und können verwendet werden, um mit dem Rauchen aufzuhören. Die Wirkung von Nikotin-Nasenspray auf den Blutdruck ist nicht bekannt.</string>
+    <string name="title9">Fettleibigkeit</string>
+    <string name="title9alim">Es besteht eine Korrelation zwischen einem Body Maß Index (BMI) von 27 oder mehr und Bluthochdruck. Adipöse Hypertoniker haben eine höhere Inzidenz von Dyslipidämie, Insulinresistenz, kardiovaskulären Ereignissen und Diabetes mellitus. Eine Gewichtsabnahme von 5 kg führt bei den meisten Bluthochdruckpatienten zunächst zu einer deutlichen Blutdrucksenkung. In kontrollierten klinischen Studien wurde gezeigt, dass 1 kg Gewichtsverlust zu einer Senkung des systolischen und diastolischen Blutdrucks um 1,6 mmHg und 1,3 mmHg führt. Bei gemeinsamer körperlicher Betätigung verstärkt sich der Blutdruckabfall. Appetitzügler sollten vermieden werden, da sie den Blutdruck erhöhen und pulmonale Hypertonie verursachen können. Bei Gewichtsabnahme können Anzahl und Dosis der blutdrucksenkenden Medikamente reduziert werden. Durch ambulante Blutdruckkontrolle wurde gezeigt, dass eine an Obst, Gemüse, Fischöl und ballaststoffreichen Lebensmitteln reiche Ernährung den systolischen Blutdruck um 4,5 mmHg und den diastolischen Blutdruck um 2,7 mmHg senken kann. Gewichtsverlust verursacht zunächst eine intensive Natriurese und senkt dann den Blutdruck mit einer Abnahme der sympathischen Aktivität und einer Verbesserung der Insulinsensitivität, was zu einem langfristigen niedrigen Blutdruck führt.</string>
+
+
+
+    <string name="yanlisanlama">Man hört alle möglichen Mythen über den Blutdruck. Der Glaube an diese Mythen kann Ihre Blutdruckkontrolle wirklich untergraben und Ihren Zustand sogar verschlimmern. Im Folgenden sind 9 häufige Missverständnisse über den Blutdruck aufgeführt. Schau dir das Folgende an und glaube es nicht.</string>
+    <string name="yanlisanlamatitle1">Wenn der Blutdruck plötzlich ansteigt, sollte er auf den Normalwert gesenkt werden.</string>
+    <string name="yanlisanlamatitle1tanim">Die Senkung des Blutdrucks in kurzer Zeit (mit intravenösen Medikamenten oder einigen sublingualen Medikamenten) ist extrem schädlich, besonders bei älteren Menschen, mit Ausnahme einiger Sonderfälle. Es verursacht ernsthafte Probleme, indem es den Blutfluss zum Gehirn stört. Konsultieren Sie in solchen Fällen Ihren Arzt.</string>
+    <string name="yanlisanlamatitle2">Kein Bluthochdruck bei jungen Menschen</string>
+    <string name="yanlisanlamatitle2tanim">Bluthochdruck kann in jedem Alter auftreten und ist in jedem Alter gefährlich.</string>
+    <string name="yanlisanlamatitle3">Ich habe keine Beschwerden, also ist mein Blutdruck normal</string>
+    <string name="yanlisanlamatitle3tanim">Der Glaube, dass Bluthochdruck ohne Beschwerden nicht wichtig ist, ist extrem falsch. Gefährlicher ist es, wenn Bluthochdruck beim Patienten keine Beschwerden verursacht. Da der Patient keine Beschwerden hat, bemerkt der Patient den Bluthochdruck nicht oder geht nicht auf die Krankheit ein. Auch wenn er keine Beschwerden verursacht, ist Bluthochdruck immer gefährlich und schädigt Zielorgane wie Herz, Niere, Auge und Gehirn.</string>
+    <string name="yanlisanlamatitle4">Essen ohne Salz hat überhaupt keinen Geschmack.</string>
+    <string name="yanlisanlamatitle4tanim">Die Salzschwelle der salzempfindlichen Körper in der Zunge von Menschen, die ständig salzige Speisen essen oder ihren Mahlzeiten Salz hinzufügen, steigt, und sie nehmen sogar normale salzige Mahlzeiten als ungesalzen wahr. Allerdings lassen sich die Geschmacksknospen trainieren: Isst du weniger Salz, schmeckt dir das Essen nach einigen Wochen „normal salzig“. Auch „normal salzige“ Gerichte werden „zu salzig“. Daher können salzige Essgewohnheiten geändert werden. Außerdem überdeckt zu viel Salz die unterschiedlichen Aromen in den Gerichten, die nicht zu dominant sind. Indem Sie weniger Salz essen, können Sie diese unterschiedlichen Geschmacksrichtungen wahrnehmen und mehr Freude am Essen haben.</string>
+    <string name="yanlisanlamatitle5">Besonders alte Menschen sollten vorsichtig mit Salz umgehen.</string>
+    <string name="yanlisanlamatitle5tanim">Zu viel Salz zu essen kann bei Menschen jeden Alters den Blutdruck erhöhen. Heutzutage ist die Inzidenz von Bluthochdruck (Hypertonie) in den 30er und 40er Jahren ziemlich hoch.</string>
+    <string name="yanlisanlamatitle6">Teure Salze sind gesünder.</string>
+    <string name="yanlisanlamatitle6tanim">Salz enthält Natriumchlorid (NaCl), und es ist Natrium (Na), das den Blutdruck erhöht. Dabei spielt es keine Rolle, woher das Salz stammt (Meer, Untergrund usw.) oder wie es zubereitet wird (Kristall, Pulver, grob). Schließlich enthalten sie alle Natriumchlorid.</string>
+    <string name="yanlisanlamatitle7">Ich kann verstehen, wenn mein Blutdruck hoch ist.</string>
+    <string name="yanlisanlamatitle7tanim"> Viele Menschen mit Bluthochdruck haben keine Beschwerden. Daher kann nicht festgestellt werden, ob der Blutdruck hoch ist, es sei denn, er wird gemessen.</string>
+    <string name="yanlisanlamatitle8">Ich kann anstelle von normalem Salz so viel Speisesalz verwenden, wie ich möchte.</string>
+    <string name="yanlisanlamatitle8tanim">Speisesalze enthalten oft Kaliumchlorid (KCl), das dem Salz den Geschmack verleiht. Andere können auch etwas normales Salz hinzugefügt haben. Kaliumchlorid kann bei Nierenpatienten schädlich sein. Daher sollten Sie Speisesalz nur verwenden, wenn Ihr Arzt es empfiehlt.</string>
+    <string name="yanlisanlamatitle9">Himalaya-Salz ist gesund</string>
+    <string name="yanlisanlamatitle9tanim">Dieses angeblich gesunde Salz enthält auch Natriumchlorid, wie wir es kennen.</string>
+
+
+
+    <string name="hpacil">In diesem Artikel werde ich versuchen, Ihnen Informationen über Bluthochdruck, Symptome von Bluthochdruck und was bei Bluthochdruck zu tun ist, zu geben. Ich habe auch versucht aufzuschreiben, was man dringend tun kann, wenn Bluthochdruck lebensbedrohlich wird, wenn er zu hoch wird. Erinnerung, Notrufnummer 112.</string>
+    <string name="hpacil1">Notfallmaßnahmen</string>
+    <string name="hpacil1tanim">Wenn Ihr Blutdruck höher als 180 mm Hg oder kleiner 120 mm Hg ist oder war, aber keine Anzeichen einer Schädigung lebenswichtiger Organe vorliegen, sollte keines dieser Symptome vorhanden sein, Übelkeit und Erbrechen, Brustschmerzen, Kurzatmigkeit, starke Rückenschmerzen, Schwäche, Sehstörungen, Schwierigkeiten beim Sprechen, starke Angstzustände, Krampfanfälle, Reaktionslosigkeit. Sie sind in dieser Klasse. Möglicherweise muss Ihr Arzt Ihre Medikamente anpassen. Es kann jedoch sein, dass Sie stationär im Krankenhaus behandelt werden müssen. Auch wenn Sie in dieser Klasse sind, sollten Sie unbedingt ins Krankenhaus gehen.</string>
+    <string name="hpacil2">Notfallversorgung im Krankenhaus</string>
+    <string name="hpacil2tanim">Wenn Ihr Blutdruck, systolischer Blutdruck 180 oder weniger als 120 oder mehr beträgt und es Anzeichen für eine Schädigung lebenswichtiger Organe gibt, reicht bereits eines dieser Symptome aus. Übelkeit und Erbrechen, Brustschmerzen, Kurzatmigkeit, starke Rückenschmerzen, Schwäche, Sehstörungen, Sprachschwierigkeiten, starke Angstzustände, Krampfanfälle, Reaktionslosigkeit gehören zu dieser Klasse und rufen sofort einen Krankenwagen.</string>
+    <string name="hpacil3">Sie müssen Ihren Blutdruck richtig messen.</string>
+    <string name="hpacil3tanim">Wenn der Patient keine Kopf- oder Brustschmerzen hat, solltest du die Messung unbedingt mehrmals wiederholen. Manchmal kann man vorschnell falsch messen.</string>
+    <string name="hpacil4">Bleiben Sie ruhig und beruhigen Sie den Patienten und knöpfen Sie das Hemd auf, indem Sie die enge Krawatte oder den Gürtel lockern.</string>
+    <string name="hpacil4tanim">Wenn Sie nach mehrmaligem Wiederholen 180 mm Hg hohe oder 120 mm Hg diastolische Blutdruckwerte erreicht haben, haben Sie ein Problem. Zuerst müssen Sie den Patienten beruhigen. Wenn es eine angespannte Umgebung gibt, entfernen Sie den Patienten. In der Zwischenzeit ist es sehr wichtig, dass Sie ruhig bleiben. Wenn der Patient über etwas wütend oder sehr aufgebracht ist, können Sie beruhigende Dinge sagen. Lockern Sie eng anliegende Accessoires wie Gürtel und Krawatten. Entlasten Sie den Patienten auch, indem Sie einige Hemdknöpfe aufknöpfen.</string>
+    <string name="hpacil5">Lassen Sie ihn 6 Mal in 30 Sekunden tief einatmen</string>
+    <string name="hpacil5tanim">Nachdem Sie den Patienten aus der Umgebung entfernt haben, bringen Sie ihn an einen kühlen und bequemen Ort und lassen Sie ihn in 30 Sekunden 6 tiefe Atemzüge machen. Experimente zeigen, dass tiefe Atemübungen den Bluthochdruck um bis zu 10 Punkte senken können. Das vegetative System beginnt im parasympathischen System zu arbeiten.</string>
+    <string name="hpacil6">Stellen Sie sicher, dass der Patient die von ihm verwendeten Blutdruckmedikamente einnimmt.</string>
+    <string name="hpacil6tanim">Wenn ein Patient ein Medikament gegen Bluthochdruck nimmt, lass ihn es nehmen. Wenn der Blutdruck des Patienten über 140 bis 90 liegt (systolischer Blutdruck 140, diastolischer Blutdruck 90) und Symptome wie Übelkeit und Erbrechen, Brustschmerzen, Atemnot, starke Rückenschmerzen, Schwäche, Sehstörungen, Schwierigkeiten beim Sprechen, starke Angstzustände, Krampfanfälle, Reaktionslosigkeit, ihre Medikamente einnehmen. sollte es sofort nehmen und dringend ins Krankenhaus gehen.</string>
+    <string name="hpacil7">Versuchen Sie, den Arzt des Patienten zu erreichen.</string>
+    <string name="hpacil7tanim">Versuchen Sie den Arzt des Patienten schnell telefonisch zu erreichen und folgen Sie seinen Anweisungen. Im Allgemeinen verwenden Ärzte Medikamente mit 1 Tablette oral Clonidin (Clonidin) 75 mcg oder Kaptopril (Captopril) 25 mg, um den Blutdruck zu senken. Es wird unter die Zunge gelegt, damit Medikamente mit diesem Wirkstoff schneller wirken können. Wenn Sie kein Arzt sind, geben Sie dem Patienten niemals Medikamente nach Ihren eigenen Vorstellungen.</string>
+    <string name="hpacil8">Bringen Sie den Patienten ins Krankenhaus.</string>
+    <string name="hpacil8tanim">Trotz Beruhigung und sinkendem Blutdruck sollte der Patient unbedingt sofort einen Arzt aufsuchen.</string>
+    <string name="hpacil9">Regelmäßige Kontrolle</string>
+    <string name="hpacil9tanim">Kümmern Sie sich in regelmäßigen Abständen um die Blutdruckmessung, das wird Ihnen gut tun. </string>
+
+
+
+    <string name="hipoacil">Es gibt Behandlungsmethoden, die bei niedrigem Blutdruck gut sind. Medizinisch erklärt hängt es mit dem Druck zusammen, den das Blut in den Arterien ausübt. Niedriger Blutdruck, der mit Symptomen wie Übelkeit und Ohnmacht einhergeht, ist als eine Störung bekannt, an der Menschen jeden Alters leiden können. Es tritt in Situationen wie langem Stehen und Hunger auf. Also, was ist gut, um den Blutdruck zu senken</string>
+    <string name="hipoacil1">Trinke genug</string>
+    <string name="hipoacil1tanim">Versuche 8 bis 10 Gläser Wasser am Tag zu trinken. Verteilen Sie Ihren Wasserverbrauch über den Tag. Achten Sie darauf besonders bei heißem Wetter. Der Konsum von Wasser erhöht das Blutvolumen und verhindert, dass der Blutdruck fällt.</string>
+    <string name="hipoacil2">Salzkonsum erhöhen</string>
+    <string name="hipoacil2tanim">Es ist allgemein bekannt, dass eine Salzeinschränkung für Menschen mit hohem Blutdruck empfohlen wird; weil Salz Wassereinlagerungen im Körper verursacht und den Blutdruck erhöht. Umgekehrt gilt auch: Menschen mit niedrigem Blutdruck können ihre Salzaufnahme erhöhen, wodurch ihr Blutdruck leicht ansteigt. Normalerweise beträgt die empfohlene tägliche Salzaufnahme 1 Teelöffel. Bei Patienten mit niedrigem Blutdruck sollte der Salzkonsum je nach Bedarf auf 2,5 oder 3 Teelöffel pro Tag erhöht werden.</string>
+    <string name="hipoacil3">Verwenden Sie weniger Alkohol</string>
+    <string name="hipoacil3tanim">Alkohol senkt den Blutdruck, da er die Gefäße entspannt. Außerdem dehydrieren einige Alkohole den Körper, da sie die Urinausscheidung erhöhen. Wenn Sie also Alkohol konsumieren, seien Sie vorsichtig und nehmen Sie viel Wasser mit.</string>
+    <string name="hipoacil4">Vermeiden Sie Hitze</string>
+    <string name="hipoacil4tanim">Heißes Wetter, heiße Umgebungen wie Sauna-Hamam, heiße Duschen, wie z. B. sehr warme Kleidung. Diese senken Ihren Blutdruck, indem sie Ihre Venen entspannen und auch Flüssigkeitsverlust aus dem Körper durch Schweiß verursachen.</string>
+    <string name="hipoacil5">Trage Kompressionsstrümpfe</string>
+    <string name="hipoacil5tanim"> Diese Strümpfe, die je nach Bedarf in unterschiedlichen Drücken und Längen verkauft werden, umschließen die Beine eng und verhindern, dass sich das Blut in den Beinen sammelt, wodurch das Blut leichter zum Herzen zurückfließt. Besonders wenn Sie wissen, dass Sie lange stehen werden oder wenn Sie Krampfadern haben, können Sie viel davon profitieren.</string>
+    <string name="hipoacil6">Heben Sie das Kopfende Ihres Bettes an</string>
+    <string name="hipoacil6tanim">Wenn Sie das Kopfende Ihres Bettes um 10 bis 15 cm anheben, bewirkt dies einige komplexe Mechanismen, die den Blutfluss zum Gehirn und zu den Nieren beeinflussen und zu einer Verbesserung des niedrigen Blutdrucks und der damit verbundenen Beschwerden führen. Wichtig dabei ist, nicht nur den Kopf, sondern auch den Oberkörper anzuheben.</string>
+    <string name="hipoacil7">Essen Sie oft und nach und nach</string>
+    <string name="hipoacil7tanim">Das Essen großer Nahrungsmengen lenkt den Blutfluss des Körpers zum Verdauungstrakt um, senkt den Blutdruck und reduziert den Blutfluss zum Gehirn.</string>
+    <string name="hipoacil8">Richten Sie sich nach und nach auf</string>
+    <string name="hipoacil8tanim">Sei nicht in Eile, wenn du aus dem Bett steigst oder nach langem Sitzen aufstehst. Geben Sie dem Körper Zeit, die Spannung zu regulieren, indem Sie zuerst sitzen und die Beine bewegen.</string>
+    <string name="hipoacil9">Arzt kontaktieren</string>
+    <string name="hipoacil9tanim">Wenn Ihre Beschwerden so stark und häufig sind, dass sie Ihr tägliches Leben beeinträchtigen, wenn Sie es alleine nicht bewältigen können, suchen Sie einen Arzt auf. Vielleicht kann Ihr Arzt helfen, indem er einige Probleme wie Anämie, Vitamin-Mineral-Mangel, hormonelle Störungen erkennt und behandelt. Oder Sie finden es angemessen, Medikamente oder Nahrungsergänzungsmittel zu verwenden, die den Blutdruck erhöhen.</string>
+
+
+    <string name="hiperetki">Bluthochdruck kann zu anderen lebenswichtigen Problemen führen, wenn keine Vorsichtsmaßnahmen getroffen werden. Obwohl die Gefahr so groß ist, gibt es in der Gesellschaft nicht genug Bewusstsein für Bluthochdruck.</string>
+    <string name="hiperetki1">Beziehung Herzinfarkt</string>
+    <string name="hiperetki1tanim">Unkontrollierter Bluthochdruck ist einer der wichtigsten Risikofaktoren für die Verengung und den Verschluss der Herzkranzgefäße, die den Herzmuskel versorgen. In diesem Fall sind Brustschmerzen, Beschwerden in der Brust und Kurzatmigkeit, die als Folge eines unzureichenden sauerstoffreichen Blutflusses zur Versorgung des Herzens auftreten, die häufigsten Symptome eines Herzinfarkts.</string>
+    <string name="hiperetki2">Schlaganfall</string>
+    <string name="hiperetki2tanim">Unkontrollierter Bluthochdruck kann dazu führen, dass Hirngefäße beschädigt, verengt und rissig werden. Darüber hinaus kann das Gerinnsel, das ein Faktor bei der Bildung von Bluthochdruck ist, auch zu einem Schlaganfall führen, wenn die Hirnarterie blockiert ist.</string>
+    <string name="hiperetki3">Herzinsuffizienz</string>
+    <string name="hiperetki3tanim">Bei hohem Blutdruck verdickt sich der Herzmuskel, um Blut durch den Körper zu pumpen. Mit der Zeit kann der verdickte Herzmuskel seine Funktion nicht erfüllen, genug Blut zu pumpen, und es kommt zu Herzversagen.</string>
+    <string name="hiperetki4">Speicherprobleme</string>
+    <string name="hiperetki4tanim">Die durch Bluthochdruck verursachten Schäden an den Gehirngefäßen wirken sich negativ auf Gedächtnis, Denk- und Sprechfähigkeit aus.</string>
+    <string name="hiperetki5">Assoziation mit Nierenerkrankungen</string>
+    <string name="hiperetki5tanim">Die Fähigkeit der Nieren, Abfallstoffe aus dem Blut zu filtern; Es braucht gesunde Venen, um einen regelmäßigen Flüssigkeits-, Hormon-, Salz- und Säurehaushalt aufrechtzuerhalten. Aus diesem Grund führt die Störung dieses Systems aufgrund von Bluthochdruck zu verschiedenen Nierenerkrankungen. Außerdem wird es für den Körper immer schwieriger, den Blutdruck zu regulieren</string>
+    <string name="hiperetki6">Periphere Gefäßerkrankungen</string>
+    <string name="hiperetki6tanim">Wenn die Durchblutung durch Arteriosklerose in den Beinvenen beeinträchtigt ist, können Schmerzen, Krämpfe und Taubheitsgefühle in den Füßen und Beinen auftreten.</string>
+    <string name="hiperetki7">Verdickung, Verengung der Augengefäße</string>
+    <string name="hiperetki7tanim">Wenn Bluthochdruck nicht behandelt wird, kann er die empfindlichen Gefäße schädigen, die zur Netzhaut des Auges führen; Das Ergebnis kann zu Sehstörungen auf verschiedenen Ebenen bis hin zum dauerhaften Sehverlust führen. Unkontrollierter Blutdruck, der auch einen Schlaganfall verursacht, kann auch zu Sehverlust führen.</string>
+    <string name="hiperetki8">Sexuelle Funktionsstörungen</string>
+    <string name="hiperetki8tanim">Wissenschaftliche Studien; zeigt, dass sexuelle Dysfunktion sowohl bei Männern als auch bei Frauen mit Bluthochdruck häufiger auftritt als bei Menschen ohne Bluthochdruck.</string>
+    <string name="hiperetki9">Aortenaneurysma</string>
+    <string name="hiperetki9tanim">Als Folge von Bluthochdruck aufgrund von Bluthochdruck und einer Schwächung der Gefäßwand im Laufe der Zeit kann es zu einer Vergrößerung eines Teils des Gefäßes und einer Aufblähung kommen, was als Aneurysma definiert wird. Obwohl sich ein Aneurysma in Gefäßen im ganzen Körper bilden kann, findet es sich oft im größten Gefäß des Körpers, der Aorta, und kann platzen und lebensbedrohliche Blutungen verursachen.</string>
+
+
+    <string name="tanhata">Damit die Blutdruckwerte nicht falsch sind, sind vor und während der Blutdruckmessung einige Regeln zu beachten.</string>
+    <string name="tanhata1">Während der Blutdruckmessung nicht sprechen, lachen oder Lärm machen.</string>
+    <string name="tanhata1t"></string>
+    <string name="tanhata2">Nehmen Sie keine Blutdruckmessung vor, ohne Ihren Toilettenbedarf vor der Blutdruckmessung zu decken.</string>
+    <string name="tanhata2t"></string>
+    <string name="tanhata3">Messen Sie nicht mit enger Kleidung</string>
+    <string name="tanhata3t"></string>
+    <string name="tanhata4">Der Raum ist nicht zu heiß oder zu kalt</string>
+    <string name="tanhata4t"></string>
+    <string name="tanhata5">Ihre Füße müssen fest auf dem Boden stehen</string>
+    <string name="tanhata5t"></string>
+    <string name="tanhata6"> Messen Sie mit dem bloßen Arm.</string>
+    <string name="tanhata6t"></string>
+    <string name="tanhata7">Gerätebatterie prüfen</string>
+    <string name="tanhata7t"></string>
+    <string name="tanhata8">Rauchen Sie nicht während der Messung</string>
+    <string name="tanhata8t"></string>
+    <string name="tanhata9">Bewegen Sie sich beim Messen nicht zu viel</string>
+    <string name="tanhata9t"></string>
+
+
+
+    <string name="bpunder">Der Blutdruck in den Arterien wird Blutdruck genannt. Wenn sich der Kapillarmuskel zusammenzieht, wird Blut in die Arterien gepumpt. Der zu diesem Zeitpunkt gemessene Druck ist der systolische Druck. Wenn sich der Herzmuskel entspannt, stoppt das Blut in der Vene; der zu diesem Zeitpunkt gemessene Druck ist der diastolische Druck. Bei der Blutdruckmessung werden der systolische (große) und der diastolische (kleine) Blutdruck überprüft. Hoher Blutdruck wird Hypertonie genannt. Der ideale Blutdruck kann von Person zu Person variieren. Im Durchschnitt gilt ein systolischer Blutdruck zwischen 120 und 130 und ein diastolischer Blutdruck zwischen 70 und 90 als normal. Niedrige Blutdruckwerte bei Jugendlichen und Kindern können als normal angesehen werden. Lassen Sie uns diese Werte jetzt untersuchen.</string>
+    <string name="bpunder1">Hypotonie</string>
+    <string name="bpunder1t">Hypotonie verursacht keine Symptome und ist nicht zu beanstanden, es sei denn, sie ist sehr offensichtlich. Es gilt als positiv, weil es das Risiko von Herz-Kreislauf-Erkrankungen senkt. Ein plötzlicher Blutdruckabfall kann Schwindel, Schwäche und Ohnmacht verursachen.</string>
+    <string name="bpunder2">Normal</string>
+    <string name="bpunder2t">Dein Blutdruck ist ideal (normal), wenn dein systolischer Blutdruck weniger als 120 mmHg UND dein diastolischer Blutdruck weniger als 80 mmHg beträgt. Wenn auch nur einer Ihrer systolischen oder diastolischen Blutdruckwerte über dem Grenzwert liegt, befinden Sie sich außerhalb des normalen Bereichs. Wenn Ihr systolischer Blutdruck normal ist, Ihr diastolischer Blutdruck jedoch über 90 Hg liegt, sprechen wir von isolierter diastolischer Hypertonie (IDH).</string>
+    <string name="bpunder3">Aufgerüstet</string>
+    <string name="bpunder3t">Wenn dein systolischer Blutdruck zwischen 120 und 129 mmHg und dein diastolischer Blutdruck unter 80 mmHg liegt, gehörst du zur Kategorie „Erhöhter Blutdruck“. Etablieren Sie gesunde Gewohnheiten, damit sich Ihr Blutdruck wieder normalisiert oder nicht weiter ansteigt. Stellen Sie sicher, dass Ihre Blutdruckmessung und allgemeine Kontrollen innerhalb von 3 bis 6 Monaten durchgeführt werden.</string>
+    <string name="bpunder4">Hypertonie Stufe 1</string>
+    <string name="bpunder4t">Hoher (Hyper-)Blutdruck (Stufe 1) wird erwähnt, wenn Ihr systolischer Blutdruck zwischen 130 und 139 mmHg oder Ihr diastolischer Blutdruck zwischen 80 und 89 mmHg liegt. Sie können Ihren Arzt um Hilfe bitten. Wenn Ihr Risiko weniger als 10 Prozent beträgt, legen Sie Ihre schlechten Gewohnheiten ab und lassen Sie Ihre Blutdruckmessung und allgemeine Kontrollen alle 3 oder 6 Monate durchführen. Wenn Ihr Risiko über 10 Prozent liegt, sollten Sie eine ärztliche Meinung einholen.</string>
+    <string name="bpunder5">Hypertonie Stufe 2</string>
+    <string name="bpunder5t">Wenn Ihr systolischer Blutdruck größer oder gleich 140 mmHg oder Ihr diastolischer Blutdruck größer oder gleich 90 mmHg ist, fallen Sie in den hohen (hyper) Blutdruck (Stufe 2 ) Blutdruckkategorie.</string>
+    <string name="bpunder6">Hypertonie-Krise</string>
+    <string name="bpunder6t">Wenn Ihr systolischer Blutdruck gleich oder höher als 180 mmHg ist oder wenn Ihr diastolischer Blutdruck gleich oder höher als 180 mmHg ist, haben Sie eine Bluthochdruckkrise. Gehen Sie sofort ins Krankenhaus, bevor Ihre Organe durch Bluthochdruck geschädigt werden. Probiere während dieser Zeit die Tiefatmungstechnik 6 Mal in 30 Sekunden aus.</string>
+    <string name="bpunder7">Pseudo-Spannung</string>
+    <string name="bpunder7t">Es sind mindestens drei Messungen erforderlich, um festzustellen, ob eine Person hohen Blutdruck hat. Die Entscheidung, dass der Patient einen hohen Blutdruck mit einer einzigen Messung hat, wird als Pseudo-Blutdruck angesehen. Der Blutdruck einer normalen Person kann im Laufe des Tages schwanken. Ihr Blutdruck kann nach Gehen, Laufen, Sport oder Essen hoch sein.</string>
+    <string name="bpunder8">Schwangerschaftsblutdruck</string>
+    <string name="bpunder8t">Bluthochdruck kann bei fast jeder 10. schwangeren Frau beobachtet werden. Gestationshypertonie sollte untersucht werden, ob sie auf eine Schwangerschaft oder Präeklampsie zurückzuführen ist, und von chronischer Hypertonie unterschieden werden. Gestationsbluthochdruck schadet Mutter und Kind. Chronischer Bluthochdruck bei älteren und übergewichtigen Müttern kann bereits in der ersten Schwangerschaft festgestellt werden. Gestationsbluthochdruck tritt meist nach der zweiten Hälfte der Schwangerschaft auf. Bei Bluthochdruck, der bei Präeklampsie auftritt, kommt es zu einem Proteinaustritt im Urin. Präeklampsie verursacht auch Ödeme, Kopfschmerzen und Leberfunktionsstörungen. Einige Antihypertensiva können während der Schwangerschaft verwendet werden. Gestationsbluthochdruck kann zu Frühgeburten, Wachstumsverzögerungen beim Baby, Hirnschäden und Schäden an der Plazenta des Babys führen.</string>
+    <string name="bpunder9">Augenspannung</string>
+    <string name="bpunder9t">Glaukom ist der medizinische Name für die Erkrankung, die allgemein als Glaukom bekannt ist. Ein Glaukom ist eine Schädigung des Sehnervs, die von Zeit zu Zeit durch übermäßigen Augendruck verursacht wird. Infolgedessen nimmt das Sehvermögen des Patienten allmählich ab. Das Glaukom tritt häufiger bei Menschen über 40 Jahren auf und kann genetisch bedingt sein. Kurzsichtigkeit ist stärker gefährdet. Das Glaukom-Risiko ist bei Menschen mit Diabetes und Hypothyreose, bei Langzeitanwendung von Kortison und bei Menschen mit Augenverletzungen erhöht.</string>
+
+
+    <string name="riskk">Es gibt viele Risikofaktoren, die für die Entstehung von Bluthochdruck prädisponieren können. Das Risiko, an Bluthochdruck zu erkranken, steigt mit zunehmendem Alter. Die Anwesenheit von Personen mit Bluthochdruck unter Familienmitgliedern und Verwandten gehört ebenfalls zu den Faktoren, die als riskant für die Entwicklung von Bluthochdruck angesehen werden. Abgesehen von diesen Situationen werden auch Menschen, die übergewichtig sind, sich nicht körperlich betätigen oder Tabak rauchen, in der Gruppe betrachtet, die als gefährdet für die Entwicklung von Bluthochdruck gilt. Bedingungen, die bei einer Person zu einem Anstieg des Blutdrucks führen können, werden in 2 Gruppen als primäre und sekundäre Ursachen untersucht. Die Definition von primärer (primärer) Hypertonie ist ein Begriff, der verwendet wird, wenn der Zustand, der bei einer Person zu Bluthochdruck führen kann, nicht bestimmt werden kann. Primäre Hypertonie neigt dazu, sich klinisch allmählich im Laufe der Zeit zu entwickeln. Der Begriff der sekundären (sekundären) Hypertonie hingegen bedeutet, dass Bluthochdruck bei der Person als Folge eines bestimmten Gesundheitszustands auftritt. Im Gegensatz zur primären Hypertonie steigt der sekundär bedingte Bluthochdruck plötzlich an. Sekundäre Hypertonie kann nach verschiedenen Beschwerden und der Einnahme bestimmter Medikamente oder Substanzen auftreten. Nachfolgend sind die Faktoren aufgeführt, die Bluthochdruck verursachen können.</string>
+    <string name="risk1">Genetische Faktoren</string>
+    <string name="risk1t"></string>
+    <string name="risk2">Hoher Salzverbrauch</string>
+    <string name="risk2t"></string>
+    <string name="risk3">Zuckerkrankheit, Cholesterin</string>
+    <string name="risk3t"></string>
+    <string name="risk4">Antibabypillen, einige Schmerzmittel</string>
+    <string name="risk4t"></string>
+    <string name="risk5">Schilddrüsenerkrankungen</string>
+    <string name="risk5t"></string>
+    <string name="risk6">Stress, Fettleibigkeit</string>
+    <string name="risk6t"></string>
+    <string name="risk7">Magnesium-, Kalium- und Kalzium-Mangelernährung</string>
+    <string name="risk7t"></string>
+    <string name="risk8">Geringe körperliche Aktivität</string>
+    <string name="risk8t"></string>
+    <string name="risk9">Verwendung verbotener Substanzen</string>
+    <string name="risk9t"></string>
+
+
+    <string name="faqq">Unsere App dient als Datenüberwachungs- und Verwaltungstool zur Überwachung Ihres Blutdrucks und ermutigt Sie, Ihre Gesundheit mit wissenschaftlich fundierten Informationen zu verbessern. Da sich die Technologie zur Blutdruckmessung mit Mobiltelefonen noch in der Entwicklungsphase befindet und noch nicht reif für den klinischen Einsatz ist, misst unsere Anwendung den Blutdruck nicht, in der Verantwortung unserer Benutzer.</string>
+    <string name="faq1">Tatsächlich wurde keine App als zuverlässiges Blutdruckmessgerät zertifiziert.</string>
+    <string name="faq1t">Die U.S. Food and Drug Administration (FDA) regelt medizinische Geräte in den Vereinigten Staaten und behauptet, dass die Genauigkeit der Blutdruckmessungen von Apps in Frage gestellt werden könnte. Daher kann keine Anwendung eine genaue und zuverlässige Blutdruckmessung liefern.</string>
+    <string name="faq2">Allgemein gesagt</string>
+    <string name="faq2t">Blutdruck-Apps, die von Google Play und dem App Store heruntergeladen werden können, verwenden die Taschenlampe und Kamera deines Telefons, um ein rohes Pulsoximeter zu erstellen, das einige Informationen über dein Herz-Kreislauf-System erkennen kann.</string >
+    <string name="faq3">Jedoch</string>
+    <string name="faq3t">Die gesammelten Informationen konnten nicht als richtig oder zutreffend nachgewiesen werden.</string>
+    <string name="faq4">Es bedarf weiterer Forschung, um diese Technologie zu entwickeln und zu verbessern.</string>
+    <string name="faq4t"></string>
+    <string name="faq5">Keine App kann tatsächlich Ihren Blutdruck messen.</string>
+    <string name="faq5t"></string>
+    <string name="faq6">Diese App:</string>
+    <string name="faq6t">Das regelmäßige Aufzeichnen und Überprüfen Ihrer Messwerte kann zur Früherkennung beitragen.</string>
+    <string name="faq7">Kann Ihre Behandlung verfolgen</string>
+    <string name="faq7t"></string>
+    <string name="faq8">Erstellt Grafiken für Sie</string>
+    <string name="faq8t"></string>
+    <string name="faq9">Bietet Datumsunterstützung</string>
+    <string name="faq9t"></string>
+
+
+    <string name="hipoad">Du hast niedrigen Blutdruck. Ändern Sie Ihre Ernährung und konsultieren Sie gegebenenfalls Ihren Arzt, um sie wieder auf den Normalwert zu bringen.</string>
+    <string name="normalad">Keine Behandlung erforderlich. Dein Blutdruck ist am besten.</string>
+    <string name="yuksekad">Dein Blutdruck ist etwas hoch. Um Bluthochdruck zu vermeiden, ist es gut, Ihren Lebensstil zu verbessern und Ihren Blutdruck regelmäßig zu messen.</string>
+    <string name="hiperonead">3 oder mehr Werte in diesem Bereich weisen auf Bluthochdruck hin. Treffen Sie Vorkehrungen für Ihren Lebensstil und konsultieren Sie Ihren Arzt, um Ihren Blutdruck zu senken.</string>
+    <string name="hipertwoad">Wenn deine Indikatoren in diesem Stadium bleiben, benötigst du Medikamente für deinen Blutdruckbehandlungsplan.</string>
+    <string name="tansifad">Dein Blutdruck ist sehr hoch. Sie sollten einen Notarzt aufsuchen.</string>
+
+
+    <string name="heyy">Hey für deine Gesundheit, diese App ist für dich</string>
+    <string name="oy">Stimme für uns</string>
+    <string name="ark">Mit Freunden teilen</string>
+    <string name="geri">Feedback</string>
+    <string name="gizlilik">Datenschutzrichtlinie</string>
+    <string name="ayarlar">EINSTELLUNGEN</string>
+
+    <string name="anladım">ICH VERSTEHE</string>
+    <string name="kategori">KATEGORIEN</string>
+</resources>

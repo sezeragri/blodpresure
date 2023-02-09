@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Blood Pressure</string>
+    <string name="ana_giris">CASA</string>
+    <string name="tansiyonum">La mia pressione sanguigna</string>
+    <string name="en_son">ULTIMO</string>
+    <string name="buyuk_tansiyon">Sistolico</string>
+    <string name="kucuk_tansiyon">Diastolico</string>
+    <string name="nabiz">Polso</string>
+    <string name="tum_kayitlar">Tutti i record</string>
+    <string name="ekle">Aggiungere</string>
+    <string name="ortalama">MEDIA</string>
+    <string name="tansiyon_bilgileri">Informazioni BS</string>
+    <string name="daha">Di più</string>
+    <string name="izleyici">TRACKER</string>
+    <string name="kayitlar">Record</string>
+    <string name="hipotansiyon">Ipotensione</string>
+    <string name="normal">Normale</string>
+    <string name="yüksek">Elevato</string>
+    <string name="hipertansiyonbirinciasama">Ipertensione . Fase 1</string>
+    <string name="hipertansiyonikinciasama">Ipertensione . Fase 2</string>
+    <string name="hipertansif">Ipertensivo</string>
+    <string name="gecmis">Passato</string>
+    <string name="hipertansiyonayonelikyasam">Effetti dell ipertensione che dovresti conoscere</string>
+    <string name="lifestyle">Rimedi di stile di vita per l ipertensione</string>
+    <string name="first_aid">Primo soccorso per le emergenze ipotensive</string>
+    <string name="hypotension_diagons">Diagnosi di ipotensione e trattamento medico</string>
+    <string name="exercises">Esercizi per controllare l ipertensione</string>
+    <string name="alltoknow">Tutto da sapere sull ipotensione</string>
+    <string name="medications">Farmaci per l ipertensione</string>
+    <string name="Bp">BP Fraintendimenti e miti</string>
+    <string name="hypertension_types">Tipi e sintomi di ipertensione</string>
+    <string name="topmistakes">Principali errori durante la misurazione della pressione arteriosa</string>
+    <string name="first_aid_hypertensive">Primo soccorso per le emergenze ipertensive</string>
+    <string name="whoe_needs">Chi ha bisogno della misurazione della pressione sanguigna a casa</string>
+    <string name="faq">FAQ - Perché non fornire la misurazione della pressione arteriosa nella nostra app</string>
+    <string name="understanding">Comprensione dei numeri BP</string>
+    <string name="master">Misurazione della PA domestica principale</string>
+    <string name="risk">Fattori di rischio per l ipertensione</string>
+    <string name="tarih">Data</string>
+    <string name="bilgiler">INFORMAZIONI E CONOSCENZA </string>
+    <string name="tarihvesaat">Data e ora </string>
+    <string name="not">Nota </string>
+    <string name="kaydet">SALVA </string>
+    <string name="yenirekor">Nuovo record </string>
+    <string name="bilgi">INFORMAZIONI </string>
+
+    <string name="hipertansiyon_egzersiz">Alla ricerca di metodi senza farmaci per la prevenzione primaria, il trattamento e il controllo dell´ipertensione Allora sei nel posto giusto. Questo articolo introdurrà esercizi fisici che aiuteranno ad abbassare la pressione sanguigna. Aggiungili alla tua routine quotidiana e vedrai quanta differenza farà. </string>
+    <string name="aerobik_egzersiz"> Esercizio aerobico</string>
+    <string name="aerobik_egzersiz_tanim">Come modalità primaria negli ipertesi; Possono essere utilizzati esercizi aerobici che coinvolgono grandi gruppi muscolari, che possono essere sostenuti e che sono ritmici. Gli esercizi aerobici sono stati a lungo un metodo importante nella prevenzione e nel trattamento di malattie tipiche come il diabete mellito non insulino-dipendente, l´ipertensione, le malattie cardiache e l´osteoporosi che si verificano con l´invecchiamento. Camminare, fare jogging e andare in bicicletta sono stati provati come esercizi di resistenza. Il fattore che prolunga il tempo di esercizio è importante nelle preferenze personali per la scelta dell´esercizio. Dovrebbero essere selezionati tipi di esercizio che garantiscano che la durata dell´esercizio sia la più lunga possibile. </string>
+    <string name="aerobik_egzersiz_nekadar">QUANTO esercizio aerobico ci serve </string>
+    <string name="aerobik_egzersiz_nekadar_tanim">La frequenza di esercizio aerobico tra 3 e 5 giorni alla settimana è stata determinata per essere efficace nell´abbassare la pressione sanguigna. Nel numero limitato di studi che suggeriscono 7 sessioni a settimana, hanno riferito che potrebbe essere più efficace degli studi eseguiti 3 sessioni a settimana. In generale, quelli con una bassa capacità di esercizio traggono beneficio da un esercizio di bassa intensità e durata applicato più volte al giorno, mentre quelli con un´elevata capacità di esercizio traggono beneficio da un esercizio continuo da 3 a 5 giorni alla settimana. L´American College of Sports Medicine (ACSM) raccomanda l´esercizio aerobico, preferibilmente tutti i giorni della settimana </string>
+    <string name="aerobik_ornek_baslik">ESEMPI di attività aerobica che utilizza grandi gruppi muscolari</string>
+    <string name="aerobik_ornekler">. Salire le scale. camminare . Jogging . Bicicletta . nuoto . Danza </string>
+    <string name="direnc"> Allenamento di resistenza </string>
+    <string name="direnc_tanim">Gli esercizi di forza (come il sollevamento pesi) sono generalmente sconsigliati alle persone con ipertensione. Tuttavia, questi esercizi sono particolarmente importanti negli anziani, poiché la perdita di massa muscolare e la debolezza causano danni significativi. Quando viene fornito il controllo della pressione sanguigna e viene data una buona educazione del paziente, si consiglia di utilizzare esercizi di rafforzamento insieme a esercizi aerobici che rafforzano la resistenza del sistema cardiovascolare.</string>
+    <string name="direnc_onlem">MISURE </string>
+    <string name="direnc_onlem_tanim">Gli esercizi di forza sono per lo più applicati ai principali gruppi muscolari. Gli esercizi isometrici dovrebbero essere evitati in particolare. La postura della persona e la quantità di peso sollevata devono essere seguite. Non dovresti trattenere il respiro durante gli esercizi. Si raccomandano esercizi di rafforzamento multi-ripetizione a bassa resistenza. Mentre ACSM consiglia esercizi di potenziamento per grandi gruppi muscolari 2 o 3 volte a settimana, 3 serie, 8 o 15 ripetizioni che coinvolgono 8,10 gruppi muscolari, per soggetti ipertesi di mezza età; consiglia esercizi di rafforzamento per grandi gruppi muscolari 2 o 3 volte a settimana, 1 set, 8 o 15 ripetizioni che coinvolgono 8,10 gruppi muscolari. I carichi possono essere aumentati gradualmente, iniziando dal 40 al 60 percento di un peso di ripetizione massimo determinato (intensità moderata). L´aumento della forza muscolare può aumentare la capacità di molte persone di svolgere attività come salire le scale e camminare. </string>
+    <string name="ekipman">ESEMPI di allenamento di resistenza con attrezzature </string>
+    <string name="ekipman_ornekler">. Stampa sul petto. Pressione della spalla. Estensione del tricipite. Curl bicipiti. Abbassalo. Estensione lombare. navetta. Leg curl. Movimento di costruzione dei muscoli del polpaccio </string>
+    <string name="esneklik"> Formazione sulla flessibilità</string>
+    <string name="essnekliktanim">Semplici esercizi di flessibilità o allungamenti sono utili per gli ipertesi. Quando allunghi i muscoli e le articolazioni, in realtà allunghi i vasi sanguigni e le arterie e riduci il flusso sanguigno e la rigidità. È ora di aggiungere lo stretching alla tua routine di allenamento.</string>
+    <string name="esneklikkactane">Di quanti allenamenti di flessibilità abbiamo bisogno</string>
+    <string name="esneklikkactanetanim">Secondo la ricerca, farlo da 2 a 5 giorni alla settimana può abbassare la pressione sanguigna. Nel frattempo, è importante mantenere ogni esercizio tra 10 e 30 secondi per garantire guadagni.</string>
+    <string name="esneklikornekbaslik">ESEMPI la flessibilità si estende</string>
+    <string name="esneklikornek">. Yoga. Pilates</string>
+
+
+    <string name="hipertansiyongiris">Combattere la qualità silenziosa è un impegno a vita. Non affidarti solo alle droghe e apporta alcune modifiche per salvare il tuo cuore. Seguendo lo stile di vita sano per il cuore in questo articolo, puoi riportare i tuoi numeri dove dovrebbero essere. Prendiamo provvedimenti per abbassare la pressione sanguigna e migliorare la vita quotidiana.</string>
+    <string name="title1">Stress psicologico e tecniche di rilassamento</string>
+    <string name="title1tanim">Lo stress emotivo può causare un aumento acuto della pressione sanguigna. Approcci cognitivi e comportamentali come il biologico e il feedback, lo yoga, la meditazione trascendentale e la psicoterapia possono fornire una riduzione a breve termine della pressione sanguigna. Tuttavia, gli effetti benefici a lungo termine di questi metodi sono sconosciuti. Uno studio ha dimostrato che la terapia di prevenzione dello stress non è efficace nel prevenire l´ipertensione. Non ci sono prove che suggeriscano che sedativi e tranquillanti riducano la pressione sanguigna.</string>
+    <string name="title2"> Attività fisica</string>
+    <string name="title2tanim">Il rischio di sviluppare ipertensione nelle persone che conducono una vita sedentaria è dal 20 al 50 percento superiore rispetto a chi svolge attività fisica regolare. Negli ipertesi che praticano regolarmente esercizio aerobico (isotonico), vi è una diminuzione da 4 a 8 mmHg della pressione arteriosa sistolica. Pazienti ipertesi almeno 3 o 4 volte a settimana per raggiungere dal 60 al 70 percento della frequenza cardiaca target per 30 45 minuti. Dovrebbero fare passeggiate veloci. Questo tipo di esercizio è più efficace della corsa o del jogging. Gli esercizi isometrici non sono adatti agli ipertesi. L´uso di farmaci antipertensivi non è controindicato per gli esercizi isotonici. Per coloro che usano i beta bloccanti, può essere sufficiente raggiungere il 50 percento della frequenza cardiaca target. La rigidità arteriosa diminuisce in coloro che svolgono regolarmente esercizio aerobico, mentre la compliance arteriosa sistemica totale, la secrezione di EDRF e la sensibilità all´insulina aumentano. Questi meccanismi svolgono un ruolo nell´abbassamento della pressione sanguigna.</string>
+    <string name="title3">Consumo di alcol</string>
+    <string name="title3tanim">La prevalenza dell´ipertensione è alta nelle persone la cui quantità di alcol etilico supera i 28 55 g al giorno. Questi includono aumenti acuti della pressione sanguigna. In queste persone, l´alcol riduce l´effetto dei farmaci antipertensivi e aumenta il rischio di ictus. L´ipertensione può essere rilevata all´inizio della settimana a causa della cessazione acuta dell´alcol nei forti bevitori di alcol (5 o più doppi) durante il fine settimana. Piccole quantità di consumo quotidiano di alcol sono associate a una minore mortalità e morbilità per malattia coronarica rispetto al consumo nullo o maggiore di alcol. Il consumo di alcol dovrebbe essere limitato a 60 ml di whisky, 300 ml di vino o 720 ml di birra al giorno. Poiché l´effetto dell´alcol può essere maggiore nelle persone magre, le donne dovrebbero usare meno alcol rispetto ai valori specificati, poiché l´assorbimento di alcol etilico è maggiore nelle donne che negli uomini.</string>
+    <string name="title4">Assunzione di magnesio</string>
+    <string name="title4tanim">Gli studi mostrano un´alta prevalenza di ipertensione in coloro che seguono una dieta a basso contenuto di magnesio. Tuttavia, questa relazione non è a un livello tale da richiedere l´assunzione di magnesio per abbassare la pressione sanguigna. Il 50 percentuale degli ipertesi che ricevono una terapia diuretica cronica ha bassi livelli di magnesio muscolare. La carenza di magnesio è anche responsabile dell´ipokaliemia che non migliora con l´integrazione di potassio. In questi pazienti, la somministrazione giornaliera di 15 mmol Mg può abbassare la pressione sanguigna, contribuire a migliorare l´ipokaliemia e influenzare positivamente il metabolismo del glucosio.</string>
+    <string name="title5">Assunzione di calcio</string>
+    <string name="title5tanim">Studi epidemiologici hanno mostrato risultati contrastanti sulla relazione tra il livello di pressione sanguigna e l´assunzione di calcio nella dieta. Quando il calcio viene somministrato 1 g al giorno, provoca una diminuzione minima della pressione arteriosa sistolica e la pressione arteriosa diastolica non cambia. Tuttavia, questo effetto non richiede un aumento dell´assunzione di calcio per la prevenzione o il trattamento dell´ipertensione. L´aumento dell´assunzione di calcio aumenta ulteriormente l´ipercalciuria già presente nell´ipertensione, che può portare a calcoli renali e infezioni del tratto urinario</string>
+    <string name="title6">Assunzione di potassio</string>
+    <string name="title6alim">Dieta, circa 90 mmol di potassio al giorno da frutta e verdura fresca abbassano la pressione sanguigna negli ipertesi. Negli studi clinici controllati randomizzati, questa riduzione è stata di 4,4 mmHg nella pressione arteriosa sistolica e di 2,4 mmHg nella pressione arteriosa diastolica. L´uso di citrato di potassio o bicarbonato di potassio fornisce una maggiore riduzione della pressione sanguigna rispetto al cloruro di potassio. L´effetto ipotensivo del potassio può essere ridotto quando si segue una dieta iposodica. Si deve usare cautela nell´uso del potassio nei pazienti con insufficienza renale che assumono ACE-inibitori o antagonisti del recettore A II. Potassio; Provoca un aumento dell´attività vascolare di Na e K ATP e il relativo rilassamento vascolare, una diminuzione della resistenza vascolare renale e un aumento della velocità di filtrazione glomerulare, e mostra il suo effetto di abbassamento della pressione sanguigna attraverso questi meccanismi.</string>
+    <string name="title7">Limitazione sale</string>
+    <string name="title7alim">I termini sale e sodio non devono essere confusi. Il cloruro aumenta l´effetto del sodio. Il sodio viene assunto con il cibo, principalmente sotto forma di sale da cucina. Quando il sodio viene assunto in altre forme (come il bicarbonato di sodio), l´effetto di aumento della pressione sanguigna non è molto. In studi clinici randomizzati, quando l´assunzione di sodio è stata limitata a 80 100 mmol (da 4,7 a 5,8 g) al giorno nei pazienti ipertesi, è stata osservata una diminuzione di 4,8, 1 mmHg della pressione arteriosa sistolica e di 2,5,0,7 mmHg della pressione arteriosa diastolica. osservato (64). La restrizione del sale dovrebbe essere applicata per una media di 5 settimane per garantire una bassa pressione sanguigna. Questo effetto è più pronunciato negli ipertesi anziani. I pazienti devono essere avvisati di consumare meno di 100 mmol (5,8 g) di sodio al giorno o meno di 6 g di NaCl (sale) al giorno. Una parte significativa del sodio alimentare proviene da alimenti trasformati. Tali cibi dovrebbero essere evitati e le saliere non dovrebbero essere usate sul tavolo. La restrizione di sodio aumenta l´effetto dei farmaci antipertensivi. Questo effetto non è visto perché i bloccanti dei canali del calcio hanno proprietà natriuretiche intrinseche. Tuttavia, l´effetto antiproteinurico dei bloccanti dei canali del calcio aumenta. L´assunzione di 15 20 g di sale al giorno può ridurre l´effetto antipertensivo dei diuretici. La restrizione di sodio riduce la perdita di potassio dovuta ai diuretici, fa regredire l´ipertrofia ventricolare sinistra, protegge dall´osteoporosi e rilassa la muscolatura liscia vascolare e bronchiale. Se la restrizione di sodio è inferiore a 10 20 mmol al giorno, si verifica un aumento di catecolamine plasmatiche, LDL e trigliceridi e insulino resistenza.</string>
+    <string name="title8">Smettere di fumare</string>
+    <string name="title8alim">Da 15 a 30 minuti dopo ogni sigaretta. aumento acuto della pressione sanguigna. Sebbene non rilevabili nella pratica clinica, sono stati dimostrati aumenti nelle misurazioni ambulatoriali della pressione arteriosa nelle 24 ore. Il fumo di sigaretta è un fattore che aumenta il rischio cardiovascolare da 2 a 3 volte. Gli effetti cardiovascolari positivi si osservano entro un anno dalla cessazione del fumo di tabacco. Il fumo altera il profilo lipidico, aumenta la resistenza all´insulina, aumenta la massa ventricolare sinistra e diminuisce la vasodilatazione arteriosa endotelio dipendente. Non ci sono studi che dimostrino che smettere di fumare da solo abbassi la pressione sanguigna. Tuttavia, la cessazione del fumo è necessaria per prevenire la resistenza alla terapia farmacologica nell´ipertensione e per ridurre il rischio cardiovascolare. I cerotti alla nicotina non aumentano la pressione sanguigna e possono essere usati per smettere di fumare. L´effetto dello spray nasale alla nicotina sulla pressione sanguigna è sconosciuto.</string>
+    <string name="title9">Obesità</string>
+    <string name="title9alim">Esiste una correlazione tra un indice di massa corporea (BMI) di 27 o più e l´ipertensione. Gli ipertesi obesi hanno una maggiore incidenza di dislipidemia, insulino resistenza, eventi cardiovascolari e diabete mellito. La perdita di peso di 5 kg porta inizialmente a una significativa riduzione della pressione arteriosa nella maggior parte dei pazienti ipertesi. In studi clinici controllati, è stato dimostrato che 1 kg di perdita di peso fornisce riduzioni di 1,6 mmHg e 1,3 mmHg della pressione arteriosa sistolica e diastolica. Se l´esercizio fisico viene applicato insieme, la diminuzione della pressione sanguigna aumenta. I farmaci anoressizzanti dovrebbero essere evitati in quanto possono aumentare la pressione sanguigna e causare ipertensione polmonare. Con la perdita di peso, il numero e la dose di farmaci antipertensivi possono essere ridotti. È stato dimostrato dal controllo ambulatoriale della pressione sanguigna che una dieta ricca di frutta, verdura, olio di pesce e cibi fibrosi può ridurre di 4,5 mmHg la pressione sistolica e di 2,7 mmHg la pressione diastolica. La perdita di peso provoca inizialmente un´intensa natriuresi, quindi diminuisce la pressione sanguigna con una diminuzione dell´attività simpatica e un miglioramento della sensibilità all´insulina, portando a una bassa pressione sanguigna a lungo termine.</string>
+
+    <string name="yanlisanlama">Puoi sentire tutti i tipi di miti sulla pressione sanguigna. Credere a questi miti può davvero minare il controllo della pressione sanguigna e persino peggiorare le tue condizioni. Di seguito sono riportati 9 malintesi comuni sulla pressione sanguigna. Dai un´occhiata a quanto segue e non crederci.</string>
+    <string name="yanlisanlamatitle1">Se la pressione sanguigna aumenta improvvisamente, dovrebbe essere abbassata al livello normale.</string>
+    <string name="yanlisanlamatitle1tanim">Ridurre la pressione sanguigna in breve tempo (con farmaci per via endovenosa o alcuni farmaci sublinguali) è estremamente dannoso, soprattutto negli anziani, salvo alcuni casi particolari. Provoca seri problemi interrompendo il flusso sanguigno al cervello. In questi casi, consulta il tuo medico.</string>
+    <string name="yanlisanlamatitle2">Nessuna ipertensione nei giovani</string>
+    <string name="yanlisanlamatitle2tanim">L´ipertensione può verificarsi a qualsiasi età ed è pericolosa a qualsiasi età.</string>
+    <string name="yanlisanlamatitle3">Non ho lamentele, quindi la mia pressione sanguigna è normale</string>
+    <string name="yanlisanlamatitle3tanim">La convinzione che l´ipertensione non sia importante in assenza di disturbi è estremamente sbagliata. È più pericoloso se l´ipertensione non provoca disturbi nel paziente. Poiché il paziente non ha lamentele, il paziente non nota l´ipertensione o non si sofferma sulla malattia. Anche se non provoca disturbi, la pressione alta è sempre pericolosa e provoca danni agli organi bersaglio come cuore, reni, occhi e cervello.</string>
+    <string name="yanlisanlamatitle4">Il cibo senza sale non ha alcun sapore.</string>
+    <string name="yanlisanlamatitle4tanim">La soglia del sale dei corpi sensibili al sale nella lingua delle persone che mangiano costantemente cibi salati o aggiungono sale ai loro pasti aumenta, e percepiscono anche i normali pasti salati come non salati. Tuttavia, le papille gustative possono essere allenate: se mangi meno sale, dopo alcune settimane, il cibo ti sembrerà "normalmente salato". Anche i piatti "normali salati" vengono "troppo salati". Pertanto, le abitudini alimentari salate possono essere modificate. Inoltre, troppo sale maschera i diversi sapori nei piatti che non sono troppo dominanti. Mangiando meno sale, puoi percepire questi diversi sapori e ottenere più piacere dal mangiare.</string>
+    <string name="yanlisanlamatitle5">Soprattutto gli anziani dovrebbero stare attenti al sale.</string>
+    <string name="yanlisanlamatitle5tanim">Mangiare troppo sale può far aumentare la pressione sanguigna a persone di tutte le età. Oggi, l´incidenza della pressione alta (ipertensione) negli anni ´30 e ´40 è piuttosto alta.</string>
+    <string name="yanlisanlamatitle6">I sali costosi sono più salutari.</string>
+    <string name="yanlisanlamatitle6tanim">Il sale contiene cloruro di sodio (NaCl), ed è il sodio (Na) che aumenta la pressione sanguigna. Non importa da dove provenga il sale (mare, sottosuolo, ecc.) o come sia preparato (cristallo, polvere, grossolano). Dopo tutto, contengono tutti cloruro di sodio.</string>
+    <string name="yanlisanlamatitle7">Posso capire se la mia pressione sanguigna è alta.</string>
+    <string name="yanlisanlamatitle7tanim"> Molte persone con la pressione alta non si lamentano. Pertanto, non si può sapere se la pressione sanguigna è alta a meno che non venga misurata.</string>
+    <string name="yanlisanlamatitle8">Posso usare tutto il sale dietetico che voglio invece del sale normale.</string>
+    <string name="yanlisanlamatitle8tanim">I sali dietetici spesso contengono cloruro di potassio (KCl), che conferisce il sapore del sale. Altri possono anche aggiungere del sale normale. Il cloruro di potassio può essere dannoso nei pazienti con problemi renali. Pertanto, dovresti usare il sale nella dieta solo se il tuo medico lo consiglia.</string>
+    <string name="yanlisanlamatitle9">Il sale himalayano fa bene</string>
+    <string name="yanlisanlamatitle9tanim">Questo sale, che si dice sia salutare, contiene anche cloruro di sodio così come lo conosciamo.</string>
+
+
+
+    <string name="hpacil">In questo articolo, cercherò di darti informazioni sull´ipertensione, i sintomi dell´ipertensione, cosa fare in caso di ipertensione. Ho anche provato a scrivere cosa puoi fare con urgenza quando la pressione alta diventa pericolosa per la vita quando diventa troppo alta. Promemoria, numero di emergenza 112.</string>
+    <string name="hpacil1">Risposta di emergenza</string>
+    <string name="hpacil1tanim">Se la tua pressione sanguigna è o è stata superiore a 180 mm Hg o inferiore a 120 mm Hg, ma non ci sono segni di danni agli organi vitali, nessuno di questi sintomi dovrebbe essere presente, nausea e vomito, dolore toracico, mancanza di respiro, forte mal di schiena, debolezza, disturbi visivi, difficoltà a parlare, grave ansia, convulsioni, mancanza di risposta. Sei in questa classe. Forse il tuo medico potrebbe aver bisogno di apportare alcune modifiche ai tuoi farmaci. Tuttavia, potrebbe essere necessario essere trattati come ricoverati in ospedale. Anche se sei in questa classe, dovresti assolutamente andare in ospedale.</string>
+    <string name="hpacil2">Cure ospedaliere di emergenza</string>
+    <string name="hpacil2tanim">Se la tua pressione arteriosa, la pressione arteriosa sistolica è 180 o inferiore a 120 o superiore, e ci sono segni di danni agli organi vitali, anche uno solo di questi sintomi è sufficiente. Nausea e vomito, dolore toracico, mancanza di respiro, forte mal di schiena, debolezza, disturbi visivi, difficoltà a parlare, ansia grave, convulsioni, mancanza di risposta sono inclusi in questa classe e chiama immediatamente un´ambulanza.</string>
+    <string name="hpacil3">Devi misurare correttamente la tua pressione sanguigna.</string>
+    <string name="hpacil3tanim">Se il paziente non ha mal di testa o dolore toracico, dovresti assolutamente ripetere la misurazione più volte. A volte la misura sbagliata può essere fatta in fretta.</string>
+    <string name="hpacil4">Rimani calmo e tranquillizza il paziente e sbottona la camicia allentando la cravatta stretta o la cintura.</string>
+    <string name="hpacil4tanim">Se hai raggiunto valori di pressione diastolica alta 180 mm Hg o 120 mm Hg dopo aver ripetuto alcune volte, hai un problema. Per prima cosa devi calmare il paziente. Se c´è un ambiente teso, allontanare il paziente. Nel frattempo, è molto importante che tu mantenga la calma. Se il paziente è arrabbiato o molto turbato per qualcosa, puoi dire cose calmanti. Allenta tutti gli accessori attillati, come cinture e cravatte. Inoltre, allevia il paziente sbottonando alcuni bottoni della camicia.</string>
+    <string name="hpacil5">Fagli fare respiri profondi 6 volte in 30 secondi</string>
+    <string name="hpacil5tanim">Dopo l´allontanamento dall´ambiente, posizionare il paziente in un luogo fresco e confortevole e fargli fare 6 respiri profondi in 30 secondi. Gli esperimenti dimostrano che l´esercizio di respirazione profonda può abbassare la pressione alta fino a 10 punti. Il sistema autonomo inizia a funzionare nel sistema parasimpatico.</string>
+    <string name="hpacil6">Assicurati che il paziente prenda i farmaci per la pressione sanguigna che usa.</string>
+    <string name="hpacil6tanim">Se un paziente sta assumendo un farmaco per la pressione alta, fallo prendere. Se la pressione arteriosa del paziente è superiore a 140 90 (pressione arteriosa sistolica 140, pressione arteriosa diastolica 90) e se sono presenti sintomi come nausea e vomito, dolore toracico, mancanza di respiro, forte mal di schiena, debolezza, disturbi visivi, difficoltà a parlare, grave ansia, convulsioni, mancanza di risposta, prendere le medicine. dovrebbe prenderlo immediatamente e andare urgentemente all´ospedale.</string>
+    <string name="hpacil7">Cerca di contattare il medico del paziente.</string>
+    <string name="hpacil7tanim">Cerca di contattare rapidamente il medico del paziente per telefono e segui le sue indicazioni. In generale, i medici usano farmaci con 1 compressa orale di clonidina 75 mcg o captopril 25 mg per abbassare la pressione sanguigna. Viene messo sotto la lingua in modo che i farmaci con questo principio attivo possano agire più rapidamente. Se non sei un medico, non dare mai medicine al paziente secondo te.</string>
+    <string name="hpacil8">Porta il paziente in ospedale.</string>
+    <string name="hpacil8tanim">Nonostante il calmarsi e la pressione sanguigna in calo, il paziente dovrebbe assolutamente consultare immediatamente un medico.</string>
+    <string name="hpacil9">Controllo regolare</string>
+    <string name="hpacil9tanim">Prenditi cura della misurazione della pressione sanguigna a intervalli regolari, ti farà bene. </string>
+
+
+
+    <string name="hipoacil">Esistono metodi di trattamento che fanno bene alla pressione bassa. Per spiegare dal punto di vista medico, è correlato alla pressione esercitata dal sangue all´interno delle arterie. La bassa pressione sanguigna, che presenta sintomi come nausea e svenimento, è nota come un disturbo che possono manifestare individui di tutte le età. Si verifica in situazioni come stare in piedi a lungo e avere fame. Quindi, cosa è buono per abbassare la pressione sanguigna</string>
+    <string name="hipoacil1">Rimani idratato</string>
+    <string name="hipoacil1tanim">Cerca di bere da 8 a 10 bicchieri d´acqua al giorno. Distribuisci il consumo di acqua durante la giornata. Presta maggiore attenzione a questo, specialmente quando fa caldo. Il consumo di acqua aumenterà il volume del sangue e impedirà la caduta della pressione sanguigna.</string>
+    <string name="hipoacil2">Aumenta il consumo di sale</string>
+    <string name="hipoacil2tanim">È risaputo che la restrizione del sale è consigliata a chi ha la pressione alta; perché il sale provoca ritenzione idrica nel corpo, alzando la pressione sanguigna. È vero anche il contrario: le persone con pressione sanguigna bassa possono anche aumentare l´assunzione di sale, aumentando leggermente la pressione sanguigna. Normalmente, il consumo giornaliero raccomandato di sale è di 1 cucchiaino. In chi ha la pressione bassa, il consumo di sale dovrebbe essere aumentato a 2,5 o 3 cucchiaini al giorno, a seconda della necessità.</string>
+    <string name="hipoacil3">Usa meno alcol</string>
+    <string name="hipoacil3tanim">L´alcol abbassa la pressione sanguigna rilassando i vasi. Inoltre, alcuni alcoli disidratano il corpo poiché aumentano la produzione di urina. Pertanto, se consumi alcol, fai attenzione a limitare e porta molta acqua con te.</string>
+    <string name="hipoacil4">Evita il calore</string>
+    <string name="hipoacil4tanim">Tempo caldo, ambienti caldi come sauna hammam, doccia calda, come vestirsi molto calorosamente. Questi abbassano la pressione sanguigna rilassando le vene e causando anche la perdita di liquidi dal corpo attraverso il sudore.</string>
+    <string name="hipoacil5">Indossa calze a compressione</string>
+    <string name="hipoacil5tanim"> Queste calze, vendute in diverse pressioni e lunghezze a seconda delle esigenze, avvolgono strettamente le gambe e impediscono al sangue di ristagnare nelle gambe, facilitando così il ritorno del sangue al cuore. Puoi beneficiare molto, soprattutto quando sai che starai in piedi per molto tempo o se hai le vene varicose.</string>
+    <string name="hipoacil6">Alza la testata del tuo letto</string>
+    <string name="hipoacil6tanim">Alzare la testata del letto da 10 a 15 cm provoca un miglioramento di alcuni meccanismi complessi che influenzano il flusso sanguigno al cervello e ai reni, e migliora la pressione sanguigna bassa e i relativi disturbi. La cosa importante qui è sollevare non solo la testa, ma anche la parte superiore del busto.</string>
+    <string name="hipoacil7">Mangia spesso e poco a poco</string>
+    <string name="hipoacil7tanim">Mangiare grandi quantità di cibo devia il flusso sanguigno del corpo verso il tratto digestivo, abbassando la pressione sanguigna e riducendo il flusso sanguigno al cervello.</string>
+    <string name="hipoacil8">Raddrizza gradualmente</string>
+    <string name="hipoacil8tanim">Non avere fretta quando ti alzi dal letto o ti alzi dopo essere stato seduto a lungo. Concedi al corpo il tempo di regolare la tensione sedendosi prima, muovendo le gambe.</string>
+    <string name="hipoacil9">Contatta il medico</string>
+    <string name="hipoacil9tanim">Se i tuoi disturbi sono così gravi e frequenti da influenzare la tua vita quotidiana, se non riesci a farcela da solo, consulta un medico. Forse il tuo medico può aiutarti rilevando e trattando alcuni problemi come anemia, carenza di vitamine e minerali, disturbi ormonali. Oppure potresti trovare appropriato usare droghe o integratori che aumentano la pressione sanguigna.</string>
+
+
+    <string name="hiperetki">L´ipertensione può portare ad altri problemi vitali se non vengono prese precauzioni. Sebbene il pericolo sia così grande, non c´è abbastanza consapevolezza nella società contro l´ipertensione.</string>
+    <string name="hiperetki1">Relazione per attacco di cuore</string>
+    <string name="hiperetki1tanim">L´ipertensione incontrollata è uno dei fattori di rischio più importanti nel restringimento e nell´occlusione dei vasi coronarici che alimentano il muscolo cardiaco. In questo caso, dolore toracico, disagio al petto e mancanza di respiro, che si verificano a causa di un flusso sanguigno insufficiente ricco di ossigeno per nutrire il cuore, si distinguono come i sintomi più comuni di un infarto.</string>
+    <string name="hiperetki2">Colpo</string>
+    <string name="hiperetki2tanim">L´ipertensione incontrollata può danneggiare, restringere e rompere i vasi cerebrali. Inoltre, il coagulo, che è un fattore nella formazione dell´ipertensione, può anche portare all´ictus quando l´arteria cerebrale è bloccata.</string>
+    <string name="hiperetki3">Insufficienza cardiaca</string>
+    <string name="hiperetki3tanim">Quando c´è la pressione alta, il muscolo cardiaco si ispessisce per pompare il sangue in tutto il corpo. Nel corso del tempo, il muscolo cardiaco ispessito non può svolgere la sua funzione per pompare abbastanza sangue e si verifica un´insufficienza cardiaca.</string>
+    <string name="hiperetki4">Problemi di memoria</string>
+    <string name="hiperetki4tanim">Il danno causato dall´ipertensione ai vasi cerebrali influisce negativamente sulla memoria, sul pensiero e sulle capacità di parlare.</string>
+    <string name="hiperetki5">Associazione malattia renale</string>
+    <string name="hiperetki5tanim">La capacità dei reni di filtrare i rifiuti dal sangue; ha bisogno di vene sane per mantenere un regolare equilibrio di liquidi, ormoni, sali e acidi. Per questo motivo, l´interruzione di questo sistema dovuta all´ipertensione porta a varie malattie renali. Diventa anche più difficile per il corpo regolare la pressione sanguigna</string>
+    <string name="hiperetki6">Malattie vascolari periferiche</string>
+    <string name="hiperetki6tanim">Se il flusso sanguigno è compromesso a causa dell´arteriosclerosi nelle vene delle gambe, possono verificarsi dolore, crampi e intorpidimento ai piedi e alle gambe.</string>
+    <string name="hiperetki7">Ispessimento, restringimento dei vasi oculari</string>
+    <string name="hiperetki7tanim">Se la pressione alta non viene trattata, può danneggiare i delicati vasi che portano alla retina dell´occhio; Il risultato può causare problemi di vista a diversi livelli, fino alla perdita permanente della vista. La pressione sanguigna incontrollata, che provoca anche un ictus, può anche portare alla perdita della vista.</string>
+    <string name="hiperetki8">Disfunzioni sessuali</string>
+    <string name="hiperetki8tanim">Studi scientifici; rivela che la disfunzione sessuale è più comune sia negli uomini che nelle donne con ipertensione che nelle persone senza ipertensione.</string>
+    <string name="hiperetki9">Aneurisma aortico</string>
+    <string name="hiperetki9tanim">Come conseguenza dell´ipertensione dovuta all´ipertensione e all´indebolimento della parete del vaso nel tempo, può causare l´allargamento di una parte del vaso e il rigonfiamento, definito aneurisma. Sebbene un aneurisma possa formarsi nei vasi di tutto il corpo, spesso si trova nel vaso più grande del corpo, l´aorta, e può rompersi e causare emorragie pericolose per la vita.</string>
+
+
+
+    <string name="tanhata">Ci sono alcune regole da seguire prima e durante la misurazione della pressione sanguigna in modo che i valori della pressione sanguigna non siano sbagliati.</string>
+    <string name="tanhata1">Non parlare, ridere o fare rumore durante la misurazione della pressione sanguigna.</string>
+    <string name="tanhata1t"></string>
+    <string name="tanhata2">Non effettuare una misurazione della pressione sanguigna senza soddisfare le tue esigenze di toilette prima di misurare la pressione sanguigna.</string>
+    <string name="tanhata2t"></string>
+    <string name="tanhata3">Non misurare con vestiti attillati</string>
+    <string name="tanhata3t"></string>
+    <string name="tanhata4">La stanza non è né troppo calda né troppo fredda</string>
+    <string name="tanhata4t"></string>
+    <string name="tanhata5">I tuoi piedi devono essere ben saldi a terra</string>
+    <string name="tanhata5t"></string>
+    <string name="tanhata6"> Misura a braccio nudo.</string>
+    <string name="tanhata6t"></string>
+    <string name="tanhata7">Controlla la batteria del dispositivo</string>
+    <string name="tanhata7t"></string>
+    <string name="tanhata8">Non fumare durante la misurazione</string>
+    <string name="tanhata8t"></string>
+    <string name="tanhata9">Non muoverti troppo durante la misurazione</string>
+    <string name="tanhata9t"></string>
+
+
+
+    <string name="bpunder">La pressione sanguigna all´interno delle arterie è chiamata pressione sanguigna. Quando il muscolo capillare si contrae, il sangue viene pompato nelle arterie. La pressione misurata in questo momento è la pressione sistolica. Quando il muscolo cardiaco si rilassa, il sangue si ferma nella vena; la pressione misurata in questo momento è la pressione diastolica. Nella misurazione della pressione sanguigna, vengono controllate la pressione sanguigna sistolica (grande) e diastolica (piccola). La pressione alta si chiama ipertensione. La pressione sanguigna ideale può variare da persona a persona. In media, la pressione arteriosa sistolica tra 120 e 130 e la pressione arteriosa diastolica tra 70 e 90 è considerata normale. I valori pressori bassi nei giovani e nei bambini possono essere considerati normali. Esaminiamo ora questi valori.</string>
+    <string name="bpunder1">Ipotensione</string>
+    <string name="bpunder1t">L´ipotensione non causa alcun sintomo e non è discutibile a meno che non sia molto evidente. È considerato positivo perché riduce il rischio di malattie cardiovascolari. Un improvviso calo della pressione sanguigna può causare vertigini, debolezza e svenimento.</string>
+    <string name="bpunder2">Normale</string>
+    <string name="bpunder2t">La tua pressione sanguigna è ideale (Normale) se la tua pressione sanguigna sistolica è inferiore a 120 mmHg E la tua pressione sanguigna diastolica è inferiore a 80 mmHg. Se anche solo una delle tue pressioni sistoliche o diastoliche è al di sopra del limite, sei fuori dal range normale. Se la tua pressione arteriosa sistolica è normale ma la tua pressione arteriosa diastolica è superiore a 90 Hg, la chiamiamo ipertensione diastolica isolata (IDH).</string>
+    <string name="bpunder3">Aggiornato</string>
+    <string name="bpunder3t">Se la tua pressione sanguigna sistolica è compresa tra 120 e 129 mmHg e la tua pressione sanguigna diastolica è inferiore a 80 mmHg, sei nella categoria Pressione sanguigna elevata. Stabilisci abitudini sane in modo che la pressione sanguigna possa tornare alla normalità o non aumentare ulteriormente. Assicurati di eseguire la misurazione della pressione sanguigna e i controlli generali entro 3 6 mesi.</string>
+    <string name="bpunder4">Ipertensione Fase 1</string>
+    <string name="bpunder4t">Pressione sanguigna alta (iper) (Livello 1) viene menzionata se la tua pressione sanguigna sistolica è compresa tra 130 e 139 mmHg o la tua pressione sanguigna diastolica è compresa tra 80 e 89 mmHg. Puoi chiedere aiuto al tuo medico. Se il tuo rischio è inferiore al 10 percento, elimina le tue cattive abitudini e fai eseguire la misurazione della pressione sanguigna e i controlli generali ogni 3 o 6 mesi. Se il tuo rischio è superiore al 10 percento, dovresti chiedere il parere di un medico.</string>
+    <string name="bpunder5">Ipertensione Fase 2</string>
+    <string name="bpunder5t">Se la tua pressione sanguigna sistolica è maggiore o uguale a 140 mmHg, o se la tua pressione sanguigna diastolica è maggiore o uguale a 90 mmHg, rientri nella Pressione Sanguigna Alta (Iper) (Livello 2) ) categoria della pressione sanguigna.</string>
+    <string name="bpunder6">Crisi Ipertensiva</string>
+    <string name="bpunder6t">Se la tua pressione sanguigna sistolica è uguale o superiore a 180 mmHg, o se la tua pressione sanguigna diastolica è uguale o superiore a 180 mmHg, hai una crisi di ipertensione. Vai in ospedale immediatamente prima che i tuoi organi vengano danneggiati dall´ipertensione. Durante questo periodo, prova la tecnica di respirazione profonda 6 volte in 30 secondi.</string>
+    <string name="bpunder7">Pseudo tensione</string>
+    <string name="bpunder7t">Sono necessarie almeno tre misurazioni per poter dire se una persona ha la pressione alta. Decidere che il paziente ha la pressione alta con una singola misurazione è considerato una pseudo pressione sanguigna. La pressione sanguigna di una persona normale può variare durante il giorno. La tua pressione sanguigna potrebbe essere alta dopo aver camminato, corso, fatto esercizio fisico, mangiato.</string>
+    <string name="bpunder8">Pressione in gravidanza</string>
+    <string name="bpunder8t">La pressione sanguigna alta può essere vista in quasi una donna incinta su 10. L´ipertensione gestazionale dovrebbe essere studiata se è dovuta a gravidanza o preeclampsia e dovrebbe essere differenziata dall´ipertensione cronica. L´ipertensione gestazionale danneggia sia la madre che il bambino. L´ipertensione cronica nelle madri anziane e in sovrappeso può essere rilevata nella prima gravidanza. L´ipertensione gestazionale di solito si verifica dopo la seconda metà della gravidanza. Nell´ipertensione osservata nella preeclampsia, vi è perdita di proteine nelle urine. La preeclampsia causa anche edema, cefalea e disfunzione epatica. Pochi antipertensivi possono essere usati durante la gravidanza. L´ipertensione gestazionale può causare parto prematuro, ritardo della crescita nel bambino, danni cerebrali e danni alla placenta del bambino.</string>
+    <string name="bpunder9">Tensione degli occhi</string>
+    <string name="bpunder9t">Glaucoma è il nome medico della condizione, popolarmente nota come glaucoma. Il glaucoma è un danno al nervo ottico causato occasionalmente da un´eccessiva pressione oculare. Di conseguenza, la vista del paziente diminuisce gradualmente. Il glaucoma è più comune nelle persone di età superiore ai 40 anni e può essere genetico. La miopia è più a rischio. Il rischio di glaucoma è aumentato nelle persone con diabete e ipotiroidismo, che fanno uso di cortisone a lungo termine e in quelle con lesioni agli occhi.</string>
+
+    <string name="riskk">Ci sono molti fattori di rischio che possono predisporre allo sviluppo di ipertensione. Il rischio di sviluppare ipertensione aumenta con l´avanzare dell´età. Tra i fattori ritenuti rischiosi per lo sviluppo dell´ipertensione rientra anche la presenza di individui con ipertensione tra familiari e parenti. Oltre a queste situazioni, anche le persone in sovrappeso, che non svolgono attività fisica o fumano tabacco sono considerate nel gruppo considerato a rischio di sviluppare ipertensione. Le condizioni che possono causare un aumento della pressione sanguigna in una persona vengono esaminate in 2 gruppi come cause primarie e secondarie. La definizione di ipertensione primaria (primaria) è un termine usato quando non è possibile determinare la condizione che può causare ipertensione nella persona. L´ipertensione primaria tende a svilupparsi clinicamente gradualmente nel tempo. Il concetto di ipertensione secondaria (secondaria), d´altra parte, significa che l´ipertensione nella persona si verifica a causa di una determinata condizione di salute. A differenza dell´ipertensione primaria, la pressione alta, che si sviluppa in seguito a una causa, aumenta improvvisamente. L´ipertensione secondaria può verificarsi dopo vari disturbi e l´uso di determinati farmaci o sostanze. Di seguito sono riportati i fattori che possono causare ipertensione.</string>
+    <string name="risk1">Fattori genetici</string>
+    <string name="risk1t"></string>
+    <string name="risk2">Alto consumo di sale</string>
+    <string name="risk2t"></string>
+    <string name="risk3">Diabete, colesterolo</string>
+    <string name="risk3t"></string>
+    <string name="risk4">Pillole anticoncezionali, alcuni antidolorifici</string>
+    <string name="risk4t"></string>
+    <string name="risk5">Disordini alla tiroide</string>
+    <string name="risk5t"></string>
+    <string name="risk6">Stress, obesità</string>
+    <string name="risk6t"></string>
+    <string name="risk7">Malnutrizione di magnesio, potassio e calcio</string>
+    <string name="risk7t"></string>
+    <string name="risk8">Bassa attività fisica</string>
+    <string name="risk8t"></string>
+    <string name="risk9">Uso di sostanze proibite</string>
+    <string name="risk9t"></string>
+
+
+    <string name="faqq">La nostra app funge da strumento di monitoraggio e gestione dei dati per monitorare la tua pressione arteriosa e ti incoraggia a migliorare la tua salute con informazioni supportate dalla scienza. Poiché la tecnologia per misurare la pressione sanguigna con i telefoni cellulari è ancora in fase di sviluppo e non è pronta per l´uso clinico, la nostra applicazione non misura la pressione sanguigna, sotto la responsabilità dei nostri utenti.</string>
+    <string name="faq1">In realtà, nessuna app è stata certificata come uno strumento affidabile per la misurazione della PA.</string>
+    <string name="faq1t">La Food and Drug Administration (FDA) statunitense regola i dispositivi medici negli Stati Uniti, affermando che l´accuratezza delle misurazioni della pressione arteriosa delle app potrebbe essere messa in discussione. Pertanto, nessuna applicazione può fornire una misurazione della PA accurata e affidabile.</string>
+    <string name="faq2">In generale</string>
+    <string name="faq2t">Le app per la pressione sanguigna, disponibili per il download da Google Play e dall´App Store, utilizzano la torcia e la fotocamera del tuo telefono per creare un pulsossimetro grezzo in grado di rilevare alcune informazioni sul tuo sistema cardiovascolare.</string >
+    <string name="faq3">Comunque</string>
+    <string name="faq3t">Non è stato possibile dimostrare che le informazioni raccolte siano corrette o applicabili.</string>
+    <string name="faq4">Sono necessarie ulteriori ricerche per sviluppare e migliorare questa tecnologia.</string>
+    <string name="faq4t"></string>
+    <string name="faq5">Nessuna app può effettivamente misurare la tua pressione sanguigna.</string>
+    <string name="faq5t"></string>
+    <string name="faq6">Questa app:</string>
+    <string name="faq6t">Registrare e controllare regolarmente le tue letture può aiutare nella diagnosi precoce.</string>
+    <string name="faq7">Può monitorare il tuo trattamento</string>
+    <string name="faq7t"></string>
+    <string name="faq8">Crea grafica per te</string>
+    <string name="faq8t"></string>
+    <string name="faq9">Fornisce il supporto per la data</string>
+    <string name="faq9t"></string>
+
+
+
+    <string name="hipoad">Stai soffrendo di pressione bassa. Cambia la tua dieta e consulta il tuo medico se necessario per riportarla alla normalità.</string>
+    <string name="normalad">Nessun trattamento necessario. La tua pressione sanguigna è al massimo.</string>
+    <string name="yuksekad">La tua pressione sanguigna è un po´ alta. Per evitare l´ipertensione, è bene migliorare il proprio stile di vita e misurare regolarmente la pressione sanguigna.</string>
+    <string name="hiperonead">3 o più valori in questo intervallo indicano ipertensione. Prendi precauzioni per il tuo stile di vita e consulta il tuo medico per abbassare la pressione sanguigna.</string>
+    <string name="hipertwoad">Se i tuoi indicatori rimangono in questa fase, hai bisogno di farmaci per il tuo piano di trattamento della pressione sanguigna.</string>
+    <string name="tansifad">La tua pressione sanguigna è molto alta. Dovresti cercare assistenza medica di emergenza.</string>
+
+
+    <string name="heyy">Ehi per la tua salute, questa app è per te</string>
+    <string name="oy">Vota per noi</string>
+    <string name="ark">Condividi con gli amici</string>
+    <string name="geri">Feedback</string>
+    <string name="gizlilik">Informativa sulla privacy</string>
+    <string name="ayarlar">IMPOSTAZIONI</string>
+
+
+    <string name="anladım">HO CAPITO</string>
+    <string name="kategori">CATEGORIE</string>
+
+
+</resources>

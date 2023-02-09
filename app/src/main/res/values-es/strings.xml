@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Blood Pressure</string>
+    <string name="ana_giris">CASA</string>
+    <string name="tansiyonum">mi presión arterial</string>
+    <string name="en_son">ÚLTIMO</string>
+    <string name="buyuk_tansiyon">Sistólico</string>
+    <string name="kucuk_tansiyon">Diastólico</string>
+    <string name="nabiz">Legumbres</string>
+    <string name="tum_kayitlar">Registros</string>
+    <string name="ekle">Agregar</string>
+    <string name="ortalama">PROMEDIO</string>
+    <string name="tansiyon_bilgileri">Información sobre la presión arterial</string>
+    <string name="daha">Más</string>
+    <string name="izleyici">RASTREADOR</string>
+    <string name="kayitlar">Registros</string>
+    <string name="hipotansiyon">Hipotensión</string>
+    <string name="normal">Normal</string>
+    <string name="yüksek">Elevado</string>
+    <string name="hipertansiyonbirinciasama">Hipertensión. Nivel 1</string>
+    <string name="hipertansiyonikinciasama">Hipertensión. Nivel 2</string>
+    <string name="hipertansif">Hipertenso</string>
+    <string name="gecmis">Pasado</string>
+    <string name="hipertansiyonayonelikyasam">Efectos de la hipertensión que debe saber</string>
+    <string name="lifestyle">Remedios de estilo de vida para la hipertensión</string>
+    <string name="first_aid">Primeros auxilios para emergencias hipotensivas</string>
+    <string name="hypotension_diagons">Hipotensión Diagnóstico y Tratamiento Médico</string>
+    <string name="exercises">Ejercicios para controlar la hipertensión</string>
+    <string name="alltoknow">Todo lo que debe saber sobre la hipotensión</string>
+    <string name="medications">Medicamentos para la hipertensión</string>
+    <string name="Bp">BP malentendidos y mitos</string>
+    <string name="hypertension_types">Tipos de hipertensión y síntomas</string>
+    <string name="topmistakes">Principales errores al medir la PA</string>
+    <string name="first_aid_hypertensive">Primeros Auxilios para Emergencias Hipertensivas</string>
+    <string name="whoe_needs">Quién necesita la medición de la presión arterial en el hogar</string>
+    <string name="faq">Preguntas frecuentes: Por qué no proporcionar la medición de la PA en nuestra aplicación</string>
+    <string name="understanding">Comprender los números de BP</string>
+    <string name="master">Medición maestra de la PA en el hogar</string>
+    <string name="risk">Factores de riesgo para la hipertensión</string>
+    <string name="tarih">Fecha</string>
+    <string name="bilgiler">INFORMACIÓN Y CONOCIMIENTO </string>
+    <string name="tarihvesaat">Fecha y hora </string>
+    <string name="not">Nota </string>
+    <string name="kaydet">SALVAR </string>
+    <string name="yenirekor">Nuevo record</string>
+    <string name="bilgi">INFORMACIÓN </string>
+
+
+
+    <string name="hipertansiyon_egzersiz">Buscando formas libres de drogas para la prevención primaria, el tratamiento y el control de la hipertensión Entonces ha venido al lugar correcto. Este artículo presentará ejercicios físicos que ayudarán a reducir la presión arterial. Agréguelos a su rutina diaria y podrá ver la gran diferencia que hará. </string>
+    <string name="aerobik_egzersiz"> ejercicio aerobico</string>
+    <string name="aerobik_egzersiz_tanim">Como modalidad primaria en hipertensos; Se pueden usar ejercicios aeróbicos que involucren grandes grupos musculares, que puedan ser sostenidos y que sean rítmicos. Los ejercicios aeróbicos han sido durante mucho tiempo un método importante en la prevención y el tratamiento de enfermedades típicas como la diabetes mellitus no insulinodependiente, la hipertensión, las enfermedades cardíacas y la osteoporosis que se producen con el envejecimiento. Caminar, trotar y andar en bicicleta se han probado como ejercicios de resistencia. El factor que prolonga el tiempo de ejercicio es importante en las preferencias personales para la elección del ejercicio. Deben seleccionarse tipos de ejercicios que aseguren que la duración del ejercicio sea lo más larga posible. </string>
+    <string name="aerobik_egzersiz_nekadar">CUÁNTO ejercicio aeróbico necesitamos</string>
+    <string name="aerobik_egzersiz_nekadar_tanim">Se ha determinado que la frecuencia de ejercicio aeróbico entre 3 y 5 días a la semana es eficaz para reducir la presión arterial. En el número limitado de estudios que sugirieron 7 sesiones por semana, informaron que puede ser más efectivo que los estudios realizados con 3 sesiones por semana. En general, las personas con baja capacidad de ejercicio se benefician del ejercicio de baja intensidad y duración aplicado varias veces al día, mientras que las personas con alta capacidad de ejercicio se benefician del ejercicio continuo de 3 a 5 días a la semana. El Colegio Americano de Medicina Deportiva (ACSM) recomienda ejercicio aeróbico, preferiblemente todos los días de la semana</string>
+    <string name="aerobik_ornek_baslik">EJEMPLOS de actividad aeróbica que utiliza grandes grupos musculares</string>
+    <string name="aerobik_ornekler">. Subiendo escaleras. caminar . Correr . Bicicleta . natación . Bailar</string>
+    <string name="direnc"> Entrenamiento de resistencia </string>
+    <string name="direnc_tanim">Los ejercicios de fuerza (como el levantamiento de pesas) generalmente no se recomiendan para personas con hipertensión. Sin embargo, estos ejercicios son especialmente importantes en personas mayores, ya que la pérdida de masa muscular y la debilidad provocan un daño importante. Cuando se proporciona control de la presión arterial y se brinda una buena educación al paciente, se recomienda utilizar ejercicios de fortalecimiento junto con ejercicios aeróbicos que fortalecen la resistencia del sistema cardiovascular.</string>
+    <string name="direnc_onlem">MEDIDAS </string>
+    <string name="direnc_onlem_tanim">Los ejercicios de fuerza se aplican principalmente a los principales grupos musculares. Deben evitarse especialmente los ejercicios isométricos. Se debe seguir la postura de la persona y la cantidad de peso levantado. No debe contener la respiración durante los ejercicios. Se recomiendan ejercicios de fortalecimiento de repetición múltiple de baja resistencia. Mientras que el ACSM recomienda ejercicios de fortalecimiento para grandes grupos musculares 2 o 3 veces por semana, 3 series, 8 o 15 repeticiones que involucren 8,10 grupos musculares, para personas hipertensas de mediana edad; recomienda ejercicios de fortalecimiento para grandes grupos musculares 2 o 3 veces por semana, 1 serie, 8 o 15 repeticiones que involucran 8,10 grupos musculares. Las cargas se pueden aumentar gradualmente, comenzando con 40 a 60 por ciento de un peso de repetición máximo determinado (intensidad moderada). El aumento de la fuerza muscular puede aumentar la capacidad de muchas personas para realizar actividades como subir escaleras y caminar. </string>
+    <string name="ekipman">EJEMPLOS de entrenamiento de resistencia con equipo </string>
+    <string name="ekipman_ornekler">. Prensa de pecho. Presión del hombro. Extensión de tríceps. Curl de bíceps. Jálalo hacia abajo. Extensión de la espalda baja. lanzadera . Curl de piernas .Movimiento de construcción de músculos de la pantorrilla </string>
+    <string name="esneklik"> entrenamiento de flexibilidad</string>
+    <string name="essnekliktanim">Simples ejercicios de flexibilidad o estiramientos son beneficiosos para los hipertensos. Cuando estira los músculos y las articulaciones, en realidad estira los vasos sanguíneos y las arterias y reduce el flujo sanguíneo y la rigidez. Es hora de agregar estiramientos a tu rutina de ejercicios.</string>
+    <string name="esneklikkactane">Cuántos entrenamientos de flexibilidad necesitamos</string>
+    <string name="esneklikkactanetanim">Según la investigación, hacerlo de 2 a 5 días a la semana puede reducir la presión arterial. Mientras tanto, es importante mantener cada ejercicio entre 10 y 30 segundos para asegurar ganancias.</string>
+    <string name="esneklikornekbaslik">EJEMPLOS estiramientos de flexibilidad</string>
+    <string name="esneklikornek">. yoga pilates</string>
+
+
+
+    <string name="hipertansiyongiris">La lucha contra la calidad silenciosa es un compromiso de por vida. No confíes solo en las drogas y haz algunos cambios para salvar tu corazón. Si sigue el estilo de vida saludable para el corazón que se describe en este artículo, puede recuperar sus números donde deberían estar. Tomemos medidas para bajar la presión arterial y mejorar la vida diaria.</string>
+    <string name="title1">Estrés psicológico y técnicas de relajación.</string>
+    <string name="title1tanim">El estrés emocional puede provocar una elevación aguda de la presión arterial. Los enfoques cognitivos y conductuales, como la biología y la retroalimentación, el yoga, la meditación trascendental y la psicoterapia, pueden proporcionar una reducción a corto y largo plazo de la presión arterial. Sin embargo, se desconocen los efectos beneficiosos a largo plazo de estos métodos. Un estudio ha demostrado que la terapia de prevención del estrés no es eficaz para prevenir la hipertensión. No hay evidencia que sugiera que los sedantes y tranquilizantes reduzcan la presión arterial.</string>
+    <string name="title2"> Actividad física</string>
+    <string name="title2tanim">El riesgo de desarrollar hipertensión en personas que llevan una vida sedentaria es entre un 20 y un 50 por ciento mayor que aquellas que realizan actividad física regular. En los hipertensos que realizan ejercicio aeróbico (isotónico) regular, hay una disminución de la presión arterial sistólica de 4 a 8 mmHg. Pacientes hipertensos por lo menos 3 a 4 veces por semana para alcanzar 60 a 70 por ciento de la frecuencia cardíaca objetivo durante 30 a 45 minutos. Deben dar caminatas rápidas. Este tipo de ejercicio es más efectivo que correr o trotar. Los ejercicios isométricos no son aptos para hipertensos. El uso de medicamentos antihipertensivos no está contraindicado para ejercicios isotónicos. Para aquellos que usan bloqueadores beta, alcanzar el 50 por ciento de la frecuencia cardíaca objetivo puede ser suficiente. La rigidez arterial disminuye en quienes realizan ejercicio aeróbico regular, mientras que la distensibilidad arterial sistémica total, la secreción de EDRF y la sensibilidad a la insulina aumentan. Estos mecanismos juegan un papel en la reducción de la presión arterial.</string>
+    <string name="title3">consumo de alcohol</string>
+    <string name="title3tanim">La prevalencia de hipertensión es alta en personas cuya cantidad de alcohol etílico supera los 28 a 55 g por día. Estos incluyen elevaciones agudas de la presión arterial. En estas personas, el alcohol reduce el efecto de los medicamentos antihipertensivos y aumenta el riesgo de accidente cerebrovascular. La presión arterial alta puede detectarse al comienzo de la semana debido al abandono agudo del alcohol en bebedores empedernidos (5 o más dobles) durante el fin de semana. Pequeñas cantidades de consumo diario de alcohol se asocian con una menor mortalidad y morbilidad por enfermedad de las arterias coronarias que ningún o más consumo de alcohol. El consumo de alcohol debe limitarse a 60 ml de whisky, 300 ml de vino o 720 ml de cerveza al día. Dado que el efecto del alcohol puede ser mayor en personas delgadas, las mujeres deben consumir menos alcohol que los valores especificados, ya que la absorción de alcohol etílico es mayor en mujeres que en hombres.</string>
+    <string name="title4">Ingesta de magnesio</string>
+    <string name="title4tanim">Los estudios muestran una alta prevalencia de hipertensión en personas con una dieta baja en magnesio. Sin embargo, esta relación no está en un nivel que requiera la ingesta de magnesio para bajar la presión arterial. El 50 por ciento de los hipertensos que reciben terapia diurética crónica tienen niveles bajos de magnesio muscular. La deficiencia de magnesio también es responsable de la hipopotasemia que no mejora con la suplementación con potasio. En estos pacientes, la administración diaria de 15 mmol Mg puede disminuir la presión arterial, ayudar a mejorar la hipopotasemia y afectar positivamente el metabolismo de la glucosa.</string>
+    <string name="title5">Ingesta de calcio</string>
+    <string name="title5tanim">Estudios epidemiológicos han mostrado resultados contradictorios sobre la relación entre el nivel de presión arterial y la ingesta de calcio en la dieta. Cuando se administra 1 g de calcio por día, provoca una disminución mínima en la presión arterial sistólica y la presión arterial diastólica no cambia. Sin embargo, este efecto no requiere un aumento en la ingesta de calcio para la prevención o el tratamiento de la hipertensión. El aumento de la ingesta de calcio aumenta aún más la hipercalciuria ya presente en la hipertensión, lo que puede provocar cálculos renales e infecciones del tracto urinario</string>
+    <string name="title6">Ingesta de potasio</string>
+    <string name="title6alim">Dieta, alrededor de 90 mmol de potasio por día de frutas y verduras frescas reduce la presión arterial en hipertensos. En ensayos clínicos controlados aleatorios, esta reducción fue de 4,4 mmHg en la presión arterial sistólica y de 2,4 mmHg en la presión arterial diastólica. El uso de citrato de potasio o bicarbonato de potasio proporciona una mayor reducción de la presión arterial que el cloruro de potasio. El efecto reductor de la presión arterial del potasio puede reducirse cuando se usa una dieta restringida en sodio. Se debe tener precaución en el uso de potasio en pacientes con insuficiencia renal que estén tomando inhibidores de la ECA o antagonistas de los receptores A II. Potasio; Provoca un aumento de la actividad del ATP Na y K vascular y la relajación vascular relacionada, una disminución de la resistencia vascular renal y un aumento de la tasa de filtración glomerular, y muestra su efecto reductor de la presión arterial por estos mecanismos.</string>
+    <string name="title7">Restricción de sal</string>
+    <string name="title7alim">Los términos sal y sodio no deben confundirse. El cloruro aumenta el efecto del sodio. El sodio se toma con alimentos, principalmente en forma de sal de mesa. Cuando el sodio se toma en otras formas (como el bicarbonato de sodio), el efecto de aumento de la presión arterial no es mucho. En estudios clínicos aleatorizados, cuando la ingesta de sodio se restringió a 80 a 100 mmol (4,7 a 5,8 g) por día en pacientes hipertensos, se observó una disminución de 4,8, 1 mmHg en la presión arterial sistólica y 2,5,0,7 mmHg en la presión arterial diastólica. observado (64). La restricción de sal debe aplicarse durante un promedio de 5 semanas para asegurar una presión arterial baja. Este efecto es más pronunciado en los ancianos hipertensos. Se debe recomendar a los pacientes que consuman menos de 100 mmol (5,8 g) de sodio por día o menos de 6 g de NaCl (sal) por día. Una porción significativa del sodio dietético proviene de los alimentos procesados. Deben evitarse tales alimentos y no deben usarse saleros en la mesa. La restricción de sodio aumenta el efecto de los fármacos antihipertensivos. Este efecto no se observa porque los bloqueadores de los canales de calcio tienen propiedades natriuréticas intrínsecas. Sin embargo, aumenta el efecto antiproteinúrico de los bloqueadores de los canales de calcio. La ingesta de 15 a 20 g de sal al día puede reducir el efecto antihipertensivo de los diuréticos. La restricción de sodio reduce la pérdida de potasio debido a los diuréticos, hace retroceder la hipertrofia ventricular izquierda, protege contra la osteoporosis y relaja los músculos lisos vasculares y bronquiales. Si la restricción de sodio está por debajo de 10 a 20 mmol por día, hay un aumento de las catecolaminas, LDL y triglicéridos plasmáticos, y resistencia a la insulina.</string>
+    <string name="title8">Dejar de fumar</string>
+    <string name="title8alim">15 a 30 minutos después de cada cigarrillo. elevación aguda de la presión arterial. Aunque no es detectable en la práctica clínica, se han demostrado elevaciones en las mediciones de presión arterial ambulatoria de 24 horas. El tabaquismo es un factor que aumenta de 2 a 3 veces el riesgo cardiovascular. Los efectos positivos cardiovasculares se ven dentro de un año de dejar de fumar tabaco. Fumar altera el perfil lipídico, aumenta la resistencia a la insulina, aumenta la masa del ventrículo izquierdo y disminuye la vasodilatación arterial dependiente del endotelio. No hay estudios que demuestren que dejar de fumar por sí solo reduzca la presión arterial. Sin embargo, dejar de fumar es necesario para prevenir la resistencia a la terapia con medicamentos en la hipertensión y para reducir el riesgo cardiovascular. Los parches de nicotina no aumentan la presión arterial y pueden usarse para dejar de fumar. Se desconoce el efecto del aerosol nasal de nicotina sobre la presión arterial.</string>
+    <string name="title9">Obesidad</string>
+    <string name="title9alim">Existe una correlación entre un índice de masa corporal (IMC) de 27 o más y la presión arterial alta. Los hipertensos obesos tienen mayor incidencia de dislipemia, resistencia a la insulina, eventos cardiovasculares y diabetes mellitus. La pérdida de peso de 5 kg conduce inicialmente a una reducción significativa de la presión arterial en la mayoría de los pacientes hipertensos. En estudios clínicos controlados, se ha demostrado que 1 kg de pérdida de peso proporciona reducciones de 1,6 mmHg y 1,3 mmHg en la presión arterial sistólica y diastólica. Si se aplica ejercicio físico en conjunto, la disminución de la presión arterial aumenta. Deben evitarse los anoréticos, ya que pueden elevar la presión arterial y causar hipertensión pulmonar. Con la pérdida de peso, se puede reducir el número y la dosis de medicamentos antihipertensivos. Se ha demostrado mediante el control ambulatorio de la presión arterial que una dieta rica en frutas, verduras, aceite de pescado y alimentos fibrosos puede reducir 4,5 mmHg en la presión arterial sistólica y 2,7 mmHg en la presión arterial diastólica. La pérdida de peso provoca inicialmente natriuresis intensa y luego disminuye la presión arterial con una disminución de la actividad simpática y una mejora en la sensibilidad a la insulina, lo que lleva a una presión arterial baja a largo plazo.</string>
+
+
+
+    <string name="yanlisanlama">Puede escuchar todo tipo de mitos sobre la presión arterial. Creer estos mitos realmente puede socavar el control de su presión arterial e incluso empeorar su condición. A continuación se presentan 9 conceptos erróneos comunes sobre la presión arterial. Mira lo siguiente y no te lo creas.</string>
+    <string name="yanlisanlamatitle1">Si la presión arterial aumenta repentinamente, debe reducirse a la normalidad.</string>
+    <string name="yanlisanlamatitle1tanim">Reducir la presión arterial en poco tiempo (con medicamentos intravenosos o algunos medicamentos sublinguales) es extremadamente dañino, especialmente en los ancianos, excepto en algunos casos especiales. Causa serios problemas al interrumpir el flujo de sangre al cerebro. En tales casos, consulte a su médico.</string>
+    <string name="yanlisanlamatitle2">Sin hipertensión en jóvenes</string>
+    <string name="yanlisanlamatitle2tanim">La hipertensión puede ocurrir a cualquier edad y es peligrosa a cualquier edad.</string>
+    <string name="yanlisanlamatitle3">No tengo quejas por lo que mi presión arterial es normal.</string>
+    <string name="yanlisanlamatitle3tanim">La creencia de que la presión arterial alta no es importante en ausencia de molestias es extremadamente errónea. Es más peligroso si la presión arterial alta no causa quejas en el paciente. Debido a que el paciente no tiene ninguna queja, el paciente no nota la presión arterial alta o no se detiene en la enfermedad. Incluso si no causa molestias, la presión arterial alta siempre es peligrosa y causa daño a los órganos diana como el corazón, los riñones, los ojos y el cerebro.</string>
+    <string name="yanlisanlamatitle4">La comida sin sal no tiene ningún sabor.</string>
+    <string name="yanlisanlamatitle4tanim">El umbral de sal de los cuerpos sensibles a la sal en la lengua de las personas que constantemente comen alimentos salados o agregan sal a sus comidas aumenta, y perciben incluso las comidas saladas normales como sin sal. Sin embargo, las papilas gustativas se pueden entrenar: si come menos sal, después de algunas semanas, la comida le sabrá "normalmente salada". Incluso los platos "salados normales" vienen "demasiado salados". Por lo tanto, los hábitos de comida salada se pueden cambiar. Además, demasiada sal enmascara los diferentes sabores en los platos que no son demasiado dominantes. Al comer menos sal, puede percibir estos diferentes sabores y obtener más placer al comer.</string>
+    <string name="yanlisanlamatitle5">Especialmente las personas mayores deben tener cuidado con la sal.</string>
+    <string name="yanlisanlamatitle5tanim">Comer demasiada sal puede aumentar la presión arterial en personas de todas las edades. Hoy en día, la incidencia de presión arterial alta (hipertensión) en los 30 y 40 años es bastante alta.</string>
+    <string name="yanlisanlamatitle6">Las sales caras son más saludables.</string>
+    <string name="yanlisanlamatitle6tanim">La sal contiene cloruro de sodio (NaCl), y es el sodio (Na) el que eleva la presión arterial. No importa de dónde venga la sal (mar, subterránea, etc.) ni cómo se prepare (cristal, polvo, gruesa). Después de todo, todos contienen cloruro de sodio.</string>
+    <string name="yanlisanlamatitle7">Puedo entender si mi presión arterial es alta.</string>
+    <string name="yanlisanlamatitle7tanim"> Muchas personas con presión arterial alta no se quejan. Por lo tanto, no se puede saber que la presión arterial es alta a menos que se mida.</string>
+    <string name="yanlisanlamatitle8">Puedo usar tanta sal dietética como quiera en lugar de sal normal.</string>
+    <string name="yanlisanlamatitle8tanim">Las sales dietéticas a menudo contienen cloruro de potasio (KCl), que le da sabor a la sal. A otros también se les puede agregar un poco de sal regular. El cloruro de potasio puede ser dañino en pacientes renales. Por lo tanto, debe usar sal dietética solo si su médico lo recomienda.</string>
+    <string name="yanlisanlamatitle9">La sal del Himalaya es saludable</string>
+    <string name="yanlisanlamatitle9tanim">Esta sal, que se dice que es saludable, también contiene cloruro de sodio tal como lo conocemos.</string>
+
+
+
+    <string name="hpacil">En este artículo, intentaré brindarle información sobre la presión arterial alta, los síntomas de la presión arterial alta, qué hacer en la presión arterial alta. También traté de escribir lo que puede hacer con urgencia cuando la presión arterial alta se convierte en una amenaza para la vida cuando sube demasiado. Recordatorio, Número de emergencia 112.</string>
+    <string name="hpacil1">Respuesta de emergencia</string>
+    <string name="hpacil1tanim">Si su presión arterial es o ha sido mayor a 180 mm Hg o menor a 120 mm Hg, pero no hay signos de daño a los órganos vitales, ninguno de estos síntomas debe estar presente, náuseas y vómitos, dolor de pecho, dificultad para respirar, dolor de espalda severo, debilidad, alteraciones visuales, dificultad para hablar, ansiedad severa, convulsiones, falta de respuesta. Estás en esta clase. Tal vez su médico necesite hacer algunos ajustes a sus medicamentos. Sin embargo, es posible que deba ser tratado como un paciente internado en el hospital. Incluso si estás en esta clase, definitivamente deberías ir al hospital.</string>
+    <string name="hpacil2">Atención hospitalaria de emergencia</string>
+    <string name="hpacil2tanim">Si su presión arterial, la presión arterial sistólica es de 180 o menos de 120 o superior, y hay signos de daño en los órganos vitales, incluso uno de estos síntomas es suficiente. Las náuseas y los vómitos, el dolor de pecho, la dificultad para respirar, el dolor de espalda intenso, la debilidad, los trastornos visuales, la dificultad para hablar, la ansiedad intensa, las convulsiones y la falta de respuesta se incluyen en esta clase y llame a una ambulancia de inmediato.</string>
+    <string name="hpacil3">Debes medir tu presión arterial correctamente.</string>
+    <string name="hpacil3tanim">Si el paciente no tiene dolor de cabeza o dolor en el pecho, definitivamente debe repetir la medición varias veces. A veces se puede hacer una medición incorrecta con prisa.</string>
+    <string name="hpacil4">Mantenga la calma y calme al paciente y desabroche la camisa aflojando la corbata o el cinturón apretados.</string>
+    <string name="hpacil4tanim">Si ha alcanzado valores de presión arterial alta de 180 mm Hg o diastólica de 120 mm Hg después de repetir varias veces, tiene un problema. Primero necesitas calmar al paciente. Si hay un ambiente tenso, aleje al paciente. Mientras tanto, es muy importante que mantengas la calma. Si el paciente está enojado o muy molesto por algo, puede decirle cosas que lo tranquilicen. Afloje cualquier accesorio que le quede apretado, como cinturones y corbatas. Además, alivie al paciente desabrochando algunos de los botones de la camisa.</string>
+    <string name="hpacil5">Pídale que respire profundamente 6 veces en 30 segundos.</string>
+    <string name="hpacil5tanim">Después de retirarlo del ambiente, coloque al paciente en un lugar fresco y cómodo y déjelo realizar 6 respiraciones profundas en 30 segundos. Los experimentos muestran que el ejercicio de respiración profunda puede reducir la presión arterial alta hasta en 10 puntos. El sistema autónomo comienza a trabajar en el sistema parasimpático.</string>
+    <string name="hpacil6">Asegúrese de que el paciente tome el medicamento para la presión arterial que usa.</string>
+    <string name="hpacil6tanim">Si un paciente está tomando un medicamento para la presión arterial alta, pídale que lo tome. Si la presión arterial del paciente está por encima de 140 a 90 (presión arterial sistólica 140, presión arterial diastólica 90) y si hay síntomas como náuseas y vómitos, dolor en el pecho, dificultad para respirar, dolor de espalda intenso, debilidad, alteraciones visuales, dificultad para hablar, ansiedad severa, convulsiones, falta de respuesta, tome su medicación. debe tomarlo de inmediato e ir al hospital con urgencia.</string>
+    <string name="hpacil7">Trate de comunicarse con el médico del paciente.</string>
+    <string name="hpacil7tanim">Trate de comunicarse rápidamente con el médico del paciente por teléfono y siga sus instrucciones. En general, los médicos usan medicamentos con 1 tableta de Clonidine (Clonidina) oral de 75 mcg o Kaptopril (Captopril) de 25 mg para bajar la presión arterial. Se coloca debajo de la lengua para que los medicamentos con este ingrediente activo puedan hacer efecto más rápidamente. Si no eres médico, nunca le des medicina al paciente según tú mismo.</string>
+    <string name="hpacil8">Llevar al paciente al hospital.</string>
+    <string name="hpacil8tanim">A pesar de la calma y la caída de la presión arterial, el paciente definitivamente debe ver a un médico de inmediato.</string>
+    <string name="hpacil9">chequeo regular</string>
+    <string name="hpacil9tanim">Cuide la medición de la presión arterial a intervalos regulares, será bueno para usted. </string>
+
+
+
+    <string name="hipoacil">Existen métodos de tratamiento que son buenos para la presión arterial baja. Para explicarlo médicamente, está relacionado con la presión que ejerce la sangre en el interior de las arterias. La presión arterial baja, que tiene síntomas como náuseas y desmayos, se conoce como un trastorno que pueden experimentar personas de todas las edades. Ocurre en situaciones como estar de pie por mucho tiempo y tener hambre. Entonces, ¿qué es bueno para bajar la presión arterial</string>
+    <string name="hipoacil1">Mantente hidratado</string>
+    <string name="hipoacil1tanim">Trate de beber de 8 a 10 vasos de agua al día. Reparte tu consumo de agua a lo largo del día. Preste más atención a esto, especialmente en climas cálidos. El consumo de agua aumentará el volumen de sangre y evitará que la presión arterial baje.</string>
+    <string name="hipoacil2">Aumentar el consumo de sal</string>
+    <string name="hipoacil2tanim">Es bien sabido que la restricción de sal se recomienda para las personas con presión arterial alta; porque la sal provoca retención de agua en el cuerpo, elevando la presión arterial. Lo contrario también es cierto: las personas con presión arterial baja también pueden aumentar su consumo de sal, lo que hace que su presión arterial sea ligeramente más alta. Normalmente, el consumo diario recomendado de sal es de 1 cucharadita. En aquellos con presión arterial baja, se debe aumentar el consumo de sal a 2,5 o 3 cucharaditas por día, según la necesidad.</string>
+    <string name="hipoacil3">Usa menos alcohol</string>
+    <string name="hipoacil3tanim">El alcohol bajará la presión arterial ya que relaja los vasos. Además, algunos alcoholes deshidratan el cuerpo a medida que aumentan la producción de orina. Por lo tanto, si consume alcohol, tenga cuidado de limitarse y llevar mucha agua con usted.</string>
+    <string name="hipoacil4">Evite el calor</string>
+    <string name="hipoacil4tanim">Clima cálido, ambientes calurosos como sauna hammam, ducha caliente, como vestirse muy abrigado. Estos reducen la presión arterial al relajar las venas y también provocan la pérdida de líquidos del cuerpo a través del sudor.</string>
+    <string name="hipoacil5">Usa medias de compresión</string>
+    <string name="hipoacil5tanim"> Estas medias, que se venden en diferentes presiones y largos según las necesidades, envuelven bien las piernas y evitan que la sangre se acumule en las piernas, facilitando así el retorno de la sangre al corazón. Puedes beneficiarte mucho, especialmente cuando sabes que estarás de pie por mucho tiempo o si tienes venas varicosas.</string>
+    <string name="hipoacil6">Levanta la cabecera de tu cama</string>
+    <string name="hipoacil6tanim">Elevar la cabecera de la cama de 10 a 15 cm provoca algunos mecanismos complejos que afectan el flujo sanguíneo al cerebro y los riñones, y mejora la presión arterial baja y las molestias relacionadas. Lo importante aquí es levantar no solo la cabeza, sino también la parte superior del torso.</string>
+    <string name="hipoacil7">Come a menudo y poco a poco</string>
+    <string name="hipoacil7tanim">Comer grandes cantidades de alimentos desvía el flujo de sangre del cuerpo hacia el tracto digestivo, lo que reduce la presión arterial y reduce el flujo de sangre al cerebro.</string>
+    <string name="hipoacil8">Enderézate poco a poco</string>
+    <string name="hipoacil8tanim">No tengas prisa al levantarte de la cama o levantarte después de estar mucho tiempo sentado. Permita tiempo para que el cuerpo regule la tensión sentándose primero, moviendo las piernas.</string>
+    <string name="hipoacil9">contacto médico</string>
+    <string name="hipoacil9tanim">Si sus quejas son tan graves y frecuentes que afectan su vida diaria, si no puede hacer frente por sí mismo, consulte a un médico. Tal vez su médico pueda ayudarlo detectando y tratando algunos problemas como anemia, deficiencia de vitaminas y minerales, trastornos hormonales. O puede que le resulte apropiado usar medicamentos o suplementos que aumenten la presión arterial.</string>
+
+
+
+    <string name="hiperetki">La hipertensión puede provocar otros problemas vitales si no se toman precauciones. Aunque el peligro es tan grande, no hay suficiente conciencia en la sociedad contra la hipertensión.</string>
+    <string name="hiperetki1">Relación de infarto</string>
+    <string name="hiperetki1tanim">La hipertensión no controlada es uno de los factores de riesgo más importantes en el estrechamiento y oclusión de los vasos coronarios que alimentan el músculo cardíaco. En este caso, el dolor torácico, las molestias en el pecho y la dificultad para respirar, que se producen como consecuencia de un flujo insuficiente de sangre rica en oxígeno para alimentar el corazón, destacan como los síntomas más comunes de un infarto.</string>
+    <string name="hiperetki2">Carrera</string>
+    <string name="hiperetki2tanim">La presión arterial alta no controlada puede causar que los vasos cerebrales se dañen, se estrechen y se agrieten. Además, el coágulo, que es un factor en la formación de presión arterial alta, también puede provocar un derrame cerebral cuando la arteria cerebral está bloqueada.</string>
+    <string name="hiperetki3">Insuficiencia cardiaca</string>
+    <string name="hiperetki3tanim">Cuando hay presión arterial alta, el músculo cardíaco se engrosa para bombear sangre por todo el cuerpo. Con el tiempo, el músculo cardíaco engrosado no puede realizar su función de bombear suficiente sangre y se produce una insuficiencia cardíaca.</string>
+    <string name="hiperetki4">Problemas de memoria</string>
+    <string name="hiperetki4tanim">El daño causado por la presión arterial alta en los vasos cerebrales afecta negativamente la memoria, el pensamiento y las habilidades del habla.</string>
+    <string name="hiperetki5">Asociación de enfermedades renales</string>
+    <string name="hiperetki5tanim">La capacidad de los riñones para filtrar los desechos de la sangre; necesita venas sanas para mantener un equilibrio regular de líquidos, hormonas, sal y ácido. Por esta razón, la interrupción de este sistema debido a la presión arterial alta conduce a diversas enfermedades renales. También cada vez es más difícil para el cuerpo regular la presión arterial</string>
+    <string name="hiperetki6">Enfermedades vasculares periféricas</string>
+    <string name="hiperetki6tanim">Si el flujo de sangre se ve afectado como resultado de la arteriosclerosis en las venas de las piernas, se pueden producir dolor, calambres y entumecimiento en los pies y las piernas.</string>
+    <string name="hiperetki7">Engrosamiento, estrechamiento de los vasos oculares</string>
+    <string name="hiperetki7tanim">Si la presión arterial alta no se trata, puede dañar los delicados vasos que van a la retina del ojo; El resultado puede causar problemas de visión a diferentes niveles, hasta la pérdida permanente de la visión. La presión arterial no controlada, que también provoca un derrame cerebral, también puede conducir a la pérdida de la visión.</string>
+    <string name="hiperetki8">disfunciones sexuales</string>
+    <string name="hiperetki8tanim">Estudios científicos; revela que la disfunción sexual es más común tanto en hombres como en mujeres con presión arterial alta que en personas sin hipertensión.</string>
+    <string name="hiperetki9">Aneurisma aortico</string>
+    <string name="hiperetki9tanim">Como resultado de la presión arterial alta debido a la hipertensión y el debilitamiento de la pared del vaso con el tiempo, puede causar agrandamiento en una parte del vaso y distensión, lo que se define como un aneurisma. Aunque un aneurisma puede formarse en los vasos de todo el cuerpo, a menudo se encuentra en el vaso más grande del cuerpo, la aorta, y puede romperse y causar una hemorragia potencialmente mortal.</string>
+
+
+    <string name="tanhata">Hay algunas reglas a seguir antes y durante la medición de la presión arterial para que los valores de la presión arterial no sean incorrectos.</string>
+    <string name="tanhata1">No hable, ría ni haga ruido durante la medición de la presión arterial.</string>
+    <string name="tanhata1t"></string>
+    <string name="tanhata2">No tome una medición de la presión arterial sin satisfacer sus necesidades de aseo antes de medir la presión arterial.</string>
+    <string name="tanhata2t"></string>
+    <string name="tanhata3">No medir con ropa ajustada</string>
+    <string name="tanhata3t"></string>
+    <string name="tanhata4">La habitación no está demasiado caliente ni demasiado fría.</string>
+    <string name="tanhata4t"></string>
+    <string name="tanhata5">Tus pies deben estar firmemente en el suelo.</string>
+    <string name="tanhata5t"></string>
+    <string name="tanhata6"> Medir con el brazo desnudo.</string>
+    <string name="tanhata6t"></string>
+    <string name="tanhata7">Comprobar la batería del dispositivo</string>
+    <string name="tanhata7t"></string>
+    <string name="tanhata8">No fume mientras mide</string>
+    <string name="tanhata8t"></string>
+    <string name="tanhata9">No se mueva demasiado al medir</string>
+    <string name="tanhata9t"></string>
+
+
+
+    <string name="bpunder">La presión sanguínea dentro de las arterias se llama presión arterial. Cuando el músculo capilar se contrae, la sangre se bombea hacia las arterias. La presión medida en este momento es la presión sistólica. Cuando el músculo cardíaco se relaja, la sangre se detiene en la vena; la presión medida en este momento es la presión diastólica. En la medición de la presión arterial, se controlan las presiones arteriales sistólica (grande) y diastólica (pequeña). La presión arterial alta se llama hipertensión. La presión arterial ideal puede variar de persona a persona. En promedio, la presión arterial sistólica entre 120 y 130 y la presión arterial diastólica entre 70 y 90 se considera normal. Los valores bajos de presión arterial en jóvenes y niños pueden considerarse normales. Examinemos estos valores ahora.</string>
+    <string name="bpunder1">Hipotensión</string>
+    <string name="bpunder1t">La hipotensión no causa ningún síntoma y no es objetable a menos que sea muy evidente. Se considera positivo porque reduce el riesgo de enfermedades cardiovasculares. Una caída repentina de la presión arterial puede causar mareos, debilidad y desmayos.</string>
+    <string name="bpunder2">Normal</string>
+    <string name="bpunder2t">Su presión arterial es ideal (normal) si su presión arterial sistólica es inferior a 120 mmHg Y su presión arterial diastólica es inferior a 80 mmHg. Si incluso uno de su presión arterial sistólica o diastólica está por encima del límite, está fuera del rango normal. Si su presión arterial sistólica es normal pero su presión arterial diastólica está por encima de 90 Hg, lo llamamos hipertensión diastólica aislada (HID).</string>
+    <string name="bpunder3">Actualizado</string>
+    <string name="bpunder3t">Si su presión arterial sistólica está entre 120 y 129 mmHg y su presión arterial diastólica es inferior a 80 mmHg, se encuentra en la categoría de presión arterial elevada. Establezca hábitos saludables para que su presión arterial pueda volver a la normalidad o no subir más. Asegúrese de hacerse la toma de presión arterial y los controles generales en un plazo de 3 a 6 meses.</string>
+    <string name="bpunder4">Hipertensión Etapa 1</string>
+    <string name="bpunder4t">La presión arterial alta (hiper) (nivel 1) se menciona si su presión arterial sistólica está entre 130 y 139 mmHg o su presión arterial diastólica está entre 80 y 89 mmHg. Puede pedir ayuda a su médico. Si tu riesgo es menor al 10 por ciento, deshazte de tus malos hábitos y hazte la toma de presión arterial y controles generales cada 3 o 6 meses. Si su riesgo es superior al 10 por ciento, debe obtener la opinión de un médico.</string>
+    <string name="bpunder5">Hipertensión Etapa 2</string>
+    <string name="bpunder5t">Si su presión arterial sistólica es mayor o igual a 140 mmHg, o si su presión arterial diastólica es mayor o igual a 90 mmHg, usted cae en la Presión Arterial Alta (Hiper) (Nivel 2 ) categoría de presión arterial.</string>
+    <string name="bpunder6">Crisis de hipertensión</string>
+    <string name="bpunder6t">Si su presión arterial sistólica es igual o superior a 180 mmHg, o si su presión arterial diastólica es igual o superior a 180 mmHg, tiene una crisis de hipertensión. Vaya al hospital inmediatamente antes de que sus órganos se dañen por la presión arterial alta. Durante este tiempo, prueba la técnica de respiración profunda 6 veces en 30 segundos.</string>
+    <string name="bpunder7">Pseudo tensión</string>
+    <string name="bpunder7t">Se necesitan al menos tres mediciones para saber si una persona tiene presión arterial alta. Decidir que el paciente tiene presión arterial alta con una sola medición se considera como pseudo presión arterial. La presión arterial de una persona normal puede fluctuar a lo largo del día. Su presión arterial puede ser alta después de caminar, correr, hacer ejercicio, comer.</string>
+    <string name="bpunder8">Presión arterial del embarazo</string>
+    <string name="bpunder8t">La presión arterial alta se puede ver en casi una de cada 10 mujeres embarazadas. La hipertensión gestacional debe investigarse si se debe al embarazo oa la preeclampsia y debe diferenciarse de la hipertensión crónica. La hipertensión gestacional daña tanto a la madre como al bebé. La hipertensión crónica en madres mayores y con sobrepeso puede detectarse en el primer embarazo. La hipertensión gestacional generalmente ocurre después de la segunda mitad del embarazo. En la hipertensión que se observa en la preeclampsia, hay pérdida de proteínas en la orina. La preeclampsia también causa edema, dolor de cabeza y disfunción hepática. Pocos antihipertensivos pueden usarse durante el embarazo. La hipertensión gestacional puede causar parto prematuro, retraso en el crecimiento del bebé, daño cerebral y daño a la placenta del bebé.</string>
+    <string name="bpunder9">Tensión ocular</string>
+    <string name="bpunder9t">Glaucoma es el nombre médico de la condición, conocida popularmente como glaucoma. El glaucoma es un daño al nervio óptico como resultado de una presión ocular excesiva de vez en cuando. Como resultado, la visión del paciente disminuye gradualmente. El glaucoma es más común en personas mayores de 40 años y puede ser genético. La miopía está más en riesgo. El riesgo de glaucoma aumenta en personas con diabetes e hipotiroidismo, uso prolongado de cortisona y personas con lesiones oculares.</string>
+
+
+    <string name="riskk">Hay muchos factores de riesgo que pueden predisponer al desarrollo de presión arterial alta. El riesgo de desarrollar hipertensión aumenta con la edad. La presencia de hipertensos entre familiares y parientes también está entre los factores considerados de riesgo para el desarrollo de hipertensión. Aparte de estas situaciones, las personas con sobrepeso, que no practican actividad física o fuman tabaco también se consideran dentro del grupo considerado de riesgo para el desarrollo de hipertensión arterial. Las condiciones que pueden causar un aumento de la presión arterial en una persona se examinan en 2 grupos como causas primarias y secundarias. La definición de hipertensión primaria (primaria) es un término que se usa cuando no se puede determinar la condición que puede causar presión arterial alta en la persona. La hipertensión primaria tiende a desarrollarse clínicamente gradualmente con el tiempo. El concepto de hipertensión secundaria (secundaria), por otro lado, significa que la presión arterial alta en la persona se produce como resultado de una determinada condición de salud. A diferencia de la hipertensión primaria, la presión arterial alta, que se desarrolla de forma secundaria a una causa, aumenta repentinamente. La hipertensión secundaria puede ocurrir después de varias dolencias y el uso de ciertas drogas o sustancias. A continuación se encuentran los factores que pueden causar hipertensión.</string>
+    <string name="risk1">Factores genéticos</string>
+    <string name="risk1t"></string>
+    <string name="risk2">Alto consumo de sal</string>
+    <string name="risk2t"></string>
+    <string name="risk3">diabetes, colesterol</string>
+    <string name="risk3t"></string>
+    <string name="risk4">Pastillas anticonceptivas, algunos analgésicos</string>
+    <string name="risk4t"></string>
+    <string name="risk5">Trastornos de la tiroides</string>
+    <string name="risk5t"></string>
+    <string name="risk6">estrés, obesidad</string>
+    <string name="risk6t"></string>
+    <string name="risk7">Desnutrición por magnesio, potasio y calcio</string>
+    <string name="risk7t"></string>
+    <string name="risk8">Baja actividad física</string>
+    <string name="risk8t"></string>
+    <string name="risk9">Uso de sustancias prohibidas</string>
+    <string name="risk9t"></string>
+
+
+    <string name="faqq">Nuestra aplicación sirve como una herramienta de control y gestión de datos para controlar su presión arterial y lo alienta a mejorar su salud con información respaldada por la ciencia. Dado que la tecnología para medir la presión arterial con teléfonos móviles aún se encuentra en etapa de desarrollo y no está lista para su uso clínico, nuestra aplicación no mide la presión arterial, bajo la responsabilidad de nuestros usuarios.</string>
+    <string name="faq1">En realidad, ninguna aplicación ha sido certificada como una herramienta confiable para medir la PA.</string>
+    <string name="faq1t">La Administración de Drogas y Alimentos de los EE. UU. (FDA) regula los dispositivos médicos en los Estados Unidos y afirma que la precisión de las mediciones de la presión arterial de la aplicación puede ser cuestionada. Por lo tanto, ninguna aplicación puede proporcionar una medición de PA precisa y confiable.</string>
+    <string name="faq2">Generalmente hablando</string>
+    <string name="faq2t">Las aplicaciones de presión arterial, disponibles para descargar desde Google Play y la tienda de aplicaciones, usan la linterna y la cámara de su teléfono para crear un oxímetro de pulso sin procesar que puede detectar cierta información sobre su sistema cardiovascular.</string >
+    <string name="faq3">Sin embargo</string>
+    <string name="faq3t">No se pudo probar que la información recopilada sea correcta o aplicable.</string>
+    <string name="faq4">Se necesita más investigación para desarrollar y mejorar esta tecnología.</string>
+    <string name="faq4t"></string>
+    <string name="faq5">Ninguna aplicación puede medir tu presión arterial.</string>
+    <string name="faq5t"></string>
+    <string name="faq6">Esta aplicación:</string>
+    <string name="faq6t">Registrar y verificar sus lecturas regularmente puede ayudar en la detección temprana.</string>
+    <string name="faq7">Puede hacer un seguimiento de su tratamiento</string>
+    <string name="faq7t"></string>
+    <string name="faq8">Crea gráficos para usted</string>
+    <string name="faq8t"></string>
+    <string name="faq9">Proporciona soporte de fecha</string>
+    <string name="faq9t"></string>
+
+
+
+
+    <string name="hipoad">Tiene presión arterial baja. Cambie su dieta y consulte a su médico si es necesario para que vuelva a la normalidad.</string>
+    <string name="normalad">No se necesita tratamiento. Tu presión arterial está en su mejor momento.</string>
+    <string name="yuksekad">Tu presión arterial está un poco alta. Para evitar la hipertensión, es bueno mejorar su estilo de vida y medir su presión arterial regularmente.</string>
+    <string name="hiperonead">3 o más valores en este rango indican hipertensión. Tome precauciones para su estilo de vida y consulte a su médico para bajar su presión arterial.</string>
+    <string name="hipertwoad">Si sus indicadores permanecen en esta etapa, necesita medicamentos para su plan de tratamiento de la presión arterial.</string>
+    <string name="tansifad">Su presión arterial está muy alta. Debe buscar atención médica de emergencia.</string>
+
+    <string name="heyy">Oye, por tu salud, esta aplicación es para ti</string>
+    <string name="oy">Vota por nosotros</string>
+    <string name="ark">Compartir con amigos</string>
+    <string name="geri">Comentarios</string>
+    <string name="gizlilik">Política de Privacidad</string>
+
+    <string name="ayarlar">AJUSTES</string>
+    <string name="anladım">ENTIENDO</string>
+    <string name="kategori">CATEGORÍAS</string>
+</resources>
