@@ -64,7 +64,7 @@ fun homeScreen(navController: NavController) {
         Text(
             text = stringResource(id = R.string.ana_giris),
             fontSize = 22.sp,
-            color = Color.Black,
+            color = MaterialTheme.colors.onSecondary,
             fontStyle = FontStyle(758),
             fontWeight = FontWeight.ExtraBold,
             modifier = Modifier.padding(start = 14.dp, top = 17.dp)
@@ -73,7 +73,7 @@ fun homeScreen(navController: NavController) {
         Text(
             text = stringResource(id = R.string.tansiyonum),
             fontSize = 17.sp,
-            color = Color.Black,
+            color = MaterialTheme.colors.onSecondary,
             fontWeight = FontWeight.ExtraBold,
             modifier = Modifier
                 .padding(start = 14.dp)
